@@ -1,0 +1,3 @@
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/mitthu786/tvepg/main/epg.xml.gz" url-tvg="https://raw.githubusercontent.com/mitthu786/tvepg/main/epg.xml.gz"
+#EXTINF:-1 tvg-id="ZeeAlwan.ae@SD" tvg-name="Zee Alwan" tvg-logo="https://i.imgur.com/OLuCox7.png" group-title="📽️ Series",Zee Alwan (576p) [Not 24/7]
+https://tgn.bozztv.com/gin-dvrfl05/ga-zeealwan/index.m3u8

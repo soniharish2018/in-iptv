@@ -1,0 +1,121 @@
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/mitthu786/tvepg/main/epg.xml.gz" url-tvg="https://raw.githubusercontent.com/mitthu786/tvepg/main/epg.xml.gz"
+#EXTINF:-1 tvg-id="CCV.in@SD" tvg-name="CCV" tvg-logo="https://i.imgur.com/4ss0KfA.png" group-title="📺 General",CCV (480p)
+https://5a1178b42cc03.streamlock.net/8212/8212/playlist.m3u8
+#EXTINF:-1 tvg-id="ColorsRishteyAmericas.in@SD" tvg-name="Colors Rishtey Americas" tvg-logo="https://i.imgur.com/xkOunuW.png" group-title="📺 General",Colors Rishtey Americas (396p)
+https://manatv.akamaized.net/090823/smil:ristheyamerica.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="701" tvg-name="Dangal TV" tvg-logo="https://dtil.tmsimg.com/assets/s142771_ld_h9_aa.png?lock=720x540" group-title="📺 General" iptv-org-id="DangalTV.in@SD",Dangal TV (720p)
+https://live-dangal.akamaized.net/liveabr/playlist.m3u8
+#EXTINF:-1 tvg-id="701" tvg-name="Dangal TV" tvg-logo="https://dtil.tmsimg.com/assets/s142771_ld_h9_aa.png?lock=720x540" group-title="📺 General" iptv-org-id="DangalTV.in@SD",Dangal TV (576p)
+https://streams.tangotv.in/DANGAL/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="701" tvg-name="Dangal TV" tvg-logo="https://dtil.tmsimg.com/assets/s142771_ld_h9_aa.png?lock=720x540" group-title="📺 General" iptv-org-id="DangalTV.in@SD",Dangal TV (576p)
+https://tvsen3.aynaott.com/qPNg4LJK/index.m3u8
+#EXTINF:-1 tvg-id="701" tvg-name="Dangal TV" tvg-logo="https://dtil.tmsimg.com/assets/s142771_ld_h9_aa.png?lock=720x540" group-title="📺 General" iptv-org-id="DangalTV.in@SD",Dangal TV (576p)
+http://107.167.16.138/dangal/index.m3u8?token=test
+#EXTINF:-1 tvg-id="701" tvg-name="Dangal TV" tvg-logo="https://dtil.tmsimg.com/assets/s142771_ld_h9_aa.png?lock=720x540" group-title="📺 General" iptv-org-id="DangalTV.in@SD",Dangal TV (576p)
+https://mumt04.tangotv.in/m18aqlK4DANGAL/index.m3u8
+#EXTINF:-1 tvg-id="1328" tvg-name="DD Arun Prabha" tvg-logo="https://dtil.tmsimg.com/assets/s142776_ld_h15_aa.png?lock=720x540" group-title="📺 General" iptv-org-id="DDArunPrabha.in@SD",DD Arun Prabha
+https://cdn.pishow.tv/ott/live/32/master.m3u8
+#EXTINF:-1 tvg-id="690" tvg-name="DD Bangla" tvg-logo="https://dtil.tmsimg.com/assets/s142778_ld_h15_aa.png?lock=720x540" group-title="📺 General" iptv-org-id="DDBangla.in@SD",DD Bangla
+https://cdn.pishow.tv/ott/live/37/master.m3u8
+#EXTINF:-1 tvg-id="539" tvg-name="DD Bihar" tvg-logo="https://dtil.tmsimg.com/assets/s142780_ld_h15_aa.png?lock=720x540" group-title="📺 General" iptv-org-id="DDBihar.in@SD",DD Bihar (576p)
+https://mumbai-edge.smartplaytv.in/ddbihar/index.m3u8
+#EXTINF:-1 tvg-id="713" tvg-name="DD Chandana" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_CHANDANA/images/LOGO_HD/image.png" group-title="📺 General" iptv-org-id="DDChandana.in@SD",DD Chandana
+https://cdn.pishow.tv/ott/live/28/master.m3u8
+#EXTINF:-1 tvg-id="528" tvg-name="DD India" tvg-logo="https://dtil.tmsimg.com/assets/s158251_ld_h15_aa.png?lock=720x540" group-title="📺 General" iptv-org-id="DDIndia.in@SD",DD India (720p)
+https://d2gvyg6lvauoko.cloudfront.net/230226/ddindia/chunks.m3u8
+#EXTINF:-1 tvg-id="528" tvg-name="DD India" tvg-logo="https://dtil.tmsimg.com/assets/s158251_ld_h15_aa.png?lock=720x540" group-title="📺 General" iptv-org-id="DDIndia.in@SD",DD India (576p)
+https://mumt05.tangotv.in/87NeALx2DDINDIA/index.m3u8
+#EXTINF:-1 tvg-id="528" tvg-name="DD India" tvg-logo="https://dtil.tmsimg.com/assets/s158251_ld_h15_aa.png?lock=720x540" group-title="📺 General" iptv-org-id="DDIndia.in@SD",DD India (720p)
+https://d2gvyg6lvauoko.cloudfront.net/230226/ddindia/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+#EXTINF:-1 tvg-id="528" tvg-name="DD India" tvg-logo="https://dtil.tmsimg.com/assets/s158251_ld_h15_aa.png?lock=720x540" group-title="📺 General" iptv-org-id="DDIndia.in@SD",DD India (1080p)
+https://mumbai-edge.smartplaytv.in/DDIndia/index.m3u8
+#EXTINF:-1 tvg-id="DDJharkhand.in@SD" tvg-name="DD Jharkhand" tvg-logo="https://dtil.tmsimg.com/assets/s142787_ld_h15_aa.png?lock=720x540" group-title="📺 General",DD Jharkhand
+https://cdn.pishow.tv/ott/live/1617/master.m3u8
+#EXTINF:-1 tvg-id="716" tvg-name="DD Kashir" tvg-logo="https://dtil.tmsimg.com/assets/s142788_ld_h15_aa.png?lock=720x540" group-title="📺 General" iptv-org-id="DDKashir.in@SD",DD Kashir
+https://cdn.pishow.tv/ott/live/16/master.m3u8
+#EXTINF:-1 tvg-id="536" tvg-name="DD Madhya Pradesh" tvg-logo="https://dtil.tmsimg.com/assets/s142790_ld_h15_aa.png?lock=720x540" group-title="📺 General" iptv-org-id="DDMadhyaPradesh.in@SD",DD Madhya Pradesh (720p)
+https://mumbai-edge.smartplaytv.in/ddmadhyapradesh/index.m3u8
+#EXTINF:-1 tvg-id="DDOdia.in@SD" tvg-name="DD Odia" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_ORIYA/images/LOGO_HD/image.png" group-title="📺 General",DD Odia (576p)
+https://mumbai-edge.smartplaytv.in/ddodiya/index.m3u8
+#EXTINF:-1 tvg-id="538" tvg-name="DD Rajasthan" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_RAJASTHAN/images/LOGO_HD/image.png" group-title="📺 General" iptv-org-id="DDRajasthan.in@SD",DD Rajasthan (576p)
+https://mumbai-edge.smartplaytv.in/ddrajasthan/index.m3u8
+#EXTINF:-1 tvg-id="712" tvg-name="DD Urdu" tvg-logo="https://dtil.tmsimg.com/assets/s142808_ld_h9_aa.png?lock=720x540" group-title="📺 General" iptv-org-id="DDUrdu.in@SD",DD Urdu (576p)
+https://mumbai-edge.smartplaytv.in/DDUrdu/index.m3u8
+#EXTINF:-1 tvg-id="768" tvg-name="Jan TV" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_JAN_TV/images/LOGO_HD/image.png" group-title="📺 General" iptv-org-id="JanTV.in@SD",Jan TV (576p)
+https://d1msejlow1t3l4.cloudfront.net/fta/jantv/playlist.m3u8
+#EXTINF:-1 tvg-id="765" tvg-name="Jonack" tvg-logo="https://dtil.tmsimg.com/assets/s143238_ld_h15_aa.png?lock=720x540" group-title="📺 General" iptv-org-id="Jonack.in@SD",Jonack (576p)
+https://cdn.pishow.tv/ott/live/10006/master.m3u8
+#EXTINF:-1 tvg-id="765" tvg-name="Jonack" tvg-logo="https://dtil.tmsimg.com/assets/s143238_ld_h15_aa.png?lock=720x540" group-title="📺 General" iptv-org-id="Jonack.in@SD",Jonack TV (360p) [Not 24/7]
+https://cdn.smartstream.video/smartstream-us/jonakk/jonakk/playlist.m3u8
+#EXTINF:-1 tvg-id="KairaliArabia.in@SD" tvg-name="Kairali Arabia" tvg-logo="https://i.imgur.com/BBEfplL.png" group-title="📺 General",Kairali Arabia (576p)
+https://mumt03.tangotv.in/Dsly5z3HKAIRALIARABIA/index.m3u8
+#EXTINF:-1 tvg-id="710" tvg-name="Kairali TV" tvg-logo="https://dtil.tmsimg.com/assets/s143247_ld_h15_aa.png?lock=720x540" group-title="📺 General" iptv-org-id="KairaliTV.in@SD",Kairali TV (576p)
+https://mumt01.tangotv.in/O5aw8Zn3KAIRALI/index.m3u8
+#EXTINF:-1 tvg-id="710" tvg-name="Kairali TV" tvg-logo="https://dtil.tmsimg.com/assets/s143247_ld_h15_aa.png?lock=720x540" group-title="📺 General" iptv-org-id="KairaliTV.in@SD",Kairali TV (576p)
+https://streams.tangotv.in/KAIRALI/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="1209" tvg-name="Kalaignar TV" tvg-logo="https://dtil.tmsimg.com/assets/s143249_ld_h15_aa.png?lock=720x540" group-title="📺 General" iptv-org-id="KalaignarTV.in@SD",Kalaignar TV (576p)
+http://103.72.101.252:8080/live/1209.m3u8
+#EXTINF:-1 tvg-id="1209" tvg-name="Kalaignar TV" tvg-logo="https://dtil.tmsimg.com/assets/s143249_ld_h15_aa.png?lock=720x540" group-title="📺 General" iptv-org-id="KalaignarTV.in@SD",Kalaignar TV (396p)
+https://segment.yuppcdn.net/240122/kalaignartv/playlist.m3u8
+#EXTINF:-1 tvg-id="563" tvg-name="Kaumudy TV" tvg-logo="https://dtil.tmsimg.com/assets/s143259_ld_h15_aa.png?lock=720x540" group-title="📺 General" iptv-org-id="KaumudyTV.in@SD",Kaumudy TV (720p)
+https://oqgdrkxby4rm-hls-live.5centscdn.com/kaumudytv/live.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="563" tvg-name="Kaumudy TV" tvg-logo="https://dtil.tmsimg.com/assets/s143259_ld_h15_aa.png?lock=720x540" group-title="📺 General" iptv-org-id="KaumudyTV.in@SD",Kaumudy TV
+https://cdn.pishow.tv/ott/live/1237/master.m3u8
+#EXTINF:-1 tvg-id="1891" tvg-name="KTV Bangla" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/2f8e3b371c660faa2f43a7f0942948a4.png" group-title="📺 General" iptv-org-id="KTVBangla.in@SD",KTV Bangla (720p)
+https://server.livelegitpro.in:9899/tribetv/tribetv/index.m3u8
+#EXTINF:-1 tvg-id="708" tvg-name="Makkal TV" tvg-logo="https://dtil.tmsimg.com/assets/s143296_ld_h15_aa.png?lock=720x540" group-title="📺 General" iptv-org-id="MakkalTV.in@SD",Makkal TV (576i)
+https://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="708" tvg-name="Makkal TV" tvg-logo="https://dtil.tmsimg.com/assets/s143296_ld_h15_aa.png?lock=720x540" group-title="📺 General" iptv-org-id="MakkalTV.in@SD",Makkal TV (576p)
+https://mumbai-edge.smartplaytv.in/MakkalTV/index.m3u8
+#EXTINF:-1 tvg-id="708" tvg-name="Makkal TV" tvg-logo="https://dtil.tmsimg.com/assets/s143296_ld_h15_aa.png?lock=720x540" group-title="📺 General" iptv-org-id="MakkalTV.in@SD",Makkal TV (576p)
+https://mumt01.tangotv.in/O5aw8Zn3MAKKALTV/index.m3u8
+#EXTINF:-1 tvg-id="Mayyazhi.in@SD" tvg-name="Mayyazhi" tvg-logo="https://i.imgur.com/E3WYWF5.jpg" group-title="📺 General",Mayyazhi (720p) [Not 24/7]
+http://131.153.22.8:1935/MAYYAZHI/live/playlist.m3u8
+#EXTINF:-1 tvg-id="631" tvg-name="MBC TV" tvg-logo="https://dtil.tmsimg.com/assets/s135691_ld_h15_aa.png?lock=720x540" group-title="📺 General" iptv-org-id="MBCTV.in@SD",MBC TV (576p)
+https://mumbai-edge.smartplaytv.in/MBCTV/index.m3u8
+#EXTINF:-1 tvg-id="MeiAlaiTV.in@SD" tvg-name="Mei Alai TV" tvg-logo="https://www.meialai.in/assets/meialai-DBaBUZTH.png" group-title="📺 General",Mei Alai TV (576p)
+https://meialai.iptelevishion.com/meialai/2/index.m3u8
+#EXTINF:-1 tvg-id="3406" tvg-name="Metro TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Metro_TV.png" group-title="📺 General" iptv-org-id="MetroTV.in@SD",Metro TV (1080p)
+https://mercury.streambridge.link:8042/telugu/metrotv/index.m3u8
+#EXTINF:-1 tvg-id="Mh1Prime.in@SD" tvg-name="Mh 1 Prime" tvg-logo="" group-title="📺 General",Mh 1 Prime (576p)
+https://streams.tangotv.in/MHONE/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="Mh1Prime.in@SD" tvg-name="Mh 1 Prime" tvg-logo="" group-title="📺 General",Mh 1 Prime (576p)
+https://mumt04.tangotv.in/m18aqlK4MHONE/index.m3u8
+#EXTINF:-1 tvg-id="1427" tvg-name="Nandighosha TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Nandighosha.png" group-title="📺 General" iptv-org-id="NandighoshaTV.in@SD",Nandighosha TV (576p)
+https://mumt05.tangotv.in/87NeALx2NANDIGHOSHATV/index.m3u8
+#EXTINF:-1 tvg-id="1528" tvg-name="Network 10" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Network_10.png" group-title="📺 General" iptv-org-id="Network10.in@SD",Network 10
+https://network10.livebox.co.in/network10hls/live.m3u8
+#EXTINF:-1 tvg-id="1528" tvg-name="Network 10" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Network_10.png" group-title="📺 General" iptv-org-id="Network10.in@SD",Network 10 (576p)
+https://mumt01.tangotv.in/O5aw8Zn3NETWORK10/index.m3u8
+#EXTINF:-1 tvg-id="1528" tvg-name="Network 10" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Network_10.png" group-title="📺 General" iptv-org-id="Network10.in@SD",Network 10 (576p)
+https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8
+#EXTINF:-1 tvg-id="1528" tvg-name="Network 10" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Network_10.png" group-title="📺 General" iptv-org-id="Network10.in@SD",Network 10 (576p)
+https://d1msejlow1t3l4.cloudfront.net/fta/network10/playlist.m3u8
+#EXTINF:-1 tvg-id="1528" tvg-name="Network 10" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Network_10.png" group-title="📺 General" iptv-org-id="Network10.in@SD",Network 10 (720p)
+https://mumbai-edge.smartplaytv.in/Network10/index.m3u8
+#EXTINF:-1 tvg-id="882" tvg-name="News 11" tvg-logo="https://i.imgur.com/brLsWXU.png" group-title="📺 General" iptv-org-id="News11.in@SD",News 11 (396p)
+https://d1msejlow1t3l4.cloudfront.net/fta/news11bharat/playlist.m3u8
+#EXTINF:-1 tvg-id="882" tvg-name="News 11" tvg-logo="https://i.imgur.com/brLsWXU.png" group-title="📺 General" iptv-org-id="News11.in@SD",News 11 (576p)
+https://mumt07.tangotv.in/zHjX9OFlNEWS11BHARAT/index.m3u8
+#EXTINF:-1 tvg-id="882" tvg-name="News 11" tvg-logo="https://i.imgur.com/brLsWXU.png" group-title="📺 General" iptv-org-id="News11.in@SD",News 11 (576p)
+https://live1.ottlive.co.in/news11/news11/index.m3u8
+#EXTINF:-1 tvg-id="NKRTVKannada.in@SD" tvg-name="NKR TV Kannada" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NKRTV.png" group-title="📺 General",NKR TV Kannada (1080p)
+https://stream.ottlive.co.in/nkrtv/index.m3u8
+#EXTINF:-1 tvg-id="NKRTVKannada.in@SD" tvg-name="NKR TV Kannada" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NKRTV.png" group-title="📺 General",NKR TV Kannada (576p)
+https://mumt05.tangotv.in/87NeALx2NKRTV/index.m3u8
+#EXTINF:-1 tvg-id="Starnet.in@SD" tvg-name="Starnet" tvg-logo="https://i.imgur.com/J3jB7Kr.png" group-title="📺 General",Starnet (480p)
+https://5a1178b42cc03.streamlock.net/8220/8220/playlist.m3u8
+#EXTINF:-1 tvg-id="897" tvg-name="Sun Gemini" tvg-logo="https://sund-images.sunnxt.com/194396/300x300_SunGemini_194396_22c18c1e-7eb9-4855-9c4e-12e109911559.png" group-title="📺 General" iptv-org-id="SunGemini.in@SD",Sun Gemini (576p)
+http://ptuf.ridsys.in/riptv/live/GEMINI_TV/index.m3u8
+#EXTINF:-1 tvg-id="UTVPalakkad.in@SD" tvg-name="UTV Palakkad" tvg-logo="https://utvpkd.in/assets/img/logo.png" group-title="📺 General",UTV Palakkad (1080p)
+https://em4qj6nedyvg-hls-live.wmncdn.net/liveunit/89b1e919eed04e59383cf820d644c20e.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="UTVPalakkad.in@SD" tvg-name="UTV Palakkad" tvg-logo="https://utvpkd.in/assets/img/logo.png" group-title="📺 General",UTV Palakkad (1080p)
+https://em4qj6nedyvg-hls-live.wmncdn.net/utv/ab2de115318ae40bdd434e193a2f2e7f.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="VCV.in@SD" tvg-name="VCV" tvg-logo="https://i.imgur.com/KbU36xI.png" group-title="📺 General",VCV (720p) [Not 24/7]
+https://5a1178b42cc03.streamlock.net/8210/8210/playlist.m3u8
+#EXTINF:-1 tvg-id="Vision.in@SD" tvg-name="Vision" tvg-logo="https://i.imgur.com/YozqNL3.jpg" group-title="📺 General",Vision (576p)
+http://103.85.204.205:1935/VISIONMEDIA/live/playlist.m3u8
+#EXTINF:-1 tvg-id="WayanadVision.in@SD" tvg-name="Wayanad Vision" tvg-logo="https://i.imgur.com/yF2C4Dt.png" group-title="📺 General",Wayanad Vision (1080p)
+https://cloudsavre.in.net/hls/stream.m3u8
+#EXTINF:-1 tvg-id="WeOneKerala.in@SD" tvg-name="We One Kerala" tvg-logo="https://i.imgur.com/iZufxya.jpg" group-title="📺 General",We One Kerala (720p) [Geo-blocked]
+http://kl.logicwebs.in:1935/sreemedia/sreemedia/playlist.m3u8

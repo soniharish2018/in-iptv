@@ -1,0 +1,5 @@
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/mitthu786/tvepg/main/epg.xml.gz" url-tvg="https://raw.githubusercontent.com/mitthu786/tvepg/main/epg.xml.gz"
+#EXTINF:-1 tvg-id="561" tvg-name="Food Food" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Food_Food.png" group-title="🍳 Cooking" iptv-org-id="FoodFood.in@SD",Food Food (576p)
+https://mumt03.tangotv.in/Dsly5z3HFOODFOOD/index.m3u8
+#EXTINF:-1 tvg-id="561" tvg-name="Food Food" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Food_Food.png" group-title="🍳 Cooking" iptv-org-id="FoodFood.in@SD",Food Food (576p)
+https://mumbai-edge.smartplaytv.in/FoodFood/index.m3u8

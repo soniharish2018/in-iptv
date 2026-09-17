@@ -1,0 +1,3 @@
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/mitthu786/tvepg/main/epg.xml.gz" url-tvg="https://raw.githubusercontent.com/mitthu786/tvepg/main/epg.xml.gz"
+#EXTINF:-1 tvg-id="583" tvg-name="DD Kisan" tvg-logo="https://dtil.tmsimg.com/assets/s142789_ld_h9_aa.png?lock=720x540" group-title="🏕️ Outdoor" iptv-org-id="DDKisan.in@SD",DD Kisan (1080p)
+https://mumbai-edge.smartplaytv.in/DDKisan/index.m3u8

@@ -1,0 +1,23 @@
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/mitthu786/tvepg/main/epg.xml.gz" url-tvg="https://raw.githubusercontent.com/mitthu786/tvepg/main/epg.xml.gz"
+#EXTINF:-1 tvg-id="3402" tvg-name="DocuBay TV" tvg-logo="https://i.imgur.com/OGyeLLR.png" group-title="🎥 Documentary" iptv-org-id="DocuBayTV.in@SD",DocuBay TV (1080p)
+https://cc-mgr91yrk4pehy.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mgr91yrk4pehy/playlist.m3u8
+#EXTINF:-1 tvg-id="EpicCrimes.in@SD" tvg-name="Epic Crimes" tvg-logo="https://i.imgur.com/EFDsCkH.png" group-title="🎥 Documentary",Epic Crimes (1080p)
+https://cc-wsuyg2uxeak04.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-wsuyg2uxeak04/master.m3u8
+#EXTINF:-1 tvg-id="1471" tvg-name="History TV18" tvg-logo="https://dtil.tmsimg.com/assets/s143133_ld_h15_aa.png?lock=720x540" group-title="🎥 Documentary" iptv-org-id="HistoryTV18.in@HD",History TV18 HD (1080p) [Geo-blocked]
+https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/playlist/amg01448-samsungindia-historychannelenglish-samsungin/playlist.m3u8
+#EXTINF:-1 tvg-id="1471" tvg-name="History TV18" tvg-logo="https://dtil.tmsimg.com/assets/s143133_ld_h15_aa.png?lock=720x540" group-title="🎥 Documentary" iptv-org-id="HistoryTV18.in@HD",History TV18 HD (1080p)
+http://103.154.3.101:5001/live/577.m3u8
+#EXTINF:-1 tvg-id="1471" tvg-name="History TV18" tvg-logo="https://dtil.tmsimg.com/assets/s143133_ld_h15_aa.png?lock=720x540" group-title="🎥 Documentary" iptv-org-id="HistoryTV18.in@HD",History TV18 HD (1080p)
+https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/HistoryTV18HD.m3u8
+#EXTINF:-1 tvg-id="1471" tvg-name="History TV18" tvg-logo="https://dtil.tmsimg.com/assets/s143133_ld_h15_aa.png?lock=720x540" group-title="🎥 Documentary" iptv-org-id="HistoryTV18.in@HD",History TV18 HD Hindi (1080p) [Geo-blocked]
+https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/ts-ap-s1-n1/playlist/amg01448-samsungindia-historychannelhindi-samsungin/playlist.m3u8
+#EXTINF:-1 tvg-id="3025" tvg-name="India TV Aap Ki Adalat" tvg-logo="https://play-lh.googleusercontent.com/2IlBX3IQHna8g4g-56vwGWb14K38spcviIh3i7uJCJ32ydfhcKZdOsacgijPkPeerEA" group-title="🎥 Documentary" iptv-org-id="IndiaTVAapKiAdalat.in@SD",India TV Aap Ki Adalat (1080p) [Geo-blocked]
+https://amg01550-amg01550c6-samsung-in-4679.playouts.now.amagi.tv/playlist/amg01550-indiatvfast-indiatvakasamsung-samsungin/playlist.m3u8
+#EXTINF:-1 tvg-id="1335" tvg-name="National Geographic" tvg-logo="https://dtil.tmsimg.com/assets/s143573_ld_h15_aa.png?lock=720x540" group-title="🎥 Documentary" iptv-org-id="NationalGeographic.in@SD",National Geographic (576p) [Geo-blocked]
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:17:28:41&stream=373017&extension=ts&play_token=zCaGy5dtla
+#EXTINF:-1 tvg-id="1666" tvg-name="Safari TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/3c2e9882d1f4b1e5a93bf9194fdd21ec.png" group-title="🎥 Documentary" iptv-org-id="SafariTV.in@SD",Safari TV (480p) [Not 24/7]
+https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="1666" tvg-name="Safari TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/3c2e9882d1f4b1e5a93bf9194fdd21ec.png" group-title="🎥 Documentary" iptv-org-id="SafariTV.in@SD",Safari TV (576p)
+https://mumt04.tangotv.in/m18aqlK4SAFARITV/index.m3u8
+#EXTINF:-1 tvg-id="821" tvg-name="Sony BBC Earth" tvg-logo="https://dtil.tmsimg.com/assets/s143800_ld_h15_aa.png?lock=720x540" group-title="🎥 Documentary" iptv-org-id="SonyBBCEarth.in@HD",Sony BBC Earth HD (1080p)
+https://cloudplay-sonyliv.pages.dev/bbcearthhd.m3u8

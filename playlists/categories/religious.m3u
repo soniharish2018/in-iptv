@@ -1,0 +1,308 @@
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/mitthu786/tvepg/main/epg.xml.gz" url-tvg="https://raw.githubusercontent.com/mitthu786/tvepg/main/epg.xml.gz"
+#EXTINF:-1 tvg-id="2002" tvg-name="Aadinath TV" tvg-logo="https://dtil.tmsimg.com/assets/s142505_ld_h15_aa.png?lock=720x540" group-title="🙏 Religious" iptv-org-id="AadinathTV.in@SD",Aadinath TV (576p)
+https://mumt01.tangotv.in/O5aw8Zn3AADINATHTV/index.m3u8
+#EXTINF:-1 tvg-id="AaseervathamTV.in@SD" tvg-name="Aaseervatham TV" tvg-logo="https://i.imgur.com/GlfrYs7.png" group-title="🙏 Religious",Aaseervatham TV (576p)
+https://mumt04.tangotv.in/m18aqlK4AASEERVATHAMTV/index.m3u8
+#EXTINF:-1 tvg-id="175" tvg-name="Aastha" tvg-logo="https://dtil.tmsimg.com/assets/s158133_ld_h9_ab.png?lock=720x540" group-title="🙏 Religious" iptv-org-id="Aastha.in@HD",Aastha (720p)
+https://aasthaott.akamaized.net/110923/smil:aasthatv.smil/index.m3u8
+#EXTINF:-1 tvg-id="175" tvg-name="Aastha" tvg-logo="https://dtil.tmsimg.com/assets/s158133_ld_h9_ab.png?lock=720x540" group-title="🙏 Religious" iptv-org-id="Aastha.in@SD",Aastha
+https://cdn.pishow.tv/ott/live/1454/master.m3u8
+#EXTINF:-1 tvg-id="175" tvg-name="Aastha" tvg-logo="https://dtil.tmsimg.com/assets/s158133_ld_h9_ab.png?lock=720x540" group-title="🙏 Religious" iptv-org-id="Aastha.in@SD",Aastha SD (576p)
+#EXTVLCOPT:http-user-agent=#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+http://103.175.73.12:8080/live/338/master.m3u8
+#EXTINF:-1 tvg-id="175" tvg-name="Aastha" tvg-logo="https://dtil.tmsimg.com/assets/s158133_ld_h9_ab.png?lock=720x540" group-title="🙏 Religious" iptv-org-id="Aastha.in@SD",Aastha SD (576p)
+https://mumt05.tangotv.in/87NeALx2AASTHA/index.m3u8
+#EXTINF:-1 tvg-id="175" tvg-name="Aastha" tvg-logo="https://dtil.tmsimg.com/assets/s158133_ld_h9_ab.png?lock=720x540" group-title="🙏 Religious" iptv-org-id="Aastha.in@HD",Aastha HD (720p)
+https://mumbai-edge.smartplaytv.in/Aastha/index.m3u8
+#EXTINF:-1 tvg-id="594" tvg-name="Aastha Bhajan" tvg-logo="https://dtil.tmsimg.com/assets/s142514_ld_h15_aa.png?lock=720x540" group-title="🙏 Religious" iptv-org-id="AasthaBhajan.in@SD",Aastha Bhajan (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+http://103.175.73.12:8080/live/339/master.m3u8
+#EXTINF:-1 tvg-id="594" tvg-name="Aastha Bhajan" tvg-logo="https://dtil.tmsimg.com/assets/s142514_ld_h15_aa.png?lock=720x540" group-title="🙏 Religious" iptv-org-id="AasthaBhajan.in@SD",Aastha Bhajan (576p)
+https://mumt05.tangotv.in/87NeALx2AASTHABHAJAN/index.m3u8
+#EXTINF:-1 tvg-id="594" tvg-name="Aastha Bhajan" tvg-logo="https://dtil.tmsimg.com/assets/s142514_ld_h15_aa.png?lock=720x540" group-title="🙏 Religious" iptv-org-id="AasthaBhajan.in@SD",Aastha Bhajan (480p)
+https://aasthaott.akamaized.net/110923/smil:bhajan.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="1255" tvg-name="Aastha Gujarati" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aastha_Tamil.png" group-title="🙏 Religious" iptv-org-id="AasthaGujarati.in@SD",Aastha Gujarati (576p)
+https://mumt04.tangotv.in/m18aqlK4AASTHAGUJARATI/index.m3u8
+#EXTINF:-1 tvg-id="1255" tvg-name="Aastha Gujarati" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aastha_Tamil.png" group-title="🙏 Religious" iptv-org-id="AasthaGujarati.in@SD",Aastha Gujarati (480p)
+https://aasthaott.akamaized.net/110923/smil:aasthagujrati.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="1256" tvg-name="Aastha Kannada" tvg-logo="https://dtil.tmsimg.com/assets/s158134_ld_h15_aa.png?lock=720x540" group-title="🙏 Religious" iptv-org-id="AasthaKannada.in@SD",Aastha Kannada (480p)
+https://aasthaott.akamaized.net/110923/smil:aasthakannada.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="1256" tvg-name="Aastha Kannada" tvg-logo="https://dtil.tmsimg.com/assets/s158134_ld_h15_aa.png?lock=720x540" group-title="🙏 Religious" iptv-org-id="AasthaKannada.in@SD",Aastha Kannada
+https://cdn.pishow.tv/ott/live/234/master.m3u8
+#EXTINF:-1 tvg-id="AasthaPrime1.in@SD" tvg-name="Aastha Prime 1" tvg-logo="https://i.imgur.com/LyWSMJS.png" group-title="🙏 Religious",Aastha Prime 1 (720p)
+https://aasthaott.akamaized.net/110923/smil:aasthaprime1.smil/master.m3u8
+#EXTINF:-1 tvg-id="AasthaTamil.in@SD" tvg-name="Aastha Tamil" tvg-logo="https://i.imgur.com/YQK9ewf.png" group-title="🙏 Religious",Aastha Tamil (480p)
+https://aasthaott.akamaized.net/110923/smil:aasthatamil.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="1254" tvg-name="Aastha Telugu" tvg-logo="https://dtil.tmsimg.com/assets/s158136_ld_h15_aa.png?lock=720x540" group-title="🙏 Religious" iptv-org-id="AasthaTelugu.in@SD",Aastha Telugu (480p)
+https://aasthaott.akamaized.net/110923/smil:aasthatelugu.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="1254" tvg-name="Aastha Telugu" tvg-logo="https://dtil.tmsimg.com/assets/s158136_ld_h15_aa.png?lock=720x540" group-title="🙏 Religious" iptv-org-id="AasthaTelugu.in@SD",Aastha Telugu
+https://cdn.pishow.tv/ott/live/262/master.m3u8
+#EXTINF:-1 tvg-id="1254" tvg-name="Aastha Telugu" tvg-logo="https://dtil.tmsimg.com/assets/s158136_ld_h15_aa.png?lock=720x540" group-title="🙏 Religious" iptv-org-id="AasthaTelugu.in@SD",Aastha Telugu (576p)
+https://mumbai-edge.smartplaytv.in/AasthaTelugu/index.m3u8
+#EXTINF:-1 tvg-id="1901" tvg-name="Adhyatm TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Adhyatam_TV.png" group-title="🙏 Religious" iptv-org-id="AdhyatmTV.in@SD",Adhyatm TV (720p)
+https://mumbai-edge.smartplaytv.in/AdhyatmTV/index.m3u8
+#EXTINF:-1 tvg-id="3294" tvg-name="Anand TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Anand_TV.png" group-title="🙏 Religious" iptv-org-id="AnandTV.in@SD",Anand TV (1080p)
+https://live.legitpro.co.in/anandtv/index.m3u8
+#EXTINF:-1 tvg-id="AnandWariTV.in@SD" tvg-name="Anand Wari TV" tvg-logo="https://papaji.freetvindia.com/media/channels/anandvari.png" group-title="🙏 Religious",Anand Wari TV (576p)
+https://mumt03.tangotv.in/Dsly5z3HANANDWARITV/index.m3u8
+#EXTINF:-1 tvg-id="835" tvg-name="Angel TV" tvg-logo="https://i.imgur.com/qKLEGU7.png" group-title="🙏 Religious" iptv-org-id="AngelTV.in@India",Angel TV (720p)
+https://janya-digimix.akamaized.net/vglive-sk-394914/india/ngrp:angelindia_all/playlist.m3u8
+#EXTINF:-1 tvg-id="835" tvg-name="Angel TV" tvg-logo="https://i.imgur.com/qKLEGU7.png" group-title="🙏 Religious" iptv-org-id="AngelTV.in@Africa",Angel TV Africa (720p)
+https://janya-digimix.akamaized.net/vglive-sk-904559/africa/ngrp:angelafrica_all/playlist.m3u8
+#EXTINF:-1 tvg-id="835" tvg-name="Angel TV" tvg-logo="https://i.imgur.com/qKLEGU7.png" group-title="🙏 Religious" iptv-org-id="AngelTV.in@America",Angel TV America (720p)
+https://janya-digimix.akamaized.net/vglive-sk-374850/america/ngrp:angelamerica_all/playlist.m3u8
+#EXTINF:-1 tvg-id="835" tvg-name="Angel TV" tvg-logo="https://i.imgur.com/qKLEGU7.png" group-title="🙏 Religious" iptv-org-id="AngelTV.in@Arabia",Angel TV Arabia (720p)
+https://janya-digimix.akamaized.net/vglive-sk-213167/arabia/ngrp:angelarabia_all/playlist.m3u8
+#EXTINF:-1 tvg-id="835" tvg-name="Angel TV" tvg-logo="https://i.imgur.com/qKLEGU7.png" group-title="🙏 Religious" iptv-org-id="AngelTV.in@Australia",Angel TV Australia (720p)
+https://janya-digimix.akamaized.net/vglive-sk-310787/australia/ngrp:angelaustralia_all/playlist.m3u8
+#EXTINF:-1 tvg-id="835" tvg-name="Angel TV" tvg-logo="https://i.imgur.com/qKLEGU7.png" group-title="🙏 Religious" iptv-org-id="AngelTV.in@Chinese",Angel TV Chinese (720p)
+https://janya-digimix.akamaized.net/vglive-sk-999451/chinese/ngrp:angelchinese_all/playlist.m3u8
+#EXTINF:-1 tvg-id="835" tvg-name="Angel TV" tvg-logo="https://i.imgur.com/qKLEGU7.png" group-title="🙏 Religious" iptv-org-id="AngelTV.in@Europe",Angel TV Europe (720p)
+https://janya-digimix.akamaized.net/vglive-sk-512011/europe/ngrp:angeleurope_all/playlist.m3u8
+#EXTINF:-1 tvg-id="835" tvg-name="Angel TV" tvg-logo="https://i.imgur.com/qKLEGU7.png" group-title="🙏 Religious" iptv-org-id="AngelTV.in@FarEast",Angel TV FarEast (720p)
+https://janya-digimix.akamaized.net/vglive-sk-438760/fareast/ngrp:angelfareast_all/playlist.m3u8
+#EXTINF:-1 tvg-id="835" tvg-name="Angel TV" tvg-logo="https://i.imgur.com/qKLEGU7.png" group-title="🙏 Religious" iptv-org-id="AngelTV.in@Hebrew",Angel TV Hebrew (720p)
+https://janya-digimix.akamaized.net/vglive-sk-150533/hebrew/ngrp:angelhebrew_all/playlist.m3u8
+#EXTINF:-1 tvg-id="835" tvg-name="Angel TV" tvg-logo="https://i.imgur.com/qKLEGU7.png" group-title="🙏 Religious" iptv-org-id="AngelTV.in@IndoChina",Angel TV Indo-China (720p)
+https://janya-digimix.akamaized.net/vglive-sk-703035/indochina/ngrp:angelindochina_all/playlist.m3u8
+#EXTINF:-1 tvg-id="835" tvg-name="Angel TV" tvg-logo="https://i.imgur.com/qKLEGU7.png" group-title="🙏 Religious" iptv-org-id="AngelTV.in@Indonesia",Angel TV Indonesia (720p)
+https://janya-digimix.akamaized.net/vglive-sk-234616/indonesia/ngrp:angelindonesia_all/playlist.m3u8
+#EXTINF:-1 tvg-id="835" tvg-name="Angel TV" tvg-logo="https://i.imgur.com/qKLEGU7.png" group-title="🙏 Religious" iptv-org-id="AngelTV.in@Nepal",Angel TV Nepal (720p)
+https://janya-digimix.akamaized.net/vglive-sk-109639/nepali/ngrp:angelnepali_all/playlist.m3u8
+#EXTINF:-1 tvg-id="835" tvg-name="Angel TV" tvg-logo="https://i.imgur.com/qKLEGU7.png" group-title="🙏 Religious" iptv-org-id="AngelTV.in@Portuguese",Angel TV Portuguese (720p)
+https://janya-digimix.akamaized.net/vglive-sk-382409/portuese/ngrp:angelportuguese_all/playlist.m3u8
+#EXTINF:-1 tvg-id="835" tvg-name="Angel TV" tvg-logo="https://i.imgur.com/qKLEGU7.png" group-title="🙏 Religious" iptv-org-id="AngelTV.in@Russian",Angel TV Russian (720p)
+https://janya-digimix.akamaized.net/vglive-sk-955415/russia/ngrp:angelrussia_all/playlist.m3u8
+#EXTINF:-1 tvg-id="835" tvg-name="Angel TV" tvg-logo="https://i.imgur.com/qKLEGU7.png" group-title="🙏 Religious" iptv-org-id="AngelTV.in@Spanish",Angel TV Spanish (720p)
+https://janya-digimix.akamaized.net/vglive-sk-351398/spanish/ngrp:angelspanish_all/playlist.m3u8
+#EXTINF:-1 tvg-id="835" tvg-name="Angel TV" tvg-logo="https://i.imgur.com/qKLEGU7.png" group-title="🙏 Religious" iptv-org-id="AngelTV.in@India",Angel TV (576p)
+https://mumt01.tangotv.in/O5aw8Zn3ANGELTVHD/index.m3u8
+#EXTINF:-1 tvg-id="835" tvg-name="Angel TV" tvg-logo="https://i.imgur.com/qKLEGU7.png" group-title="🙏 Religious" iptv-org-id="AngelTV.in@India",Angel TV (720p)
+https://mumbai-edge.smartplaytv.in/AngelTV/index.m3u8
+#EXTINF:-1 tvg-id="777" tvg-name="Aradana TV" tvg-logo="https://dtil.tmsimg.com/assets/s142649_ld_h9_aa.png?lock=720x540" group-title="🙏 Religious" iptv-org-id="AradanaTV.in@SD",Aradana TV (576p)
+https://mumbai-edge.smartplaytv.in/AradanaTV/index.m3u8
+#EXTINF:-1 tvg-id="ArputharYesuTV.in@SD" tvg-name="Arputhar Yesu TV" tvg-logo="https://arputharyesutv.net/wp-content/uploads/2022/07/AR-LOGO-PNG.png" group-title="🙏 Religious",Arputhar Yesu TV (576p)
+https://account33.livebox.co.in/jesushelpshls/live.m3u8
+#EXTINF:-1 tvg-id="1175" tvg-name="Awakening TV" tvg-logo="https://i.imgur.com/p26iWOi.png" group-title="🙏 Religious" iptv-org-id="AwakeningTV.in@SD",Awakening TV (576p)
+https://mumt03.tangotv.in/Dsly5z3HAWAKENINGTV/index.m3u8
+#EXTINF:-1 tvg-id="3358" tvg-name="Bhagyam TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/aanadhamtvtamil.png" group-title="🙏 Religious" iptv-org-id="BhagyamTV.in@SD",Bhagyam TV (1080p)
+https://ott.bhagyam.net/hls/bhagyamweb/index-1409148900-now.m3u8
+#EXTINF:-1 tvg-id="3358" tvg-name="Bhagyam TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/aanadhamtvtamil.png" group-title="🙏 Religious" iptv-org-id="BhagyamTV.in@SD",Bhagyam TV (576p) [Not 24/7]
+https://bhagyam.iptv.pics/bhagyam/index.m3u8
+#EXTINF:-1 tvg-id="3107" tvg-name="Bhakthi Siri" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/f6da6ddbbd4e157e54904f34196118e7.png" group-title="🙏 Religious" iptv-org-id="BhakthiSiri.in@SD",Bhakthi Siri (576p)
+https://mumbai-edge.smartplaytv.in/Bhakthisiri/index.m3u8
+#EXTINF:-1 tvg-id="776" tvg-name="Bhakthi TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/61/Bhakthi_TV_logo.jpg" group-title="🙏 Religious" iptv-org-id="BhakthiTV.in@SD",Bhakthi TV
+https://mumbai-edge.smartplaytv.in/BhakthiTv/index.m3u8
+#EXTINF:-1 tvg-id="939" tvg-name="Bhakti Sagar" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Bhaktisagar.png" group-title="🙏 Religious" iptv-org-id="BhaktiSagar.in@SD",Bhakti Sagar (576p)
+https://mumt05.tangotv.in/87NeALx2BHAKTISAGAR/index.m3u8
+#EXTINF:-1 tvg-id="ChannelDivya.in@SD" tvg-name="Channel Divya" tvg-logo="https://dtil.tmsimg.com/assets/s143010_ld_h15_aa.png?lock=720x540" group-title="🙏 Religious",Channel Divya (1080p)
+https://vg-pitaaratvlive.akamaized.net/v1/vglive-sk-906482/playlist.m3u8
+#EXTINF:-1 tvg-id="ChannelDivya.in@SD" tvg-name="Channel Divya" tvg-logo="https://dtil.tmsimg.com/assets/s143010_ld_h15_aa.png?lock=720x540" group-title="🙏 Religious",Channel Divya (576p)
+https://streams.tangotv.in/DIVYA/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="ChannelDivya.in@SD" tvg-name="Channel Divya" tvg-logo="https://dtil.tmsimg.com/assets/s143010_ld_h15_aa.png?lock=720x540" group-title="🙏 Religious",Channel Divya (720p)
+https://mumbai-edge.smartplaytv.in/channeldivya/index.m3u8
+#EXTINF:-1 tvg-id="ChannelDivya.in@SD" tvg-name="Channel Divya" tvg-logo="https://dtil.tmsimg.com/assets/s143010_ld_h15_aa.png?lock=720x540" group-title="🙏 Religious",Channel Divya (576p)
+https://mumt05.tangotv.in/87NeALx2DIVYA/index.m3u8
+#EXTINF:-1 tvg-id="605" tvg-name="Channel WIN" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CHANNEL_WIN/images/LOGO_HD/image.png" group-title="🙏 Religious" iptv-org-id="ChannelWIN.in@SD",Channel WIN (576p)
+https://mumt05.tangotv.in/87NeALx2CHANNELWIN/index.m3u8
+#EXTINF:-1 tvg-id="772" tvg-name="CVR OM Spiritual" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/CVR_OM_Spiritual.png" group-title="🙏 Religious" iptv-org-id="CVROMSpiritual.in@SD",CVR OM Spiritual (576p)
+https://yuppnimrestreammum.akamaized.net/181224/smil:cvrom1.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+#EXTINF:-1 tvg-id="772" tvg-name="CVR OM Spiritual" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/CVR_OM_Spiritual.png" group-title="🙏 Religious" iptv-org-id="CVROMSpiritual.in@SD",CVR OM Spiritual (576p)
+https://mumbai-edge.smartplaytv.in/CVROM/index.m3u8
+#EXTINF:-1 tvg-id="611" tvg-name="Darshan 24" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Darshan_24.png" group-title="🙏 Religious" iptv-org-id="Darshan24.in@SD",Darshan 24 (576p)
+https://mumt05.tangotv.in/87NeALx2DARSHAN24/index.m3u8
+#EXTINF:-1 tvg-id="3357" tvg-name="Dharsan TV" tvg-logo="https://play-lh.googleusercontent.com/brn76ZzRlqS8ylZVVcc5ZFWcqUp36iJ82WyzwiQ8-Nqi_8pIZZ_gsMCXNn6YiLhOEQ" group-title="🙏 Religious" iptv-org-id="DharsanTV.in@SD",Dharsan TV (720p)
+https://cable91tataplay.akamaized.net/live/dharshantv/index.m3u8
+#EXTINF:-1 tvg-id="DheeranTV.in@SD" tvg-name="Dheeran TV" tvg-logo="https://i.imgur.com/jSedjXf.png" group-title="🙏 Religious",Dheeran TV (576p)
+https://live.we2live.in/dheerantv/dheerantv/playlist.m3u8
+#EXTINF:-1 tvg-id="934" tvg-name="Divyavani TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Divya_Vani.png" group-title="🙏 Religious" iptv-org-id="DivyavaniTV.in@SD",Divyavani TV (576p)
+https://mumbai-edge.smartplaytv.in/Divyavani/index.m3u8
+#EXTINF:-1 tvg-id="1174" tvg-name="Fateh TV" tvg-logo="https://i.imgur.com/c4ItNkB.png" group-title="🙏 Religious" iptv-org-id="FatehTV.in@SD",Fateh TV (1080p) [Not 24/7]
+https://ott.livelegitpro.in/fatehtv/fatehtv/index.m3u8
+#EXTINF:-1 tvg-id="1174" tvg-name="Fateh TV" tvg-logo="https://i.imgur.com/c4ItNkB.png" group-title="🙏 Religious" iptv-org-id="FatehTV.in@SD",Fateh TV (576p)
+http://180.188.254.253/live/FATEHTVHD.m3u8
+#EXTINF:-1 tvg-id="1388" tvg-name="Goodness TV" tvg-logo="https://dtil.tmsimg.com/assets/s143091_ld_h15_aa.png?lock=720x540" group-title="🙏 Religious" iptv-org-id="GoodnessTV.in@SD",Goodness TV (576p)
+https://mumt07.tangotv.in/zHjX9OFlGOODNESSTV/index.m3u8
+#EXTINF:-1 tvg-id="907" tvg-name="GoodNews TV" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_GOODNEWS_TV/images/LOGO_HD/image.png" group-title="🙏 Religious" iptv-org-id="GoodNewsTV.in@SD",GoodNews TV (720p)
+https://bpgdlwwar3ze-hls-live.wmncdn.net/goodnews/live.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="3370" tvg-name="Gospel TV India" tvg-logo="https://i.ibb.co/xhbZvzt/cropped-final-logo-300x127.png" group-title="🙏 Religious" iptv-org-id="GospelTVIndia.in@SD",Gospel TV India (576p)
+https://server.livelegitpro.in:9899/gospeltv/index.m3u8
+#EXTINF:-1 tvg-id="879" tvg-name="Hare Krsna TV" tvg-logo="https://dtil.tmsimg.com/assets/s143102_ld_h15_aa.png?lock=720x540" group-title="🙏 Religious" iptv-org-id="HareKrsnaTV.in@SD",Hare Krsna TV (1080p)
+https://hktv.harekrsnatv.com/HKTV/HKWebApp/manifest.mpd
+#EXTINF:-1 tvg-id="879" tvg-name="Hare Krsna TV" tvg-logo="https://dtil.tmsimg.com/assets/s143102_ld_h15_aa.png?lock=720x540" group-title="🙏 Religious" iptv-org-id="HareKrsnaTV.in@SD",Hare Krsna TV (720p)
+https://airtelapp.shemaroo.com/harekrsnatv/smil:harekrsnatvadp.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="879" tvg-name="Hare Krsna TV" tvg-logo="https://dtil.tmsimg.com/assets/s143102_ld_h15_aa.png?lock=720x540" group-title="🙏 Religious" iptv-org-id="HareKrsnaTV.in@SD",Hare Krsna TV (576p)
+https://mumt05.tangotv.in/87NeALx2HAREKRSNA/index.m3u8
+#EXTINF:-1 tvg-id="HarvestTV.in@SD" tvg-name="Harvest TV" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_HARVEST_TV_24X7/images/LOGO_HD/image.png" group-title="🙏 Religious",Harvest TV (720p)
+https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvesttvlive1/bbb19eae240ec100af921d511efc86a0.sdp/index.m3u8
+#EXTINF:-1 tvg-id="HarvestTV.in@SD" tvg-name="Harvest TV" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_HARVEST_TV_24X7/images/LOGO_HD/image.png" group-title="🙏 Religious",Harvest TV (1080p)
+https://mumbai-edge.smartplaytv.in/HarvestTV/index.m3u8
+#EXTINF:-1 tvg-id="HarvestTVKeralam.in@SD" tvg-name="Harvest TV Keralam" tvg-logo="https://i.imgur.com/1DyPuIt.png" group-title="🙏 Religious",Harvest TV Keralam (720p)
+https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvestenglish/d1796a22d24e8696c7d5d0b5c349fdd2.sdp/index.m3u8
+#EXTINF:-1 tvg-id="HarvestUSA.in@SD" tvg-name="Harvest USA" tvg-logo="" group-title="🙏 Religious",Harvest USA (576p)
+https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvestusa/d57ffba6564caea2fee3f4085f19a098.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="HebronTV.in@SD" tvg-name="Hebron TV" tvg-logo="https://i0.wp.com/hebrontv.in/wp-content/uploads/2023/11/hebron-.png?w=512" group-title="🙏 Religious",Hebron TV (1080p)
+https://account20.livebox.co.in/charleshls/live.m3u8
+#EXTINF:-1 tvg-id="955" tvg-name="Hindu Dharmam" tvg-logo="https://dtil.tmsimg.com/assets/s143131_ld_h15_aa.png?lock=720x540" group-title="🙏 Religious" iptv-org-id="HinduDharmam.in@SD",Hindu Dharmam (576p)
+https://mumt01.tangotv.in/O5aw8Zn3HINDUDHARMAM/index.m3u8
+#EXTINF:-1 tvg-id="955" tvg-name="Hindu Dharmam" tvg-logo="https://dtil.tmsimg.com/assets/s143131_ld_h15_aa.png?lock=720x540" group-title="🙏 Religious" iptv-org-id="HinduDharmam.in@SD",Hindu Dharmam (1080p)
+https://mumbai-edge.smartplaytv.in/Hindudharmam/index.m3u8
+#EXTINF:-1 tvg-id="HopeChannelIndia.in@SD" tvg-name="Hope Channel India" tvg-logo="https://i.imgur.com/wPzPUrK.png" group-title="🙏 Religious",Hope Channel India (576p)
+https://mumt01.tangotv.in/O5aw8Zn3HOPECHANNELINDIA/index.m3u8
+#EXTINF:-1 tvg-id="1738" tvg-name="Hosanna TV" tvg-logo="https://i.imgur.com/VYorU1L.png" group-title="🙏 Religious" iptv-org-id="HosannaTV.in@Tamil",Hosanna TV
+https://asia.mslivestream.net/mslive/bfba54c5c96a6359e2da0ca35f4998af.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="1738" tvg-name="Hosanna TV" tvg-logo="https://i.imgur.com/VYorU1L.png" group-title="🙏 Religious" iptv-org-id="HosannaTV.in@Hindi",Hosanna TV Hindi
+https://ktismaservers.in:3466/live/hosannattvhindhilive.m3u8
+#EXTINF:-1 tvg-id="1738" tvg-name="Hosanna TV" tvg-logo="https://i.imgur.com/VYorU1L.png" group-title="🙏 Religious" iptv-org-id="HosannaTV.in@Global",Hosanna TV Global
+https://ktismaservers.in:3349/live/hosannatvlive.m3u8
+#EXTINF:-1 tvg-id="1738" tvg-name="Hosanna TV" tvg-logo="https://i.imgur.com/VYorU1L.png" group-title="🙏 Religious" iptv-org-id="HosannaTV.in@Hindi",Hosanna TV Hindi (720p)
+https://mumbai-edge.smartplaytv.in/HosannaTV/index.m3u8
+#EXTINF:-1 tvg-id="IshwarBhaktiTV.in@SD" tvg-name="Ishwar Bhakti TV" tvg-logo="https://dtil.tmsimg.com/assets/s143213_ld_h9_aa.png?lock=720x540" group-title="🙏 Religious",Ishwar Bhakti TV (720p)
+https://6n3yow8pl9ok-hls-live.5centscdn.com/ishwartvlive/tv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="IshwarBhaktiTV.in@SD" tvg-name="Ishwar Bhakti TV" tvg-logo="https://dtil.tmsimg.com/assets/s143213_ld_h9_aa.png?lock=720x540" group-title="🙏 Religious",Ishwar Bhakti TV (576p)
+https://mumt05.tangotv.in/87NeALx2ISHWARBHAKTI/index.m3u8
+#EXTINF:-1 tvg-id="2768" tvg-name="Jothi TV" tvg-logo="https://dtil.tmsimg.com/assets/s143239_ld_h15_aa.png?lock=720x540" group-title="🙏 Religious" iptv-org-id="JothiTV.in@SD",Jothi TV (1080p)
+http://103.154.3.101:5001/live/2768.m3u8
+#EXTINF:-1 tvg-id="JoyTV.in@SD" tvg-name="Joy TV" tvg-logo="https://joytvchennai.org/wp-content/uploads/2026/04/cropped-512.png" group-title="🙏 Religious",Joy TV (1080p)
+https://ktismaservers.in:3412/live/joytvlive.m3u8
+#EXTINF:-1 tvg-id="JoyTV.in@SD" tvg-name="Joy TV" tvg-logo="https://joytvchennai.org/wp-content/uploads/2026/04/cropped-512.png" group-title="🙏 Religious",Joy TV (576p)
+https://joy.inet.moe/live/joytv/index.m3u8
+#EXTINF:-1 tvg-id="JoyTV.in@SD" tvg-name="Joy TV" tvg-logo="https://joytvchennai.org/wp-content/uploads/2026/04/cropped-512.png" group-title="🙏 Religious",Joy TV (576p)
+https://mumbai-edge.smartplaytv.in/JoyTV/index.m3u8
+#EXTINF:-1 tvg-id="JTBSClassic.in@Main" tvg-name="JTBS Classic" tvg-logo="https://jtbsclassic.dpdns.org/logo.png" group-title="🙏 Religious",JTBS Classic
+https://jtbsclassic.dpdns.org/live.m3u8
+#EXTINF:-1 tvg-id="KnockBhakti.in@SD" tvg-name="Knock Bhakti" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/KnockBhakti.png" group-title="🙏 Religious",Knock Bhakti (1080p)
+https://knocktv2.wiseplayout.com/Knock_Bhakti_EST/master.m3u8
+#EXTINF:-1 tvg-id="LifeTV.in@SD" tvg-name="Life TV" tvg-logo="https://i.ibb.co/v1C0bdR/logo-1.png" group-title="🙏 Religious",Life TV (720p)
+https://lifetv.livebox.co.in/lifetvhls/lifetv.m3u8
+#EXTINF:-1 tvg-id="1655" tvg-name="Madha TV" tvg-logo="https://dtil.tmsimg.com/assets/s143287_ld_h15_aa.png?lock=720x540" group-title="🙏 Religious" iptv-org-id="MadhaTV.in@SD",Madha TV
+https://cdn.pishow.tv/ott/live/1265/master.m3u8
+#EXTINF:-1 tvg-id="1655" tvg-name="Madha TV" tvg-logo="https://dtil.tmsimg.com/assets/s143287_ld_h15_aa.png?lock=720x540" group-title="🙏 Religious" iptv-org-id="MadhaTV.in@SD",Madha TV (576p)
+https://mumt07.tangotv.in/zHjX9OFlMADHATV/index.m3u8
+#EXTINF:-1 tvg-id="3239" tvg-name="Mahaa Bhakti" tvg-logo="https://yt3.googleusercontent.com/OWECRvCVJh-dXU2MTRZhMRIDvFvcWan0YMoWWfXsM5_WEHobQy2QoHQbGr7AZUXzMOByTMAXbg=s900-c-k-c0x00ffffff-no-rj" group-title="🙏 Religious" iptv-org-id="MahaaBhakti.in@SD",Mahaa Bhakti (1080p)
+https://mumbai-edge.smartplaytv.in/MahaBhakthi/index.m3u8
+#EXTINF:-1 tvg-id="3239" tvg-name="Mahaa Bhakti" tvg-logo="https://yt3.googleusercontent.com/OWECRvCVJh-dXU2MTRZhMRIDvFvcWan0YMoWWfXsM5_WEHobQy2QoHQbGr7AZUXzMOByTMAXbg=s900-c-k-c0x00ffffff-no-rj" group-title="🙏 Religious" iptv-org-id="MahaaBhakti.in@SD",Mahaa Bhakti (576p)
+https://d1msejlow1t3l4.cloudfront.net/fta/mahaabhakti/playlist.m3u8
+#EXTINF:-1 tvg-id="MahimaiTV.in@SD" tvg-name="Mahimai TV" tvg-logo="https://mahimaitv.com/images/mahimaitamil.png" group-title="🙏 Religious",Mahimai TV (576p)
+https://mahimai.iptelevision.live/mahimaitv/video.m3u8
+#EXTINF:-1 tvg-id="924" tvg-name="Mercy TV" tvg-logo="https://i.imgur.com/klNH4tV.png" group-title="🙏 Religious" iptv-org-id="MercyTV.in@SD",Mercy TV (1080p)
+https://5dd3981940faa.streamlock.net/mercytv/mercytv/playlist.m3u8
+#EXTINF:-1 tvg-id="924" tvg-name="Mercy TV" tvg-logo="https://i.imgur.com/klNH4tV.png" group-title="🙏 Religious" iptv-org-id="MercyTV.in@SD",Mercy TV (576p)
+https://mumt03.tangotv.in/Dsly5z3HMERCYTV/index.m3u8
+#EXTINF:-1 tvg-id="924" tvg-name="Mercy TV" tvg-logo="https://i.imgur.com/klNH4tV.png" group-title="🙏 Religious" iptv-org-id="MercyTV.in@SD",Mercy TV (576p)
+https://mumbai-edge.smartplaytv.in/MercyTV/index.m3u8
+#EXTINF:-1 tvg-id="MHOneShraddha.in@SD" tvg-name="MH One Shraddha" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002NFEZK.png?lock=720x540" group-title="🙏 Religious",MH One Shraddha (576p)
+https://mumt01.tangotv.in/O5aw8Zn3MHONESHRADDHA/index.m3u8
+#EXTINF:-1 tvg-id="MHOneShraddha.in@SD" tvg-name="MH One Shraddha" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002NFEZK.png?lock=720x540" group-title="🙏 Religious",MH One Shraddha (576p)
+https://livestream.jswk.online/mhoneshraddha/live/index.m3u8
+#EXTINF:-1 tvg-id="603" tvg-name="Nambikkai TV" tvg-logo="https://dtil.tmsimg.com/assets/s143567_ld_h9_aa.png?lock=720x540" group-title="🙏 Religious" iptv-org-id="NambikkaiTV.in@SD",Nambikkai TV (576p)
+https://mumt02.tangotv.in/NAMBIKKAITV/index.m3u8
+#EXTINF:-1 tvg-id="603" tvg-name="Nambikkai TV" tvg-logo="https://dtil.tmsimg.com/assets/s143567_ld_h9_aa.png?lock=720x540" group-title="🙏 Religious" iptv-org-id="NambikkaiTV.in@SD",Nambikkai TV
+https://cdn.pishow.tv/ott/live/1389/master.m3u8
+#EXTINF:-1 tvg-id="NamdhariTV.in@SD" tvg-name="Namdhari TV" tvg-logo="https://i.imgur.com/NalsXTo.png" group-title="🙏 Religious",Namdhari (404p) [Not 24/7]
+https://namdhari.tv/live/sbs1.m3u8
+#EXTINF:-1 tvg-id="3279" tvg-name="OM TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/OM_TV.png" group-title="🙏 Religious" iptv-org-id="OMTV.in@SD",OM TV (576p)
+https://mumt01.tangotv.in/O5aw8Zn3OMTV/index.m3u8
+#EXTINF:-1 tvg-id="ParasGold.in@SD" tvg-name="Paras Gold" tvg-logo="https://dtil.tmsimg.com/assets/s143642_ld_h15_aa.png?lock=720x540" group-title="🙏 Religious",Paras Gold (576p)
+https://mumt04.tangotv.in/m18aqlK4PARASGOLD/index.m3u8
+#EXTINF:-1 tvg-id="794" tvg-name="Peace of Mind TV" tvg-logo="https://dtil.tmsimg.com/assets/s143646_ld_h15_aa.png?lock=720x540" group-title="🙏 Religious" iptv-org-id="PeaceofMindTV.in@SD",Peace of Mind TV (576p)
+https://yuppnimrestreammum.akamaized.net/181224/smil:peaceofmind.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+#EXTINF:-1 tvg-id="794" tvg-name="Peace of Mind TV" tvg-logo="https://dtil.tmsimg.com/assets/s143646_ld_h15_aa.png?lock=720x540" group-title="🙏 Religious" iptv-org-id="PeaceofMindTV.in@SD",Peace of Mind TV (576p)
+https://mumbai-edge.smartplaytv.in/PeaceOfMind/index.m3u8
+#EXTINF:-1 tvg-id="1975" tvg-name="PMC Telugu" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/PMC_Telugu.png" group-title="🙏 Religious" iptv-org-id="PMCTelugu.in@SD",PMC Telugu (1080p)
+https://mumbai-edge.smartplaytv.in/PMC/index.m3u8
+#EXTINF:-1 tvg-id="1644" tvg-name="Powervision TV" tvg-logo="https://dtil.tmsimg.com/assets/s143670_ld_h15_aa.png?lock=720x540" group-title="🙏 Religious" iptv-org-id="PowervisionTV.in@SD",Powervision TV (720p)
+https://mumbai-edge.smartplaytv.in/PowerVision/index.m3u8
+#EXTINF:-1 tvg-id="1644" tvg-name="Powervision TV" tvg-logo="https://dtil.tmsimg.com/assets/s143670_ld_h15_aa.png?lock=720x540" group-title="🙏 Religious" iptv-org-id="PowervisionTV.in@SD",Powervision TV (576p)
+https://mumt07.tangotv.in/zHjX9OFlPOWERVISION/index.m3u8
+#EXTINF:-1 tvg-id="1191" tvg-name="PTC Simran" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002NG05K.png?lock=720x540" group-title="🙏 Religious" iptv-org-id="PTCSimran.in@SD",PTC Simran (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+http://103.175.73.12:8080/live/183/master.m3u8
+#EXTINF:-1 tvg-id="1191" tvg-name="PTC Simran" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002NG05K.png?lock=720x540" group-title="🙏 Religious" iptv-org-id="PTCSimran.in@SD",PTC Simran
+https://cdn.pishow.tv/ott/live/1503/master.m3u8
+#EXTINF:-1 tvg-id="1191" tvg-name="PTC Simran" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002NG05K.png?lock=720x540" group-title="🙏 Religious" iptv-org-id="PTCSimran.in@SD",PTC Simran (576p)
+https://streams.tangotv.in/PTCSIMRAN/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="1191" tvg-name="PTC Simran" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002NG05K.png?lock=720x540" group-title="🙏 Religious" iptv-org-id="PTCSimran.in@SD",PTC Simran (576p)
+https://mumt05.tangotv.in/87NeALx2PTCSIMRAN/index.m3u8
+#EXTINF:-1 tvg-id="593" tvg-name="Sadhna" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SADHNA/images/LOGO_HD/image.png" group-title="🙏 Religious" iptv-org-id="Sadhna.in@SD",Sadhna (720p)
+https://6n3yow8pl9ok-hls-live.5centscdn.com/sadhanalivetv/live.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="593" tvg-name="Sadhna TV" tvg-logo="https://dtil.tmsimg.com/assets/s143736_ld_h15_aa.png?lock=720x540" group-title="🙏 Religious" iptv-org-id="SadhnaTV.in@SD",Sadhna TV (576p)
+https://mumt05.tangotv.in/87NeALx2SADHNATV/index.m3u8
+#EXTINF:-1 tvg-id="SairamTV.in@SD" tvg-name="Sairam TV" tvg-logo="" group-title="🙏 Religious",Sairam TV
+https://cdn.pishow.tv/ott/live/1611/master.m3u8
+#EXTINF:-1 tvg-id="SairamTV.in@SD" tvg-name="Sairam TV" tvg-logo="" group-title="🙏 Religious",Sairam TV (576p)
+https://mumt04.tangotv.in/m18aqlK4SAIRAMTV/index.m3u8
+#EXTINF:-1 tvg-id="SalvationTV.in@SD" tvg-name="Salvation TV" tvg-logo="https://content.jdmagicbox.com/comp/bangalore/l5/080pxx80.xx80.150207120517.e4l5/catalogue/salvation-tv-network-pvt-m-g-road-bangalore-religious-organizations-1sabn2d.jpg" group-title="🙏 Religious",Salvation TV (1080p)
+https://ktismaservers.in:3902/live/salvationtvlive.m3u8
+#EXTINF:-1 tvg-id="SankaraTV.in@SD" tvg-name="Sankara TV" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Sri%20Sankara%20TV.png" group-title="🙏 Religious",Sankara TV (576p)
+https://mumt05.tangotv.in/87NeALx2SRISANKARA/index.m3u8
+#EXTINF:-1 tvg-id="SankaraTV.in@SD" tvg-name="Sankara TV" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Sri%20Sankara%20TV.png" group-title="🙏 Religious",Sankara TV (576p)
+https://mumbai-edge.smartplaytv.in/SriSankara/index.m3u8
+#EXTINF:-1 tvg-id="288" tvg-name="Sanskar TV" tvg-logo="https://dtil.tmsimg.com/assets/s143713_ld_h15_aa.png?lock=720x540" group-title="🙏 Religious" iptv-org-id="SanskarTV.in@SD",Sanskar TV (1080p)
+https://d26idhjf0y1p2g.cloudfront.net/out/v1/cd66dd25b9774cb29943bab54bbf3e2f/index.m3u8
+#EXTINF:-1 tvg-id="SanskarUK.in@SD" tvg-name="Sanskar UK" tvg-logo="https://i.imgur.com/AU5vSPF.png" group-title="🙏 Religious",Sanskar UK (1080p)
+https://d34z4embz0hjf6.cloudfront.net/out/v1/7ac2789ff9a544a49337d1ffc54ce61c/index.m3u8
+#EXTINF:-1 tvg-id="SanskarUSA.in@SD" tvg-name="Sanskar USA" tvg-logo="https://i.imgur.com/5WBWruX.png" group-title="🙏 Religious",Sanskar USA (1080p)
+https://d2netiedy8cz3x.cloudfront.net/out/v1/9bf6fa4ac8d6432cb98da13b121ba3c2/index.m3u8
+#EXTINF:-1 tvg-id="SanskarWebTV.in@SD" tvg-name="Sanskar Web TV" tvg-logo="https://i.imgur.com/mu2B6hw.png" group-title="🙏 Religious",Sanskar Web TV (1080p)
+https://deatfcv3xdvi3.cloudfront.net/out/v1/7a43dd2f64e34ec28da1b4bd6923251a/index.m3u8
+#EXTINF:-1 tvg-id="972" tvg-name="Sarv Dharm Sangam" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/cacbd93588fb35c8a65c86fcf4310dc0.png" group-title="🙏 Religious" iptv-org-id="SarvDharmSangam.in@SD",Sarv Dharm Sangam (576p)
+https://mumt01.tangotv.in/O5aw8Zn3SARAVDHARAMSANGAM/index.m3u8
+#EXTINF:-1 tvg-id="597" tvg-name="Satsang TV" tvg-logo="https://dtil.tmsimg.com/assets/s143766_ld_h15_aa.png?lock=720x540" group-title="🙏 Religious" iptv-org-id="SatsangTV.in@SD",Satsang TV (1080p)
+https://d2vfwvjxwtwq1t.cloudfront.net/out/v1/6b24239d5517495b986e7705490c6e65/index.m3u8
+#EXTINF:-1 tvg-id="SatsangWebTV.in@SD" tvg-name="Satsang Web TV" tvg-logo="https://i.imgur.com/40kNu1w.png" group-title="🙏 Religious",Satsang Web TV (1080p)
+https://d1ji7e9jbzm5g8.cloudfront.net/out/v1/769f22f64d80442889306b9c4abea63c/index.m3u8
+#EXTINF:-1 tvg-id="606" tvg-name="Shalom" tvg-logo="https://dtil.tmsimg.com/assets/s143774_ld_h15_aa.png?lock=720x540" group-title="🙏 Religious" iptv-org-id="Shalom.in@SD",Shalom (1080p)
+https://d2c4zqo2rb5uf1.cloudfront.net/master.m3u8
+#EXTINF:-1 tvg-id="606" tvg-name="Shalom" tvg-logo="https://dtil.tmsimg.com/assets/s143774_ld_h15_aa.png?lock=720x540" group-title="🙏 Religious" iptv-org-id="Shalom.in@Global",Shalom Global (1080p)
+https://d28xtgmk9tfk6b.cloudfront.net/master.m3u8
+#EXTINF:-1 tvg-id="606" tvg-name="Shalom" tvg-logo="https://dtil.tmsimg.com/assets/s143774_ld_h15_aa.png?lock=720x540" group-title="🙏 Religious" iptv-org-id="Shalom.in@SD",Shalom (576p)
+https://mumt01.tangotv.in/O5aw8Zn3SHALOMTVINDIA/index.m3u8
+#EXTINF:-1 tvg-id="608" tvg-name="Shubhsandesh TV" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SHUBHSANDESH_TV/images/LOGO_HD/image.png" group-title="🙏 Religious" iptv-org-id="ShubhsandeshTV.in@SD",Shubhsandesh TV (720p) [Not 24/7]
+https://6284rn2xr7xv-hls-live.wmncdn.net/shubhsandeshtv1/live123.stream/index.m3u8
+#EXTINF:-1 tvg-id="608" tvg-name="Shubhsandesh TV" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SHUBHSANDESH_TV/images/LOGO_HD/image.png" group-title="🙏 Religious" iptv-org-id="ShubhsandeshTV.in@SD",Shubhsandesh TV
+https://cdn.pishow.tv/ott/live/457/master.m3u8
+#EXTINF:-1 tvg-id="608" tvg-name="Shubhsandesh TV" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SHUBHSANDESH_TV/images/LOGO_HD/image.png" group-title="🙏 Religious" iptv-org-id="ShubhsandeshTV.in@SD",Shubhsandesh TV (576p)
+https://mumt03.tangotv.in/Dsly5z3HSHUBHSANDESH/index.m3u8
+#EXTINF:-1 tvg-id="1078" tvg-name="Soham TV" tvg-logo="https://i.imgur.com/cpedJ0L.png" group-title="🙏 Religious" iptv-org-id="SohamTV.in@SD",Soham TV (576p)
+https://mumt03.tangotv.in/Dsly5z3HSOHAMTV/index.m3u8
+#EXTINF:-1 tvg-id="607" tvg-name="Subhavaartha TV" tvg-logo="https://dtil.tmsimg.com/assets/s143869_ld_h15_aa.png?lock=720x540" group-title="🙏 Religious" iptv-org-id="SubhavaarthaTV.in@SD",Subhavaartha TV (720p)
+https://2mk9qae4rwyb-hls-live.wmncdn.net/shubhavartha/live.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="607" tvg-name="Subhavaartha TV" tvg-logo="https://dtil.tmsimg.com/assets/s143869_ld_h15_aa.png?lock=720x540" group-title="🙏 Religious" iptv-org-id="SubhavaarthaTV.in@SD",Subhavaartha TV
+https://cdn.pishow.tv/ott/live/278/master.m3u8
+#EXTINF:-1 tvg-id="607" tvg-name="Subhavaartha TV" tvg-logo="https://dtil.tmsimg.com/assets/s143869_ld_h15_aa.png?lock=720x540" group-title="🙏 Religious" iptv-org-id="SubhavaarthaTV.in@SD",Subhavaartha TV (576p)
+https://mumt05.tangotv.in/87NeALx2SUBHAVAARTHATV/index.m3u8
+#EXTINF:-1 tvg-id="1850" tvg-name="SVBC" tvg-logo="https://dtil.tmsimg.com/assets/s143889_ld_h9_ab.png?lock=720x540" group-title="🙏 Religious" iptv-org-id="SVBC.in@SD",SVBC Sri Venkateswara Bhakti Channel (1080p)
+https://player.mslivestream.net/telugu/5d076e5c3d34cb8bb08e54a4bb7e223e.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="1850" tvg-name="SVBC" tvg-logo="https://dtil.tmsimg.com/assets/s143889_ld_h9_ab.png?lock=720x540" group-title="🙏 Religious" iptv-org-id="SVBC.in@SD",SVBC (576p)
+https://mumt04.tangotv.in/m18aqlK4SVBCTELUGU/index.m3u8
+#EXTINF:-1 tvg-id="1850" tvg-name="SVBC" tvg-logo="https://dtil.tmsimg.com/assets/s143889_ld_h9_ab.png?lock=720x540" group-title="🙏 Religious" iptv-org-id="SVBC.in@SD",SVBC (720p)
+https://mumbai-edge.smartplaytv.in/SVBC/index.m3u8
+#EXTINF:-1 tvg-id="1417" tvg-name="SVBC 2" tvg-logo="https://dtil.tmsimg.com/assets/s143890_ld_h9_aa.png?lock=720x540" group-title="🙏 Religious" iptv-org-id="SVBC2.in@SD",SVBC 2 (1080p)
+https://player.mslivestream.net/tamil/ac206e74d75b285755ee4924df87d951.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="1417" tvg-name="SVBC 2" tvg-logo="https://dtil.tmsimg.com/assets/s143890_ld_h9_aa.png?lock=720x540" group-title="🙏 Religious" iptv-org-id="SVBC2.in@SD",SVBC 2 (576p)
+https://mumt03.tangotv.in/Dsly5z3HSVBC2TAMIL/index.m3u8
+#EXTINF:-1 tvg-id="1858" tvg-name="SVBC 3" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SVBC3.png" group-title="🙏 Religious" iptv-org-id="SVBC3.in@SD",SVBC 3 (720p)
+https://player.mslivestream.net/svbc/2e628d7e1b65d31254fd7705ff7ee64d.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="1858" tvg-name="SVBC 3" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SVBC3.png" group-title="🙏 Religious" iptv-org-id="SVBC3.in@SD",SVBC 3 (576p)
+https://mumt01.tangotv.in/O5aw8Zn3SVBC3KANNADA/index.m3u8
+#EXTINF:-1 tvg-id="1859" tvg-name="SVBC 4" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SVBC4.png" group-title="🙏 Religious" iptv-org-id="SVBC4.in@SD",SVBC 4 (1080p)
+https://player.mslivestream.net/mslive/13a2927187b9700ae7ea82d7841d5b68.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="1859" tvg-name="SVBC 4" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SVBC4.png" group-title="🙏 Religious" iptv-org-id="SVBC4.in@SD",SVBC 4 (576p)
+https://mumt05.tangotv.in/87NeALx2SVBC4HINDI/index.m3u8
+#EXTINF:-1 tvg-id="3459" tvg-name="Swastik TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/swastiktv.png" group-title="🙏 Religious" iptv-org-id="SwastikTV.in@SD",Swastik TV (720p)
+https://server.playontv.in/swastiktv/index.m3u8
+#EXTINF:-1 tvg-id="TotalBhakti.in@SD" tvg-name="Total Bhakti" tvg-logo="https://i.imgur.com/LPwRdmF.png" group-title="🙏 Religious",Total Bhakti (1080p)
+https://d34z4embz0hjf6.cloudfront.net/out/v1/d55b3323a9f142638f897378f0b526fe/index.m3u8
+#EXTINF:-1 tvg-id="856" tvg-name="Vedic" tvg-logo="https://dtil.tmsimg.com/assets/s144069_ld_h15_aa.png?lock=720x540" group-title="🙏 Religious" iptv-org-id="Vedic.in@SD",Vedic (480p)
+https://aasthaott.akamaized.net/110923/smil:vedic.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="856" tvg-name="Vedic" tvg-logo="https://dtil.tmsimg.com/assets/s144069_ld_h15_aa.png?lock=720x540" group-title="🙏 Religious" iptv-org-id="Vedic.in@SD",Vedic (576p)
+https://mumt05.tangotv.in/87NeALx2VEDIC/index.m3u8
+#EXTINF:-1 tvg-id="3497" tvg-name="Village TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/VillageTV.png" group-title="🙏 Religious" iptv-org-id="VillageTV.in@SD",Village TV (576p)
+https://villagetv.applelive.in/villagetv/villagetv/index.m3u8
+#EXTINF:-1 tvg-id="3497" tvg-name="Village TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/VillageTV.png" group-title="🙏 Religious" iptv-org-id="VillageTV.in@SD",Village TV (1080p)
+https://live.villagetv.net/villagetv/hd/index.m3u8
+#EXTINF:-1 tvg-id="ZainabiaChannel.in@SD" tvg-name="Zainabia Channel" tvg-logo="" group-title="🙏 Religious",Zainabia Channel
+https://zainabia.livebox.co.in/ZainabiaChannelhls/channel.m3u8
+#EXTINF:-1 tvg-id="3320" tvg-name="ZB Bhakti" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/zbbhakti.png" group-title="🙏 Religious" iptv-org-id="ZBBhakti.in@HD",ZB Bhakti (720p)
+https://server.zillarbarta.com/zbbhakti/index.m3u8

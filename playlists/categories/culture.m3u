@@ -1,0 +1,19 @@
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/mitthu786/tvepg/main/epg.xml.gz" url-tvg="https://raw.githubusercontent.com/mitthu786/tvepg/main/epg.xml.gz"
+#EXTINF:-1 tvg-id="AndyHaryana.in@SD" tvg-name="Andy Haryana" tvg-logo="https://i.imgur.com/rmCBD3e.png" group-title="🎭 Culture",Andy Haryana (576p)
+https://mumt03.tangotv.in/Dsly5z3HANDYHARYANA/index.m3u8
+#EXTINF:-1 tvg-id="420" tvg-name="Jaya Max" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Jaya%20Max.png" group-title="🎭 Culture" iptv-org-id="JayaMax.in@SD",Jaya Max (576p)
+http://103.72.101.252:8080/live/420.m3u8
+#EXTINF:-1 tvg-id="418" tvg-name="Jaya Plus" tvg-logo="https://dtil.tmsimg.com/assets/s143227_ld_h15_aa.png?lock=720x540" group-title="🎭 Culture" iptv-org-id="JayaPlus.in@SD",Jaya Plus (576p)
+https://mumbai-edge.smartplaytv.in/JayaPLus/index.m3u8
+#EXTINF:-1 tvg-id="419" tvg-name="Jaya TV" tvg-logo="https://dtil.tmsimg.com/assets/s143228_ld_h15_aa.png?lock=720x540" group-title="🎭 Culture" iptv-org-id="JayaTV.in@HD",Jaya TV (1080p)
+http://103.72.101.252:8080/live/419.m3u8
+#EXTINF:-1 tvg-id="JTBSClassic.in@Main" tvg-name="JTBS Classic" tvg-logo="https://jtbsclassic.dpdns.org/logo.png" group-title="🎭 Culture",JTBS Classic
+https://jtbsclassic.dpdns.org/live.m3u8
+#EXTINF:-1 tvg-id="704" tvg-name="Odisha TV" tvg-logo="https://dtil.tmsimg.com/assets/s143639_ld_h15_aa.png?lock=720x540" group-title="🎭 Culture" iptv-org-id="OdishaTV.in@SD",Odisha TV (720p)
+https://livetv.tarangplus.in/otv-origin/live/playlist.m3u8
+#EXTINF:-1 tvg-id="704" tvg-name="Odisha TV" tvg-logo="https://dtil.tmsimg.com/assets/s143639_ld_h15_aa.png?lock=720x540" group-title="🎭 Culture" iptv-org-id="OdishaTV.in@SD",Odisha TV
+https://cdn.pishow.tv/ott/live/1600/master.m3u8
+#EXTINF:-1 tvg-id="704" tvg-name="Odisha TV" tvg-logo="https://dtil.tmsimg.com/assets/s143639_ld_h15_aa.png?lock=720x540" group-title="🎭 Culture" iptv-org-id="OdishaTV.in@SD",Odisha TV (576p)
+https://streams.tangotv.in/OTVLIVE24X7/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="288" tvg-name="Sanskar TV" tvg-logo="https://dtil.tmsimg.com/assets/s143713_ld_h15_aa.png?lock=720x540" group-title="🎭 Culture" iptv-org-id="SanskarTV.in@SD",Sanskar TV (1080p)
+https://d26idhjf0y1p2g.cloudfront.net/out/v1/cd66dd25b9774cb29943bab54bbf3e2f/index.m3u8
