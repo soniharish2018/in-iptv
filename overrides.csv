@@ -1,0 +1,9 @@
+# Manual EPG fixes. Anything here wins over automatic name matching.
+# Find the ids you need in playlists/epg-mapping.csv (column: match = none
+# means no guide was found; match = fuzzy is worth eyeballing).
+#
+#   iptv_id  = the iptv-org channel id, without the @FEED suffix
+#   epg_id   = the id from mitthu786/tvepg
+#              JioTV "144" | TataPlay "ts840" | Zee5 "0-9-zeetv"
+#              SunNXT "sun9025" | SonyLIV "sony1000009246"
+iptv_id,epg_id
