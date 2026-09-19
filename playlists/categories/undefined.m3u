@@ -7,6 +7,8 @@ https://d1msejlow1t3l4.cloudfront.net/fta/dishatv/playlist.m3u8
 https://cdn.pishow.tv/ott/live/10008/master.m3u8
 #EXTINF:-1 tvg-id="3354" tvg-name="Fast1" tvg-logo="https://papaji.freetvindia.com/media/channels/fast1.png" group-title="❓ Undefined" iptv-org-id="Fast1.in@SD",Fast1 (576p)
 https://mumt03.tangotv.in/Dsly5z3HFast1/index.m3u8
+#EXTINF:-1 tvg-id="HSTV.in@SD" tvg-name="HSTV" tvg-logo="https://ibb.co/Ng5nkX6F" group-title="❓ Undefined",HSTV (720p)
+https://live.castmaxcloud.com/live/hstv.m3u8
 #EXTINF:-1 tvg-id="1278" tvg-name="Prarthana Bhawan TV" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PRARTHANA_BHAWAN/images/LOGO_HD/image.png" group-title="❓ Undefined" iptv-org-id="PrarthanaBhawanTV.in@SD",Prarthana Bhawan TV (576p)
 https://mumt03.tangotv.in/Dsly5z3HPRATHANABHAWAN/index.m3u8
 #EXTINF:-1 tvg-id="PrarthanaTV.in@SD" tvg-name="Prarthana TV" tvg-logo="https://i.imgur.com/gj7dtNF.png" group-title="❓ Undefined",Prarthana TV (720p)
@@ -68,6 +70,8 @@ https://mumt03.tangotv.in/Dsly5z3HSAITV/index.m3u8
 https://mumbai-edge.smartplaytv.in/SaiTV/index.m3u8
 #EXTINF:-1 tvg-id="972" tvg-name="Sarv Dharam Sangam" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sarv_Dharam_Sangam.png" group-title="❓ Undefined" iptv-org-id="SarvDharamSangam.in@SD",Sarv Dharam Sangam (576p)
 http://103.72.101.252:8080/live/972.m3u8
+#EXTINF:-1 tvg-id="972" tvg-name="Sarv Dharam Sangam" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sarv_Dharam_Sangam.png" group-title="❓ Undefined" iptv-org-id="SarvDharamSangam.in@SD",Sarv Dharam Sangam (720p)
+https://live.castmaxcloud.com/live/sdsangam2.m3u8
 #EXTINF:-1 tvg-id="1077" tvg-name="Sharnam TV" tvg-logo="https://papaji.freetvindia.com/media/channels/SarnamTV.png" group-title="❓ Undefined" iptv-org-id="SharnamTV.in@SD",Sharnam TV (576p)
 https://mumt06.tangotv.in/qYyB8fXVSHARNAMTV/index.m3u8
 #EXTINF:-1 tvg-id="2004" tvg-name="Shekinah TV" tvg-logo="https://i.imgur.com/6hTshsG.png" group-title="❓ Undefined" iptv-org-id="ShekinahTV.in@SD",Shekinah TV (1080p)
