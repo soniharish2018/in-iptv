@@ -15,8 +15,6 @@ https://mumt03.tangotv.in/Dsly5z3HPRATHANABHAWAN/index.m3u8
 https://livetv.tarangplus.in/prarthana-origin/live/playlist.m3u8
 #EXTINF:-1 tvg-id="PravasiChannel.in@SD" tvg-name="Pravasi Channel" tvg-logo="https://i.imgur.com/1dHarb7.png" group-title="❓ Undefined",Pravasi Channel (1080p)
 https://m6gdavepdn93-hls-live.5centscdn.com/pravasi/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="PunjabiZindabadTV.in@SD" tvg-name="Punjabi Zindabad TV" tvg-logo="https://i.imgur.com/H46oTS2.png" group-title="❓ Undefined",Punjabi Zindabad (360p) [Not 24/7]
-http://stream.pztv.online/pztv/playlist.m3u8
 #EXTINF:-1 tvg-id="824" tvg-name="Puthuyugam TV" tvg-logo="https://dtil.tmsimg.com/assets/s143693_ld_h15_aa.png?lock=720x540" group-title="❓ Undefined" iptv-org-id="PuthuyugamTV.in@SD",Puthuyugam TV (576p)
 https://mumt04.tangotv.in/m18aqlK4PUTHUYUGAMTV/index.m3u8
 #EXTINF:-1 tvg-id="950" tvg-name="R Plus" tvg-logo="https://i.imgur.com/XUnWcZF.png" group-title="❓ Undefined" iptv-org-id="RPlus.in@SD",R Plus (768p)
@@ -32,8 +30,6 @@ https://6n3yorwpy9ok-hls-live.5centscdn.com/raftaarmedia/243bd1ce0387f18005abfc4
 #EXTINF:-1 tvg-id="1999" tvg-name="Raftaar Media" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_RAFTAAR_MEDIA/images/LOGO_HD/image.png" group-title="❓ Undefined" iptv-org-id="RaftaarMedia.in@SD",Raftaar Media (576p)
 https://mumt04.tangotv.in/m18aqlK4RAFTAARMEDIA/index.m3u8
 #EXTINF:-1 tvg-id="639" tvg-name="Ramdhenu" tvg-logo="https://dtil.tmsimg.com/assets/s143717_ld_h15_aa.png?lock=720x540" group-title="❓ Undefined" iptv-org-id="Ramdhenu.in@SD",Ramdhenu (576p)
-https://cdn.pishow.tv/ott/live/10016/master.m3u8
-#EXTINF:-1 tvg-id="639" tvg-name="Ramdhenu" tvg-logo="https://dtil.tmsimg.com/assets/s143717_ld_h15_aa.png?lock=720x540" group-title="❓ Undefined" iptv-org-id="Ramdhenu.in@SD",Ramdhenu (576p)
 https://mumt01.tangotv.in/O5aw8Zn3RAMDHENU/index.m3u8
 #EXTINF:-1 tvg-id="623" tvg-name="Rang" tvg-logo="https://dtil.tmsimg.com/assets/s143718_ld_h15_aa.png?lock=720x540" group-title="❓ Undefined" iptv-org-id="Rang.in@SD",Rang (576p)
 https://cdn.pishow.tv/ott/live/10017/master.m3u8
@@ -41,9 +37,6 @@ https://cdn.pishow.tv/ott/live/10017/master.m3u8
 https://streams.tangotv.in/RANG/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="623" tvg-name="Rang" tvg-logo="https://dtil.tmsimg.com/assets/s143718_ld_h15_aa.png?lock=720x540" group-title="❓ Undefined" iptv-org-id="Rang.in@SD",Rang (576p)
 https://mumt01.tangotv.in/O5aw8Zn3RANG/index.m3u8
-#EXTINF:-1 tvg-id="635" tvg-name="Rengoni" tvg-logo="https://dtil.tmsimg.com/assets/s143722_ld_h15_aa.png?lock=720x540" group-title="❓ Undefined" iptv-org-id="Rengoni.in@SD",Rengoni (576p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-http://103.175.73.12:8080/live/709/master.m3u8
 #EXTINF:-1 tvg-id="635" tvg-name="Rengoni" tvg-logo="https://dtil.tmsimg.com/assets/s143722_ld_h15_aa.png?lock=720x540" group-title="❓ Undefined" iptv-org-id="Rengoni.in@SD",Rengoni (396p)
 https://d1msejlow1t3l4.cloudfront.net/fta/rengonitv/playlist.m3u8
 #EXTINF:-1 tvg-id="635" tvg-name="Rengoni" tvg-logo="https://dtil.tmsimg.com/assets/s143722_ld_h15_aa.png?lock=720x540" group-title="❓ Undefined" iptv-org-id="Rengoni.in@SD",Rengoni (576p)
@@ -52,10 +45,6 @@ https://streams.tangotv.in/RENGONI/ORIGIN/index.m3u8
 https://mumt05.tangotv.in/87NeALx2RENGONI/index.m3u8
 #EXTINF:-1 tvg-id="1667" tvg-name="Rongeen TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Rongeen_TV.png" group-title="❓ Undefined" iptv-org-id="RongeenTV.in@SD",Rongeen TV (720p)
 https://server.thelegitpro.in/rongeentv/rongeentv/index.m3u8
-#EXTINF:-1 tvg-id="1667" tvg-name="Rongeen TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Rongeen_TV.png" group-title="❓ Undefined" iptv-org-id="RongeenTV.in@SD",Rongeen TV (576p)
-http://tvsen5.aynascope.net/RongeenTV/index.m3u8
-#EXTINF:-1 tvg-id="1667" tvg-name="Rongeen TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Rongeen_TV.png" group-title="❓ Undefined" iptv-org-id="RongeenTV.in@SD",Rongeen TV
-https://cdn.pishow.tv/ott/live/1029/master.m3u8
 #EXTINF:-1 tvg-id="1667" tvg-name="Rongeen TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Rongeen_TV.png" group-title="❓ Undefined" iptv-org-id="RongeenTV.in@SD",Rongeen TV (576p)
 https://mumt05.tangotv.in/87NeALx2RONGEENTV/index.m3u8
 #EXTINF:-1 tvg-id="1667" tvg-name="Rongeen TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Rongeen_TV.png" group-title="❓ Undefined" iptv-org-id="RongeenTV.in@SD",Rongeen TV (576p)

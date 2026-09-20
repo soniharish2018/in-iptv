@@ -53,8 +53,6 @@ https://mumt03.tangotv.in/Dsly5z3HKAIRALIARABIA/index.m3u8
 https://mumt01.tangotv.in/O5aw8Zn3KAIRALI/index.m3u8
 #EXTINF:-1 tvg-id="710" tvg-name="Kairali TV" tvg-logo="https://dtil.tmsimg.com/assets/s143247_ld_h15_aa.png?lock=720x540" group-title="📺 General" iptv-org-id="KairaliTV.in@SD",Kairali TV (576p)
 https://streams.tangotv.in/KAIRALI/ORIGIN/index.m3u8
-#EXTINF:-1 tvg-id="1209" tvg-name="Kalaignar TV" tvg-logo="https://dtil.tmsimg.com/assets/s143249_ld_h15_aa.png?lock=720x540" group-title="📺 General" iptv-org-id="KalaignarTV.in@SD",Kalaignar TV (576p)
-http://103.72.101.252:8080/live/1209.m3u8
 #EXTINF:-1 tvg-id="1209" tvg-name="Kalaignar TV" tvg-logo="https://dtil.tmsimg.com/assets/s143249_ld_h15_aa.png?lock=720x540" group-title="📺 General" iptv-org-id="KalaignarTV.in@SD",Kalaignar TV (396p)
 https://segment.yuppcdn.net/240122/kalaignartv/playlist.m3u8
 #EXTINF:-1 tvg-id="563" tvg-name="Kaumudy TV" tvg-logo="https://dtil.tmsimg.com/assets/s143259_ld_h15_aa.png?lock=720x540" group-title="📺 General" iptv-org-id="KaumudyTV.in@SD",Kaumudy TV (720p)

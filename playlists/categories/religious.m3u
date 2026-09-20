@@ -161,8 +161,6 @@ https://mumbai-edge.smartplaytv.in/HosannaTV/index.m3u8
 https://6n3yow8pl9ok-hls-live.5centscdn.com/ishwartvlive/tv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="IshwarBhaktiTV.in@SD" tvg-name="Ishwar Bhakti TV" tvg-logo="https://dtil.tmsimg.com/assets/s143213_ld_h9_aa.png?lock=720x540" group-title="🙏 Religious",Ishwar Bhakti TV (576p)
 https://mumt05.tangotv.in/87NeALx2ISHWARBHAKTI/index.m3u8
-#EXTINF:-1 tvg-id="2768" tvg-name="Jothi TV" tvg-logo="https://dtil.tmsimg.com/assets/s143239_ld_h15_aa.png?lock=720x540" group-title="🙏 Religious" iptv-org-id="JothiTV.in@SD",Jothi TV (1080p)
-http://103.154.3.101:5001/live/2768.m3u8
 #EXTINF:-1 tvg-id="JoyTV.in@SD" tvg-name="Joy TV" tvg-logo="https://joytvchennai.org/wp-content/uploads/2026/04/cropped-512.png" group-title="🙏 Religious",Joy TV (1080p)
 https://ktismaservers.in:3412/live/joytvlive.m3u8
 #EXTINF:-1 tvg-id="JoyTV.in@SD" tvg-name="Joy TV" tvg-logo="https://joytvchennai.org/wp-content/uploads/2026/04/cropped-512.png" group-title="🙏 Religious",Joy TV (576p)
@@ -195,8 +193,6 @@ https://mumbai-edge.smartplaytv.in/MercyTV/index.m3u8
 https://mumt01.tangotv.in/O5aw8Zn3MHONESHRADDHA/index.m3u8
 #EXTINF:-1 tvg-id="MHOneShraddha.in@SD" tvg-name="MH One Shraddha" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002NFEZK.png?lock=720x540" group-title="🙏 Religious",MH One Shraddha (576p)
 https://livestream.jswk.online/mhoneshraddha/live/index.m3u8
-#EXTINF:-1 tvg-id="603" tvg-name="Nambikkai TV" tvg-logo="https://dtil.tmsimg.com/assets/s143567_ld_h9_aa.png?lock=720x540" group-title="🙏 Religious" iptv-org-id="NambikkaiTV.in@SD",Nambikkai TV (576p)
-https://mumt02.tangotv.in/NAMBIKKAITV/index.m3u8
 #EXTINF:-1 tvg-id="603" tvg-name="Nambikkai TV" tvg-logo="https://dtil.tmsimg.com/assets/s143567_ld_h9_aa.png?lock=720x540" group-title="🙏 Religious" iptv-org-id="NambikkaiTV.in@SD",Nambikkai TV
 https://cdn.pishow.tv/ott/live/1389/master.m3u8
 #EXTINF:-1 tvg-id="NamdhariTV.in@SD" tvg-name="Namdhari TV" tvg-logo="https://i.imgur.com/NalsXTo.png" group-title="🙏 Religious",Namdhari (404p) [Not 24/7]
@@ -215,9 +211,6 @@ https://mumbai-edge.smartplaytv.in/PMC/index.m3u8
 https://mumbai-edge.smartplaytv.in/PowerVision/index.m3u8
 #EXTINF:-1 tvg-id="1644" tvg-name="Powervision TV" tvg-logo="https://dtil.tmsimg.com/assets/s143670_ld_h15_aa.png?lock=720x540" group-title="🙏 Religious" iptv-org-id="PowervisionTV.in@SD",Powervision TV (576p)
 https://mumt07.tangotv.in/zHjX9OFlPOWERVISION/index.m3u8
-#EXTINF:-1 tvg-id="1191" tvg-name="PTC Simran" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002NG05K.png?lock=720x540" group-title="🙏 Religious" iptv-org-id="PTCSimran.in@SD",PTC Simran (576p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-http://103.175.73.12:8080/live/183/master.m3u8
 #EXTINF:-1 tvg-id="1191" tvg-name="PTC Simran" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002NG05K.png?lock=720x540" group-title="🙏 Religious" iptv-org-id="PTCSimran.in@SD",PTC Simran
 https://cdn.pishow.tv/ott/live/1503/master.m3u8
 #EXTINF:-1 tvg-id="1191" tvg-name="PTC Simran" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002NG05K.png?lock=720x540" group-title="🙏 Religious" iptv-org-id="PTCSimran.in@SD",PTC Simran (576p)
