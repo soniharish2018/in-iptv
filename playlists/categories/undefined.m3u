@@ -57,8 +57,6 @@ https://cdn.pishow.tv/ott/live/1235/master.m3u8
 https://mumt03.tangotv.in/Dsly5z3HSAITV/index.m3u8
 #EXTINF:-1 tvg-id="937" tvg-name="Sai TV" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SAI_TV/images/LOGO_HD/image.png" group-title="❓ Undefined" iptv-org-id="SaiTV.in@SD",Sai TV (576p)
 https://mumbai-edge.smartplaytv.in/SaiTV/index.m3u8
-#EXTINF:-1 tvg-id="972" tvg-name="Sarv Dharam Sangam" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sarv_Dharam_Sangam.png" group-title="❓ Undefined" iptv-org-id="SarvDharamSangam.in@SD",Sarv Dharam Sangam (576p)
-http://103.72.101.252:8080/live/972.m3u8
 #EXTINF:-1 tvg-id="972" tvg-name="Sarv Dharam Sangam" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sarv_Dharam_Sangam.png" group-title="❓ Undefined" iptv-org-id="SarvDharamSangam.in@SD",Sarv Dharam Sangam (720p)
 https://live.castmaxcloud.com/live/sdsangam2.m3u8
 #EXTINF:-1 tvg-id="1077" tvg-name="Sharnam TV" tvg-logo="https://papaji.freetvindia.com/media/channels/SarnamTV.png" group-title="❓ Undefined" iptv-org-id="SharnamTV.in@SD",Sharnam TV (576p)
@@ -67,13 +65,10 @@ https://mumt06.tangotv.in/qYyB8fXVSHARNAMTV/index.m3u8
 https://livetv.timeiptv.in/ShekinahNewsIndia/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="2004" tvg-name="Shekinah TV" tvg-logo="https://i.imgur.com/6hTshsG.png" group-title="❓ Undefined" iptv-org-id="ShekinahTV.in@SD",Shekinah TV (576p)
 https://mumt03.tangotv.in/Dsly5z3HSHEKINAHTV/index.m3u8
-#EXTINF:-1 tvg-id="1452" tvg-name="Shemaroo Marathi Bana" tvg-logo="https://dtil.tmsimg.com/assets/s143777_ld_h15_aa.png?lock=720x540" group-title="❓ Undefined" iptv-org-id="ShemarooMarathiBana.in@SD",Shemaroo Marathi Bana (720p)
-https://airtelapp.shemaroo.com/marathibana/smil:marathibanaadp.smil/playlist.m3u8]
-#EXTINF:-1 tvg-id="1452" tvg-name="Shemaroo Marathi Bana" tvg-logo="https://dtil.tmsimg.com/assets/s143777_ld_h15_aa.png?lock=720x540" group-title="❓ Undefined" iptv-org-id="ShemarooMarathiBana.in@SD",Shemaroo Marathi Bana (576p)
-#EXTVLCOPT:http-user-agent=#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-http://103.175.73.12:8080/live/189/master.m3u8
 #EXTINF:-1 tvg-id="1452" tvg-name="Shemaroo Marathi Bana" tvg-logo="https://dtil.tmsimg.com/assets/s143777_ld_h15_aa.png?lock=720x540" group-title="❓ Undefined" iptv-org-id="ShemarooMarathiBana.in@SD",Shemaroo Marathi Bana (576p)
 https://mumt07.tangotv.in/zHjX9OFlSHEMAROOMARATHIBANA/index.m3u8
+#EXTINF:-1 tvg-id="1452" tvg-name="Shemaroo Marathi Bana" tvg-logo="https://dtil.tmsimg.com/assets/s143777_ld_h15_aa.png?lock=720x540" group-title="❓ Undefined" iptv-org-id="ShemarooMarathiBana.in@SD",Shemaroo Marathi Bana (720p)
+https://airtelapp.shemaroo.com/marathibana/smil:marathibanaadp.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="828" tvg-name="Shubh TV" tvg-logo="https://dtil.tmsimg.com/assets/s143783_ld_h15_aa.png?lock=720x540" group-title="❓ Undefined" iptv-org-id="ShubhTV.in@SD",Shubh TV (1080p)
 https://d2g1vdc6ozl2o8.cloudfront.net/out/v1/0a0dc7d7911b4fddbb4dfc963fdd4b9e/index.m3u8
 #EXTINF:-1 tvg-id="828" tvg-name="Shubh TV" tvg-logo="https://dtil.tmsimg.com/assets/s143783_ld_h15_aa.png?lock=720x540" group-title="❓ Undefined" iptv-org-id="ShubhTV.in@SD",Shubh TV (576p)
