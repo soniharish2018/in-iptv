@@ -25,5 +25,3 @@ https://amg01448-samsungin-ndtvgoodtimes-samsungin-ad-gp.amagi.tv/playlist/amg01
 https://d2gvyg6lvauoko.cloudfront.net/230226/ndtvgoodtimes/chunks.m3u8
 #EXTINF:-1 tvg-id="2757" tvg-name="Zee Zest" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022ZKWY.png?lock=720x540" group-title="💅 Lifestyle" iptv-org-id="ZeeZest.in@HD",Zee Zest HD (1080p)
 http://103.72.101.252:8080/live/2757.m3u8
-#EXTINF:-1 tvg-id="2757" tvg-name="Zee Zest" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022ZKWY.png?lock=720x540" group-title="💅 Lifestyle" iptv-org-id="ZeeZest.in@HD",Zee Zest HD (1080p)
-http://107.167.16.138/zeezesthd/index.m3u8?token=test

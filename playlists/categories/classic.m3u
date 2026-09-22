@@ -2,8 +2,6 @@
 #EXTINF:-1 tvg-id="ZeeCineClassic.in@SD" tvg-name="Zee Cine Classic" tvg-logo="https://i.imgur.com/QCRhS1n.png" group-title="🎞️ Classic",Zee Cine Classic (1080p)
 https://amg00862-amg00862c8-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c8-amgplt0173/playlist.m3u8
 #EXTINF:-1 tvg-id="1691" tvg-name="Zee Classic" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022J66T.png?lock=720x540" group-title="🎞️ Classic" iptv-org-id="ZeeClassic.in@SD",Zee Classic (576p)
-http://103.72.101.252:8080/live/1691.m3u8
-#EXTINF:-1 tvg-id="1691" tvg-name="Zee Classic" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022J66T.png?lock=720x540" group-title="🎞️ Classic" iptv-org-id="ZeeClassic.in@SD",Zee Classic (576p)
 http://107.167.16.138/zeeclassic/index.m3u8?token=test
 #EXTINF:-1 tvg-id="ZillarBartaNews.in@HD" tvg-name="ZillarBarta News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/zillarbarta.png" group-title="🎞️ Classic",ZillarBarta News
 https://server.zillarbarta.com/zillarbarta/index.m3u8
