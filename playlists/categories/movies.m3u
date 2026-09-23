@@ -102,7 +102,7 @@ https://mumt04.tangotv.in/m18aqlK4MANORANJANMOVIES/index.m3u8
 http://107.167.16.138/manoranjanmovies/index.m3u8?token=test
 #EXTINF:-1 tvg-id="MHOneMovies.in@SD" tvg-name="MH One Movies" tvg-logo="" group-title="🎬 Movies",MH One Movies (576p)
 https://mumt03.tangotv.in/Dsly5z3HMHONEMOVIE/index.m3u8
-#EXTINF:-1 tvg-id="877" tvg-name="MNX" tvg-logo="https://dtil.tmsimg.com/assets/s143549_ld_h15_aa.png?lock=720x540" group-title="🎬 Movies" iptv-org-id="MNX.in@SD",MNX (576p)
+#EXTINF:-1 tvg-id="462" tvg-name="MNX" tvg-logo="https://dtil.tmsimg.com/assets/s143549_ld_h15_aa.png?lock=720x540" group-title="🎬 Movies" iptv-org-id="MNX.in@SD",MNX (576p)
 http://59.103.38.46:8000/play/a052/index.m3u8
 #EXTINF:-1 tvg-id="3336" tvg-name="NH BollyFlix" tvg-logo="https://i.ibb.co/yF9MPTDK/blyflx.png" group-title="🎬 Movies" iptv-org-id="NHBollyFlix.in@HD",NH BollyFlix (1080p)
 https://jmp2.uk/stvp-IN46000140Q
@@ -134,11 +134,11 @@ https://mumt04.tangotv.in/m18aqlK4SHEMAROOJOSH/index.m3u8
 https://d393sxaxig6bax.cloudfront.net/out/v1/589cf2cf44bf42bb941e817a2240d62e/index.m3u8
 #EXTINF:-1 tvg-id="ShubhCinemaTV.in@SD" tvg-name="Shubh Cinema TV" tvg-logo="https://i.imgur.com/RQhorAG.png" group-title="🎬 Movies",Shubh Cinema TV (576p)
 https://mumt03.tangotv.in/Dsly5z3HSHUBHCINEMA/index.m3u8
-#EXTINF:-1 tvg-id="289" tvg-name="Sony Max" tvg-logo="https://dtil.tmsimg.com/assets/s157590_ld_h15_aa.png?lock=720x540" group-title="🎬 Movies" iptv-org-id="SonyMax.in@SD",Sony Max (576p) [Geo-blocked]
+#EXTINF:-1 tvg-id="476" tvg-name="Sony Max" tvg-logo="https://dtil.tmsimg.com/assets/s157590_ld_h15_aa.png?lock=720x540" group-title="🎬 Movies" iptv-org-id="SonyMax.in@SD",Sony Max (576p) [Geo-blocked]
 http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=156013&extension=ts&play_token=slNi06NyY0
-#EXTINF:-1 tvg-id="289" tvg-name="Sony Max" tvg-logo="https://dtil.tmsimg.com/assets/s157590_ld_h15_aa.png?lock=720x540" group-title="🎬 Movies" iptv-org-id="SonyMax.in@SD",Sony Max (1080p)
+#EXTINF:-1 tvg-id="476" tvg-name="Sony Max" tvg-logo="https://dtil.tmsimg.com/assets/s157590_ld_h15_aa.png?lock=720x540" group-title="🎬 Movies" iptv-org-id="SonyMax.in@SD",Sony Max (1080p)
 https://cloudplay-sonyliv.pages.dev/max.m3u8
-#EXTINF:-1 tvg-id="289" tvg-name="Sony Max" tvg-logo="https://dtil.tmsimg.com/assets/s157590_ld_h15_aa.png?lock=720x540" group-title="🎬 Movies" iptv-org-id="SonyMax.in@HD",Sony Max HD (1080p)
+#EXTINF:-1 tvg-id="476" tvg-name="Sony Max" tvg-logo="https://dtil.tmsimg.com/assets/s157590_ld_h15_aa.png?lock=720x540" group-title="🎬 Movies" iptv-org-id="SonyMax.in@HD",Sony Max HD (1080p)
 https://cloudplay-sonyliv.pages.dev/maxhd.m3u8
 #EXTINF:-1 tvg-id="483" tvg-name="Sony Max 2" tvg-logo="https://dtil.tmsimg.com/assets/s143801_ld_h15_aa.png?lock=720x540" group-title="🎬 Movies" iptv-org-id="SonyMax2.in@SD",Sony Max 2 (576p)
 http://149.71.34.166:8000/play/a00z/index.m3u8
@@ -176,13 +176,13 @@ https://d3gnyty2vddhsg.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://mumbai-edge.smartplaytv.in/TheMovieClub/index.m3u8
 #EXTINF:-1 tvg-id="488" tvg-name="Zee Action" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022K5ZV.png?lock=720x540" group-title="🎬 Movies" iptv-org-id="ZeeAction.in@SD",Zee Action (576p)
 http://107.167.16.138/zeeaction/index.m3u8?token=test
-#EXTINF:-1 tvg-id="484" tvg-name="Zee Cinema" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022HVX3.png?lock=720x540" group-title="🎬 Movies" iptv-org-id="ZeeCinema.in@SD",Zee Cinema (576p)
+#EXTINF:-1 tvg-id="165" tvg-name="Zee Cinema" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022HVX3.png?lock=720x540" group-title="🎬 Movies" iptv-org-id="ZeeCinema.in@SD",Zee Cinema (576p)
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD.m3u8
-#EXTINF:-1 tvg-id="484" tvg-name="Zee Cinema" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022HVX3.png?lock=720x540" group-title="🎬 Movies" iptv-org-id="ZeeCinema.in@APAC",Zee Cinema APAC (720p)
+#EXTINF:-1 tvg-id="165" tvg-name="Zee Cinema" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022HVX3.png?lock=720x540" group-title="🎬 Movies" iptv-org-id="ZeeCinema.in@APAC",Zee Cinema APAC (720p)
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/sg/YuppTV/ZeeCinemaAPAC.m3u8
-#EXTINF:-1 tvg-id="413" tvg-name="Zee Cinemalu" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022ZEQ9.png?lock=720x540" group-title="🎬 Movies" iptv-org-id="ZeeCinemalu.in@HD",Zee Cinemalu HD (720p)
+#EXTINF:-1 tvg-id="1363" tvg-name="Zee Cinemalu" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022ZEQ9.png?lock=720x540" group-title="🎬 Movies" iptv-org-id="ZeeCinemalu.in@HD",Zee Cinemalu HD (720p)
 https://mumbai-edge.smartplaytv.in/ZeeCinemaluHD/index.m3u8
 #EXTINF:-1 tvg-id="ZeeSouthFlix.in@HD" tvg-name="Zee South Flix" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zsouthflix.png" group-title="🎬 Movies",Zee South Flix (1080p)
 https://amg00862-amg00862c9-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c9-amgplt0173/playlist.m3u8
-#EXTINF:-1 tvg-id="153" tvg-name="Zee Talkies" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022S299.png?lock=720x540" group-title="🎬 Movies" iptv-org-id="ZeeTalkies.in@SD",Zee Talkies (576p)
+#EXTINF:-1 tvg-id="1358" tvg-name="Zee Talkies" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022S299.png?lock=720x540" group-title="🎬 Movies" iptv-org-id="ZeeTalkies.in@SD",Zee Talkies (576p)
 http://107.167.16.138/zeetalkies/index.m3u8?token=test
