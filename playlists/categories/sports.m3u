@@ -13,9 +13,9 @@ https://cloudplay-sonyliv.pages.dev/ten1hd.m3u8
 https://cloudplay-sonyliv.pages.dev/ten2.m3u8
 #EXTINF:-1 tvg-id="ts462" tvg-name="Sony Sports Ten 2" tvg-logo="https://dtil.tmsimg.com/assets/s157592_ld_h15_aa.png?lock=720x540" group-title="⚽ Sports" iptv-org-id="SonySportsTen2.in@HD",Sony Sports Ten 2 HD (1080p)
 https://cloudplay-sonyliv.pages.dev/ten2hd.m3u8
-#EXTINF:-1 tvg-id="ts171" tvg-name="Sony Sports Ten 3 Hindi" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0025TCMR.png?lock=720x540" group-title="⚽ Sports" iptv-org-id="SonySportsTen3Hindi.in@SD",Sony Sports Ten 3 Hindi (1080p)
+#EXTINF:-1 tvg-id="ts464" tvg-name="Sony Sports Ten 3 Hindi" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0025TCMR.png?lock=720x540" group-title="⚽ Sports" iptv-org-id="SonySportsTen3Hindi.in@SD",Sony Sports Ten 3 Hindi (1080p)
 https://cloudplay-sonyliv.pages.dev/ten3.m3u8
-#EXTINF:-1 tvg-id="ts171" tvg-name="Sony Sports Ten 3 Hindi" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0025TCMR.png?lock=720x540" group-title="⚽ Sports" iptv-org-id="SonySportsTen3Hindi.in@HD",Sony Sports Ten 3 Hindi HD (1080p)
+#EXTINF:-1 tvg-id="ts464" tvg-name="Sony Sports Ten 3 Hindi" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0025TCMR.png?lock=720x540" group-title="⚽ Sports" iptv-org-id="SonySportsTen3Hindi.in@HD",Sony Sports Ten 3 Hindi HD (1080p)
 https://cloudplay-sonyliv.pages.dev/ten3hd.m3u8
 #EXTINF:-1 tvg-id="ts610" tvg-name="Sony Sports Ten 4" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0025T4PV.png?lock=720x540" group-title="⚽ Sports" iptv-org-id="SonySportsTen4.in@Tamil",Sony Sports Ten 4 (1080p)
 https://cloudplay-sonyliv.pages.dev/ten4.m3u8
