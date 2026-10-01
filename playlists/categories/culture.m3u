@@ -13,3 +13,5 @@ https://cdn.pishow.tv/ott/live/1600/master.m3u8
 https://streams.tangotv.in/OTVLIVE24X7/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="288" tvg-name="Sanskar TV" tvg-logo="https://dtil.tmsimg.com/assets/s143713_ld_h15_aa.png?lock=720x540" group-title="🎭 Culture" iptv-org-id="SanskarTV.in@SD",Sanskar TV (1080p)
 https://d26idhjf0y1p2g.cloudfront.net/out/v1/cd66dd25b9774cb29943bab54bbf3e2f/index.m3u8
+#EXTINF:-1 tvg-id="1454" tvg-name="Shiksha TV" tvg-logo="https://play-lh.googleusercontent.com/1ibQhkMCsnXaI9LOiZH-Iyw8rM8CMVJEZAlbFphWuZApSPIp-eZsjltDlN6rqJzIonQ" group-title="🎭 Culture" iptv-org-id="ShikshaTV.in@SD",Shiksha TV (576p)
+http://51.75.127.199:3141/shikshatv/index.m3u8

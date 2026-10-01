@@ -3,6 +3,8 @@
 https://mumt05.tangotv.in/87NeALx2BVG/index.m3u8
 #EXTINF:-1 tvg-id="583" tvg-name="DD Kisan" tvg-logo="https://dtil.tmsimg.com/assets/s142789_ld_h9_aa.png?lock=720x540" group-title="🎓 Education" iptv-org-id="DDKisan.in@SD",DD Kisan (1080p)
 https://mumbai-edge.smartplaytv.in/DDKisan/index.m3u8
+#EXTINF:-1 tvg-id="583" tvg-name="DD Kisan" tvg-logo="https://dtil.tmsimg.com/assets/s142789_ld_h9_aa.png?lock=720x540" group-title="🎓 Education" iptv-org-id="DDKisan.in@SD",DD Kisan (576p)
+https://cdn.pishow.tv/ott/live/223/master.m3u8
 #EXTINF:-1 tvg-id="EVidya10.in@SD" tvg-name="E-Vidya 10" tvg-logo="https://i.imgur.com/0sz6t9F.png" group-title="🎓 Education",E-Vidya 10 (576p)
 http://103.72.101.252:8080/live/411.m3u8
 #EXTINF:-1 tvg-id="EVidya11.in@SD" tvg-name="E-Vidya 11" tvg-logo="https://i.imgur.com/0sz6t9F.png" group-title="🎓 Education",E-Vidya 11 (576p)
@@ -25,7 +27,11 @@ http://103.72.101.252:8080/live/410.m3u8
 https://mumt05.tangotv.in/87NeALx2GYANDARSHAN/index.m3u8
 #EXTINF:-1 tvg-id="1429" tvg-name="Kite Victers" tvg-logo="https://i.imgur.com/kj4OEsb.png" group-title="🎓 Education" iptv-org-id="KiteVicters.in@SD",KITE Victers (Kerala) (720p) [Not 24/7]
 https://932y4x26ljv8-hls-live.5centscdn.com/victers/tv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="1429" tvg-name="Kite Victers" tvg-logo="https://i.imgur.com/kj4OEsb.png" group-title="🎓 Education" iptv-org-id="KiteVicters.in@SD",Kite Victers (576p)
+http://51.75.127.199:3141/kitevicters/index.m3u8
 #EXTINF:-1 tvg-id="MediBizTV.in@SD" tvg-name="MediBizTV" tvg-logo="https://www.medibiztv.com/assets/logo-E76jcvP9.png" group-title="🎓 Education",MediBizTV (720p)
 https://43wrzjnpqoxe-hls-live.wmncdn.net/marinebiztvlive/marinebiztvlive/playlist.m3u8
+#EXTINF:-1 tvg-id="1454" tvg-name="Shiksha TV" tvg-logo="https://play-lh.googleusercontent.com/1ibQhkMCsnXaI9LOiZH-Iyw8rM8CMVJEZAlbFphWuZApSPIp-eZsjltDlN6rqJzIonQ" group-title="🎓 Education" iptv-org-id="ShikshaTV.in@SD",Shiksha TV (576p)
+http://51.75.127.199:3141/shikshatv/index.m3u8
 #EXTINF:-1 tvg-id="VyasChannel.in@SD" tvg-name="Vyas Channel" tvg-logo="https://www.yupptv.com/seo_img/UGC_GEC_big.jpg" group-title="🎓 Education",Vyas NIC (576p)
 https://playhls.media.nic.in/hls/live/vyas/vyas.m3u8

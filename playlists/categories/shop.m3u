@@ -1,0 +1,3 @@
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/mitthu786/tvepg/main/epg.xml.gz" url-tvg="https://raw.githubusercontent.com/mitthu786/tvepg/main/epg.xml.gz"
+#EXTINF:-1 tvg-id="953" tvg-name="Propex TV" tvg-logo="https://i.ibb.co/fYTXkfL/unnamed.png" group-title="🛒 Shop" iptv-org-id="PropexTV.in@SD",Propex TV (576p)
+http://51.75.127.199:3141/propextv/index.m3u8
