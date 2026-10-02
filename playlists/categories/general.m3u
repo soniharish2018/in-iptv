@@ -47,6 +47,8 @@ https://cdn.pishow.tv/ott/live/1737/master.m3u8
 https://mumbai-edge.smartplaytv.in/DDUrdu/index.m3u8
 #EXTINF:-1 tvg-id="768" tvg-name="Jan TV" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_JAN_TV/images/LOGO_HD/image.png" group-title="📺 General" iptv-org-id="JanTV.in@SD",Jan TV (576p)
 https://d1msejlow1t3l4.cloudfront.net/fta/jantv/playlist.m3u8
+#EXTINF:-1 tvg-id="842" tvg-name="Jeevan TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Jeevan_TV.png" group-title="📺 General" iptv-org-id="JeevanTV.in@SD",Jeevan TV (576p)
+https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/JeevanTV.m3u8
 #EXTINF:-1 tvg-id="765" tvg-name="Jonack" tvg-logo="https://dtil.tmsimg.com/assets/s143238_ld_h15_aa.png?lock=720x540" group-title="📺 General" iptv-org-id="Jonack.in@SD",Jonack (576p)
 https://cdn.pishow.tv/ott/live/10006/master.m3u8
 #EXTINF:-1 tvg-id="765" tvg-name="Jonack" tvg-logo="https://dtil.tmsimg.com/assets/s143238_ld_h15_aa.png?lock=720x540" group-title="📺 General" iptv-org-id="Jonack.in@SD",Jonack TV (360p) [Not 24/7]

@@ -75,6 +75,8 @@ https://mumbai-edge.smartplaytv.in/SaiTV/index.m3u8
 http://51.75.127.199:3141/saitv/index.m3u8
 #EXTINF:-1 tvg-id="1426" tvg-name="Santvani Channel" tvg-logo="https://dtil.tmsimg.com/assets/s143763_ld_h15_aa.png?lock=720x540" group-title="❓ Undefined" iptv-org-id="SantvaniChannel.in@SD",Santvani Channel (576p)
 http://51.75.127.199:3141/santvani/index.m3u8
+#EXTINF:-1 tvg-id="1426" tvg-name="Santvani Channel" tvg-logo="https://dtil.tmsimg.com/assets/s143763_ld_h15_aa.png?lock=720x540" group-title="❓ Undefined" iptv-org-id="SantvaniChannel.in@SD",Santvani Channel (576p)
+https://d1msejlow1t3l4.cloudfront.net/fta/santwani/playlist.m3u8
 #EXTINF:-1 tvg-id="972" tvg-name="Sarv Dharam Sangam" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sarv_Dharam_Sangam.png" group-title="❓ Undefined" iptv-org-id="SarvDharamSangam.in@SD",Sarv Dharam Sangam (720p)
 https://live.castmaxcloud.com/live/sdsangam2.m3u8
 #EXTINF:-1 tvg-id="972" tvg-name="Sarv Dharam Sangam" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sarv_Dharam_Sangam.png" group-title="❓ Undefined" iptv-org-id="SarvDharamSangam.in@SD",Sarv Dharam Sangam (576p)
@@ -83,6 +85,8 @@ http://51.75.127.199:3141/manavdharam/index.m3u8
 https://mumt06.tangotv.in/qYyB8fXVSHARNAMTV/index.m3u8
 #EXTINF:-1 tvg-id="1077" tvg-name="Sharnam TV" tvg-logo="https://papaji.freetvindia.com/media/channels/SarnamTV.png" group-title="❓ Undefined" iptv-org-id="SharnamTV.in@SD",Sharnam TV (576p)
 http://51.75.127.199:3141/sharnamtv/index.m3u8
+#EXTINF:-1 tvg-id="1077" tvg-name="Sharnam TV" tvg-logo="https://papaji.freetvindia.com/media/channels/SarnamTV.png" group-title="❓ Undefined" iptv-org-id="SharnamTV.in@SD",Sharnam TV (576p)
+https://d1msejlow1t3l4.cloudfront.net/fta/sharanamtv/playlist.m3u8
 #EXTINF:-1 tvg-id="2004" tvg-name="Shekinah TV" tvg-logo="https://i.imgur.com/6hTshsG.png" group-title="❓ Undefined" iptv-org-id="ShekinahTV.in@SD",Shekinah TV (1080p)
 https://livetv.timeiptv.in/ShekinahNewsIndia/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="2004" tvg-name="Shekinah TV" tvg-logo="https://i.imgur.com/6hTshsG.png" group-title="❓ Undefined" iptv-org-id="ShekinahTV.in@SD",Shekinah TV (576p)
