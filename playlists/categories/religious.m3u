@@ -85,7 +85,7 @@ https://janya-digimix.akamaized.net/vglive-sk-351398/spanish/ngrp:angelspanish_a
 https://mumt01.tangotv.in/O5aw8Zn3ANGELTVHD/index.m3u8
 #EXTINF:-1 tvg-id="835" tvg-name="Angel TV" tvg-logo="https://i.imgur.com/qKLEGU7.png" group-title="🙏 Religious" iptv-org-id="AngelTV.in@India",Angel TV (720p)
 https://mumbai-edge.smartplaytv.in/AngelTV/index.m3u8
-#EXTINF:-1 tvg-id="ts285" tvg-name="Aradana TV" tvg-logo="https://dtil.tmsimg.com/assets/s142649_ld_h9_aa.png?lock=720x540" group-title="🙏 Religious" iptv-org-id="AradanaTV.in@SD",Aradana TV (576p)
+#EXTINF:-1 tvg-id="777" tvg-name="Aradana TV" tvg-logo="https://dtil.tmsimg.com/assets/s142649_ld_h9_aa.png?lock=720x540" group-title="🙏 Religious" iptv-org-id="AradanaTV.in@SD",Aradana TV (576p)
 https://mumbai-edge.smartplaytv.in/AradanaTV/index.m3u8
 #EXTINF:-1 tvg-id="ArputharYesuTV.in@SD" tvg-name="Arputhar Yesu TV" tvg-logo="https://arputharyesutv.net/wp-content/uploads/2022/07/AR-LOGO-PNG.png" group-title="🙏 Religious",Arputhar Yesu TV (576p)
 https://account33.livebox.co.in/jesushelpshls/live.m3u8
@@ -125,9 +125,9 @@ https://mumt05.tangotv.in/87NeALx2DARSHAN24/index.m3u8
 https://cable91tataplay.akamaized.net/live/dharshantv/index.m3u8
 #EXTINF:-1 tvg-id="DheeranTV.in@SD" tvg-name="Dheeran TV" tvg-logo="https://i.imgur.com/jSedjXf.png" group-title="🙏 Religious",Dheeran TV (576p)
 https://live.we2live.in/dheerantv/dheerantv/playlist.m3u8
-#EXTINF:-1 tvg-id="ts351" tvg-name="Divyavani TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Divya_Vani.png" group-title="🙏 Religious" iptv-org-id="DivyavaniTV.in@SD",Divyavani TV (576p)
+#EXTINF:-1 tvg-id="934" tvg-name="Divyavani TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Divya_Vani.png" group-title="🙏 Religious" iptv-org-id="DivyavaniTV.in@SD",Divyavani TV (576p)
 https://mumbai-edge.smartplaytv.in/Divyavani/index.m3u8
-#EXTINF:-1 tvg-id="ts351" tvg-name="Divyavani TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Divya_Vani.png" group-title="🙏 Religious" iptv-org-id="DivyavaniTV.in@SD",Divyavani TV (576p)
+#EXTINF:-1 tvg-id="934" tvg-name="Divyavani TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Divya_Vani.png" group-title="🙏 Religious" iptv-org-id="DivyavaniTV.in@SD",Divyavani TV (576p)
 http://51.75.127.199:3141/divyavani/index.m3u8
 #EXTINF:-1 tvg-id="1174" tvg-name="Fateh TV" tvg-logo="https://i.imgur.com/c4ItNkB.png" group-title="🙏 Religious" iptv-org-id="FatehTV.in@SD",Fateh TV (1080p) [Not 24/7]
 https://ott.livelegitpro.in/fatehtv/fatehtv/index.m3u8
@@ -227,9 +227,9 @@ https://mumt03.tangotv.in/Dsly5z3HMERCYTV/index.m3u8
 https://mumbai-edge.smartplaytv.in/MercyTV/index.m3u8
 #EXTINF:-1 tvg-id="924" tvg-name="Mercy TV" tvg-logo="https://i.imgur.com/klNH4tV.png" group-title="🙏 Religious" iptv-org-id="MercyTV.in@SD",Mercy TV (576p)
 http://51.75.127.199:3141/mercytv/index.m3u8
-#EXTINF:-1 tvg-id="ts397" tvg-name="MH One Shraddha" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002NFEZK.png?lock=720x540" group-title="🙏 Religious" iptv-org-id="MHOneShraddha.in@SD",MH One Shraddha (576p)
+#EXTINF:-1 tvg-id="MHOneShraddha.in@SD" tvg-name="MH One Shraddha" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002NFEZK.png?lock=720x540" group-title="🙏 Religious",MH One Shraddha (576p)
 https://mumt01.tangotv.in/O5aw8Zn3MHONESHRADDHA/index.m3u8
-#EXTINF:-1 tvg-id="ts397" tvg-name="MH One Shraddha" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002NFEZK.png?lock=720x540" group-title="🙏 Religious" iptv-org-id="MHOneShraddha.in@SD",MH One Shraddha (576p)
+#EXTINF:-1 tvg-id="MHOneShraddha.in@SD" tvg-name="MH One Shraddha" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002NFEZK.png?lock=720x540" group-title="🙏 Religious",MH One Shraddha (576p)
 https://livestream.jswk.online/mhoneshraddha/live/index.m3u8
 #EXTINF:-1 tvg-id="ts408" tvg-name="Nambikkai TV" tvg-logo="https://dtil.tmsimg.com/assets/s143567_ld_h9_aa.png?lock=720x540" group-title="🙏 Religious" iptv-org-id="NambikkaiTV.in@SD",Nambikkai TV
 https://cdn.pishow.tv/ott/live/1389/master.m3u8
@@ -261,7 +261,7 @@ https://mumt05.tangotv.in/87NeALx2PTCSIMRAN/index.m3u8
 http://51.75.127.199:3141/ptcsimran/index.m3u8
 #EXTINF:-1 tvg-id="593" tvg-name="Sadhna" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SADHNA/images/LOGO_HD/image.png" group-title="🙏 Religious" iptv-org-id="Sadhna.in@SD",Sadhna (720p)
 https://6n3yow8pl9ok-hls-live.5centscdn.com/sadhanalivetv/live.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="ts447" tvg-name="Sadhna TV" tvg-logo="https://dtil.tmsimg.com/assets/s143736_ld_h15_aa.png?lock=720x540" group-title="🙏 Religious" iptv-org-id="SadhnaTV.in@SD",Sadhna TV (576p)
+#EXTINF:-1 tvg-id="593" tvg-name="Sadhna TV" tvg-logo="https://dtil.tmsimg.com/assets/s143736_ld_h15_aa.png?lock=720x540" group-title="🙏 Religious" iptv-org-id="SadhnaTV.in@SD",Sadhna TV (576p)
 https://mumt05.tangotv.in/87NeALx2SADHNATV/index.m3u8
 #EXTINF:-1 tvg-id="2028" tvg-name="Sadvidya TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sadvidya_TV.png" group-title="🙏 Religious" iptv-org-id="SadvidyaTV.in@SD",Sadvidya TV (576p)
 http://51.75.127.199:3141/sadvidyatv/index.m3u8
@@ -283,10 +283,6 @@ https://d34z4embz0hjf6.cloudfront.net/out/v1/7ac2789ff9a544a49337d1ffc54ce61c/in
 https://d2netiedy8cz3x.cloudfront.net/out/v1/9bf6fa4ac8d6432cb98da13b121ba3c2/index.m3u8
 #EXTINF:-1 tvg-id="SanskarWebTV.in@SD" tvg-name="Sanskar Web TV" tvg-logo="https://i.imgur.com/mu2B6hw.png" group-title="🙏 Religious",Sanskar Web TV (1080p)
 https://deatfcv3xdvi3.cloudfront.net/out/v1/7a43dd2f64e34ec28da1b4bd6923251a/index.m3u8
-#EXTINF:-1 tvg-id="972" tvg-name="Sarv Dharm Sangam" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/cacbd93588fb35c8a65c86fcf4310dc0.png" group-title="🙏 Religious" iptv-org-id="SarvDharmSangam.in@SD",Sarv Dharm Sangam (576p)
-https://mumt01.tangotv.in/O5aw8Zn3SARAVDHARAMSANGAM/index.m3u8
-#EXTINF:-1 tvg-id="972" tvg-name="Sarv Dharm Sangam" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/cacbd93588fb35c8a65c86fcf4310dc0.png" group-title="🙏 Religious" iptv-org-id="SarvDharmSangam.in@SD",Sarv Dharm Sangam (576p)
-https://d1msejlow1t3l4.cloudfront.net/fta/sarvdharmsangam/playlist.m3u8
 #EXTINF:-1 tvg-id="597" tvg-name="Satsang TV" tvg-logo="https://dtil.tmsimg.com/assets/s143766_ld_h15_aa.png?lock=720x540" group-title="🙏 Religious" iptv-org-id="SatsangTV.in@SD",Satsang TV (1080p)
 https://d2vfwvjxwtwq1t.cloudfront.net/out/v1/6b24239d5517495b986e7705490c6e65/index.m3u8
 #EXTINF:-1 tvg-id="SatsangWebTV.in@SD" tvg-name="Satsang Web TV" tvg-logo="https://i.imgur.com/40kNu1w.png" group-title="🙏 Religious",Satsang Web TV (1080p)

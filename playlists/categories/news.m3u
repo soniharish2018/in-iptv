@@ -619,7 +619,7 @@ https://cdn.pishow.tv/ott/live/1433/master.m3u8
 https://streams.tangotv.in/NEWSTAMIL24X7/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="1954" tvg-name="News Tamil 24x7" tvg-logo="https://dtil.tmsimg.com/assets/s143623_ld_h15_aa.png?lock=720x540" group-title="📰 News" iptv-org-id="NewsTamil24x7.in@SD",News Tamil 24x7 (576p)
 http://51.75.127.199:3141/newstamil24x7/index.m3u8
-#EXTINF:-1 tvg-id="ts68" tvg-name="News18 Assam North-East" tvg-logo="https://dtil.tmsimg.com/assets/s143606_ld_h15_aa.png?lock=720x540" group-title="📰 News" iptv-org-id="News18AssamNorthEast.in@SD",News18 Assam North-East (1080p)
+#EXTINF:-1 tvg-id="News18AssamNorthEast.in@SD" tvg-name="News18 Assam North-East" tvg-logo="https://dtil.tmsimg.com/assets/s143606_ld_h15_aa.png?lock=720x540" group-title="📰 News",News18 Assam North-East (1080p)
 https://n18syndication.akamaized.net/bpk-tv/News18_Assam_North_East_NW18_MOB/output01/master.m3u8
 #EXTINF:-1 tvg-id="717" tvg-name="News18 Bangla" tvg-logo="https://dtil.tmsimg.com/assets/s143607_ld_h15_aa.png?lock=720x540" group-title="📰 News" iptv-org-id="News18Bangla.in@SD",News18 Bangla (1080p)
 https://n18syndication.akamaized.net/bpk-tv/News18_Bangla_NW18_MOB/output01/master.m3u8
@@ -758,17 +758,17 @@ https://streams.tangotv.in/PUBLICTV/ORIGIN/index.m3u8
 https://mumt04.tangotv.in/m18aqlK4PUBLICTV/index.m3u8
 #EXTINF:-1 tvg-id="2935" tvg-name="Pudhari News" tvg-logo="https://dtil.tmsimg.com/assets/s158328_ld_h15_aa.png?lock=720x540" group-title="📰 News" iptv-org-id="PudhariNews.in@SD",Pudhari News (576p)
 https://streams.tangotv.in/PUDHARINEWS/ORIGIN/index.m3u8
-#EXTINF:-1 tvg-id="ts220" tvg-name="Puthiya Thalaimurai" tvg-logo="https://dtil.tmsimg.com/assets/s143692_ld_h15_aa.png?lock=720x540" group-title="📰 News" iptv-org-id="PuthiyaThalaimurai.in@SD",Puthiya Thalaimurai (576p)
+#EXTINF:-1 tvg-id="677" tvg-name="Puthiya Thalaimurai" tvg-logo="https://dtil.tmsimg.com/assets/s143692_ld_h15_aa.png?lock=720x540" group-title="📰 News" iptv-org-id="PuthiyaThalaimurai.in@SD",Puthiya Thalaimurai (576p)
 https://mumt07.tangotv.in/zHjX9OFlPUTHIYAEXPRESS/index.m3u8
-#EXTINF:-1 tvg-id="ts220" tvg-name="Puthiya Thalaimurai" tvg-logo="https://dtil.tmsimg.com/assets/s143692_ld_h15_aa.png?lock=720x540" group-title="📰 News" iptv-org-id="PuthiyaThalaimurai.in@SD",Puthiya Thalaimurai (576p)
+#EXTINF:-1 tvg-id="677" tvg-name="Puthiya Thalaimurai" tvg-logo="https://dtil.tmsimg.com/assets/s143692_ld_h15_aa.png?lock=720x540" group-title="📰 News" iptv-org-id="PuthiyaThalaimurai.in@SD",Puthiya Thalaimurai (576p)
 https://segment.yuppcdn.net/240122/puthiya/playlist.m3u8
-#EXTINF:-1 tvg-id="ts220" tvg-name="Puthiya Thalaimurai" tvg-logo="https://dtil.tmsimg.com/assets/s143692_ld_h15_aa.png?lock=720x540" group-title="📰 News" iptv-org-id="PuthiyaThalaimurai.in@SD",Puthiya Thalaimurai
+#EXTINF:-1 tvg-id="677" tvg-name="Puthiya Thalaimurai" tvg-logo="https://dtil.tmsimg.com/assets/s143692_ld_h15_aa.png?lock=720x540" group-title="📰 News" iptv-org-id="PuthiyaThalaimurai.in@SD",Puthiya Thalaimurai
 https://cdn.pishow.tv/ott/live/1261/master.m3u8
-#EXTINF:-1 tvg-id="ts220" tvg-name="Puthiya Thalaimurai" tvg-logo="https://dtil.tmsimg.com/assets/s143692_ld_h15_aa.png?lock=720x540" group-title="📰 News" iptv-org-id="PuthiyaThalaimurai.in@SD",Puthiya Thalaimurai (576p)
+#EXTINF:-1 tvg-id="677" tvg-name="Puthiya Thalaimurai" tvg-logo="https://dtil.tmsimg.com/assets/s143692_ld_h15_aa.png?lock=720x540" group-title="📰 News" iptv-org-id="PuthiyaThalaimurai.in@SD",Puthiya Thalaimurai (576p)
 https://streams.tangotv.in/PUTHIYATHALAIMURAI/ORIGIN/index.m3u8
-#EXTINF:-1 tvg-id="ts220" tvg-name="Puthiya Thalaimurai" tvg-logo="https://dtil.tmsimg.com/assets/s143692_ld_h15_aa.png?lock=720x540" group-title="📰 News" iptv-org-id="PuthiyaThalaimurai.in@SD",Puthiya Thalaimurai (576p)
+#EXTINF:-1 tvg-id="677" tvg-name="Puthiya Thalaimurai" tvg-logo="https://dtil.tmsimg.com/assets/s143692_ld_h15_aa.png?lock=720x540" group-title="📰 News" iptv-org-id="PuthiyaThalaimurai.in@SD",Puthiya Thalaimurai (576p)
 https://mumbai-edge.smartplaytv.in/Puthiyathalaimurai/index.m3u8
-#EXTINF:-1 tvg-id="ts220" tvg-name="Puthiya Thalaimurai" tvg-logo="https://dtil.tmsimg.com/assets/s143692_ld_h15_aa.png?lock=720x540" group-title="📰 News" iptv-org-id="PuthiyaThalaimurai.in@SD",Puthiya Thalaimurai (576p)
+#EXTINF:-1 tvg-id="677" tvg-name="Puthiya Thalaimurai" tvg-logo="https://dtil.tmsimg.com/assets/s143692_ld_h15_aa.png?lock=720x540" group-title="📰 News" iptv-org-id="PuthiyaThalaimurai.in@SD",Puthiya Thalaimurai (576p)
 https://mumt07.tangotv.in/zHjX9OFlPUTHIYATHALAIMURAI/index.m3u8
 #EXTINF:-1 tvg-id="2027" tvg-name="Raatdin Bangla" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/raatdinbangla.png" group-title="📰 News" iptv-org-id="RaatdinBangla.in@SD",Raatdin Bangla (720p)
 https://server.playontv.in/raatdinbangla/index.m3u8
@@ -800,11 +800,11 @@ https://cdn.pishow.tv/ott/live/1510/master.m3u8
 https://mumt07.tangotv.in/zHjX9OFlREPORTERTV/index.m3u8
 #EXTINF:-1 tvg-id="1408" tvg-name="Reporter TV" tvg-logo="https://dtil.tmsimg.com/assets/s85096_ld_h15_aa.png?lock=720x540" group-title="📰 News" iptv-org-id="ReporterTV.in@SD",Reporter TV (576p)
 http://51.75.127.199:3141/reportertv/index.m3u8
-#EXTINF:-1 tvg-id="ts890" tvg-name="Republic Bangla" tvg-logo="https://dtil.tmsimg.com/assets/s143697_ld_h15_aa.png?lock=720x540" group-title="📰 News" iptv-org-id="RepublicBangla.in@SD",Republic Bangla (1080p)
+#EXTINF:-1 tvg-id="RepublicBangla.in@SD" tvg-name="Republic Bangla" tvg-logo="https://dtil.tmsimg.com/assets/s143697_ld_h15_aa.png?lock=720x540" group-title="📰 News",Republic Bangla (1080p)
 https://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-456368/main.m3u8
-#EXTINF:-1 tvg-id="ts890" tvg-name="Republic Bangla" tvg-logo="https://dtil.tmsimg.com/assets/s143697_ld_h15_aa.png?lock=720x540" group-title="📰 News" iptv-org-id="RepublicBangla.in@SD",Republic Bangla
+#EXTINF:-1 tvg-id="RepublicBangla.in@SD" tvg-name="Republic Bangla" tvg-logo="https://dtil.tmsimg.com/assets/s143697_ld_h15_aa.png?lock=720x540" group-title="📰 News",Republic Bangla
 https://cdn.pishow.tv/ott/live/270/master.m3u8
-#EXTINF:-1 tvg-id="ts890" tvg-name="Republic Bangla" tvg-logo="https://dtil.tmsimg.com/assets/s143697_ld_h15_aa.png?lock=720x540" group-title="📰 News" iptv-org-id="RepublicBangla.in@SD",Republic Bangla (576p)
+#EXTINF:-1 tvg-id="RepublicBangla.in@SD" tvg-name="Republic Bangla" tvg-logo="https://dtil.tmsimg.com/assets/s143697_ld_h15_aa.png?lock=720x540" group-title="📰 News",Republic Bangla (576p)
 https://streams.tangotv.in/RBANGLA/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="1403" tvg-name="Republic Bharat" tvg-logo="https://dtil.tmsimg.com/assets/s143724_ld_h15_aa.png?lock=720x540" group-title="📰 News" iptv-org-id="RepublicBharat.in@SD",Republic Bharat (1080p) [Geo-blocked]
 https://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-275673/main.m3u8
@@ -832,7 +832,7 @@ https://samsung-republictv.amagi.tv/ts-ap-s1-n1/playlist/samsungin-republictv-sa
 https://cdn.pishow.tv/ott/live/271/master.m3u8
 #EXTINF:-1 tvg-id="858" tvg-name="Republic TV" tvg-logo="https://dtil.tmsimg.com/assets/s143723_ld_h15_aa.png?lock=720x540" group-title="📰 News" iptv-org-id="RepublicTV.in@SD",Republic TV (576p)
 https://streams.tangotv.in/REPUBLICTV/ORIGIN/index.m3u8
-#EXTINF:-1 tvg-id="ts1880" tvg-name="Rozana Spokesman" tvg-logo="https://www.rozanaspokesman.in/images/logospokesman.png" group-title="📰 News" iptv-org-id="RozanaSpokesman.in@SD",Rozana Spokesman (1080p)
+#EXTINF:-1 tvg-id="RozanaSpokesman.in@SD" tvg-name="Rozana Spokesman" tvg-logo="https://www.rozanaspokesman.in/images/logospokesman.png" group-title="📰 News",Rozana Spokesman (1080p)
 https://live1.ottlive.co.in/spokesman/spokesman/index.m3u8
 #EXTINF:-1 tvg-id="1338" tvg-name="RT India" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Russia-today-logo.svg" group-title="📰 News" iptv-org-id="RTIndia.in@HD",RT India (1080p)
 https://rt-india.rttv.com/dvr/rtindia/playlist.m3u8
