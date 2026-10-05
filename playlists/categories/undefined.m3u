@@ -3,9 +3,9 @@
 https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8
 #EXTINF:-1 tvg-id="1761" tvg-name="Aryan TV National" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ARYAN_TV_NATIONAL/images/LOGO_HD/image.png" group-title="❓ Undefined" iptv-org-id="AryanTVNational.in@SD",Aryan TV National (576p)
 http://51.75.127.199:3141/aryantvnational/index.m3u8
-#EXTINF:-1 tvg-id="977" tvg-name="Calvary TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Calvary.png" group-title="❓ Undefined" iptv-org-id="CalvaryTV.in@SD",Calvary TV (576p)
+#EXTINF:-1 tvg-id="ts1318" tvg-name="Calvary TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Calvary.png" group-title="❓ Undefined" iptv-org-id="CalvaryTV.in@SD",Calvary TV (576p)
 http://51.75.127.199:3141/calvarytv/index.m3u8
-#EXTINF:-1 tvg-id="977" tvg-name="Calvary TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Calvary.png" group-title="❓ Undefined" iptv-org-id="CalvaryTV.in@SD",Calvary TV (576p)
+#EXTINF:-1 tvg-id="ts1318" tvg-name="Calvary TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Calvary.png" group-title="❓ Undefined" iptv-org-id="CalvaryTV.in@SD",Calvary TV (576p)
 https://cdn.pishow.tv/ott/live/963/master.m3u8
 #EXTINF:-1 tvg-id="599" tvg-name="Disha TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Disha_tv.png" group-title="❓ Undefined" iptv-org-id="DishaTV.in@SD",Disha TV (396p)
 https://d1msejlow1t3l4.cloudfront.net/fta/dishatv/playlist.m3u8
