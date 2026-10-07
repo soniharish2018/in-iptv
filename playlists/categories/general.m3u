@@ -37,7 +37,7 @@ https://cdn.pishow.tv/ott/live/1617/master.m3u8
 https://cdn.pishow.tv/ott/live/16/master.m3u8
 #EXTINF:-1 tvg-id="536" tvg-name="DD Madhya Pradesh" tvg-logo="https://dtil.tmsimg.com/assets/s142790_ld_h15_aa.png?lock=720x540" group-title="📺 General" iptv-org-id="DDMadhyaPradesh.in@SD",DD Madhya Pradesh (720p)
 https://mumbai-edge.smartplaytv.in/ddmadhyapradesh/index.m3u8
-#EXTINF:-1 tvg-id="ts333" tvg-name="DD Odia" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_ORIYA/images/LOGO_HD/image.png" group-title="📺 General" iptv-org-id="DDOdia.in@SD",DD Odia (576p)
+#EXTINF:-1 tvg-id="DDOdia.in@SD" tvg-name="DD Odia" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_ORIYA/images/LOGO_HD/image.png" group-title="📺 General",DD Odia (576p)
 https://mumbai-edge.smartplaytv.in/ddodiya/index.m3u8
 #EXTINF:-1 tvg-id="538" tvg-name="DD Rajasthan" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_RAJASTHAN/images/LOGO_HD/image.png" group-title="📺 General" iptv-org-id="DDRajasthan.in@SD",DD Rajasthan (576p)
 https://mumbai-edge.smartplaytv.in/ddrajasthan/index.m3u8
@@ -89,7 +89,7 @@ https://mercury.streambridge.link:8042/telugu/metrotv/index.m3u8
 https://streams.tangotv.in/MHONE/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="Mh1Prime.in@SD" tvg-name="Mh 1 Prime" tvg-logo="" group-title="📺 General",Mh 1 Prime (576p)
 https://mumt04.tangotv.in/m18aqlK4MHONE/index.m3u8
-#EXTINF:-1 tvg-id="ts805" tvg-name="Nandighosha TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Nandighosha.png" group-title="📺 General" iptv-org-id="NandighoshaTV.in@SD",Nandighosha TV (576p)
+#EXTINF:-1 tvg-id="1427" tvg-name="Nandighosha TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Nandighosha.png" group-title="📺 General" iptv-org-id="NandighoshaTV.in@SD",Nandighosha TV (576p)
 https://mumt05.tangotv.in/87NeALx2NANDIGHOSHATV/index.m3u8
 #EXTINF:-1 tvg-id="1528" tvg-name="Network 10" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Network_10.png" group-title="📺 General" iptv-org-id="Network10.in@SD",Network 10
 https://network10.livebox.co.in/network10hls/live.m3u8
