@@ -6,7 +6,7 @@ AndxplorHD.in,&xplor HD,1668,And Xplor HD,jiotv,exact
 24News.in,24 News,sun202222,24 News,sunnxt,exact
 24HrsTV.in,24Hrs TV,1725,24Hrs TV,jiotv,exact
 4SiDESTV.in,4 SiDES TV,3529,4 SiDES TV,jiotv,exact
-4TVNews.in,4TV News,ts774,4tv News,tataplay,exact
+4TVNews.in,4TV News,,,,none
 6TVTelugu.in,6 TV Telugu,,,,none
 7SMusic.in,7S Music,,,,none
 7XMusic.in,7X Music,1871,7X Music,jiotv,exact
@@ -18,10 +18,10 @@ AndxplorHD.in,&xplor HD,1668,And Xplor HD,jiotv,exact
 AadinathTV.in,Aadinath TV,2002,Aadinath TV,jiotv,exact
 AajKiKhabar.in,Aaj Ki Khabar,2773,Aaj Ki Khabar,jiotv,exact
 AajTak.in,Aaj Tak,173,Aaj Tak,jiotv,exact
-AakaashAath.in,Aakaash Aath,ts129,Aakaash Aath,tataplay,exact
+AakaashAath.in,Aakaash Aath,698,Aakash Aath,jiotv,fuzzy
 AamarBangla.in,Aamar Bangla,1962,Amar Bangla TV,jiotv,fuzzy
 AaryaaTV.in,Aaryaa TV,3395,Aaryaa TV,jiotv,exact
-AaseervathamTV.in,Aaseervatham TV,ts1886,Aaseervatham TV,tataplay,exact
+AaseervathamTV.in,Aaseervatham TV,,,,none
 Aastha.in,Aastha,175,Aastha,jiotv,exact
 AasthaBhajan.in,Aastha Bhajan,594,Aastha Bhajan,jiotv,exact
 AasthaGujarati.in,Aastha Gujarati,1255,Aastha Gujarati,jiotv,exact
@@ -55,7 +55,7 @@ AnjanTV.in,Anjan TV,919,Anjan TV,jiotv,exact
 ANNNews.in,ANN News,1699,ANN News,jiotv,exact
 APN.in,APN,,,,none
 ApnaPunjabTV.ca,Apna Punjab TV,,,,none
-AradanaTV.in,Aradana TV,ts285,Aradana TV,tataplay,exact
+AradanaTV.in,Aradana TV,777,Aradhana TV,jiotv,fuzzy
 ArgusNews.in,Argus News,1481,Argus News,jiotv,exact
 ArputharYesuTV.in,Arputhar Yesu TV,,,,none
 AryanTVNational.in,Aryan TV National,1761,Aryan TV National,jiotv,exact
@@ -64,7 +64,7 @@ Asianet.in,Asianet,443,Asianet HD,jiotv,exact
 AsianetMiddleEast.in,Asianet Middle East,,,,none
 AsianetMovies.in,Asianet Movies,459,Asianet Movies HD,jiotv,exact
 AsianetNews.in,Asianet News,180,Asianet News,jiotv,exact
-AsianetSuvarnaNews.in,Asianet Suvarna News,ts555,Asianet Suvarna News,tataplay,exact
+AsianetSuvarnaNews.in,Asianet Suvarna News,,,,none
 AsomLive24.in,Asom Live 24,2022,Asom Live 24,jiotv,exact
 AssamTalks.in,Assam Talks,675,Assam Talks,jiotv,exact
 AwaazIndiaTV.in,Awaaz India TV,3332,Awaaz India TV,jiotv,exact
@@ -100,7 +100,7 @@ BTTV.in,BT TV,,,,none
 BuletinIndia.in,Buletin India,1759,Buletin India,jiotv,exact
 BVG.in,BVG,3048,BVG,jiotv,exact
 BVTV.in,BVTV,1690,BVTV,jiotv,exact
-CalvaryTV.in,Calvary TV,ts1318,Calvary TV,tataplay,exact
+CalvaryTV.in,Calvary TV,977,Calvary,jiotv,filler
 Captain.in,Captain,3069,Captain,jiotv,exact
 CCV.in,CCV,,,,none
 ChannelDivya.in,Channel Divya,,,,none
@@ -118,24 +118,24 @@ ColorsBangla.in,Colors Bangla,1369,Colors Bangla SD,jiotv,exact
 ColorsBanglaCinema.in,Colors Bangla Cinema,1657,Colors Bangla Cinema,jiotv,exact
 ColorsCineplex.in,Colors Cineplex,482,Colors Cineplex,jiotv,exact
 ColorsCineplexBollywood.in,Colors Cineplex Bollywood,1763,Colors Cineplex Bollywood,jiotv,exact
-ColorsCineplexSuperhits.in,Colors Cineplex Superhits,ts1025,Colors Cineplex Superhits,tataplay,exact
+ColorsCineplexSuperhits.in,Colors Cineplex Superhits,1450,Colors Cineplex Superhit,jiotv,fuzzy
 ColorsGujarati.in,Colors Gujarati,196,Colors Gujarati,jiotv,exact
 ColorsGujaratiCinema.in,Colors Gujarati Cinema,1324,Colors Gujarati Cinema,jiotv,exact
-ColorsInfinity.in,Colors Infinity,1325,Colors Infinity SD,jiotv,exact
-ColorsKannada.in,Colors Kannada,1370,Colors Kannada SD,jiotv,exact
+ColorsInfinity.in,Colors Infinity,1158,Colors Infinity HD,jiotv,exact
+ColorsKannada.in,Colors Kannada,757,Colors Kannada HD,jiotv,exact
 ColorsKannadaCinema.in,Colors Kannada Cinema,1632,Colors Kannada Cinema,jiotv,exact
-ColorsMarathi.in,Colors Marathi,1326,Colors Marathi SD,jiotv,exact
+ColorsMarathi.in,Colors Marathi,755,Colors Marathi HD,jiotv,exact
 ColorsMENA.in,Colors MENA,,,,none
 ColorsRishteyAmericas.in,Colors Rishtey Americas,,,,none
 ColorsSuper.in,Colors Super,785,Colors Super,jiotv,exact
-ColorsTamil.in,Colors Tamil,1371,Colors Tamil,jiotv,exact
+ColorsTamil.in,Colors Tamil,429,Colors Tamil HD,jiotv,exact
 CTVNAKDPlus.in,CTVN AKD Plus,1260,Ctvn Akd Plus,jiotv,exact
 CVREnglish.in,CVR English,787,CVR English,jiotv,exact
 CVRHealth.in,CVR Health,774,CVR Health,jiotv,exact
 CVRNews.in,CVR News,784,CVR News,jiotv,exact
 CVROMSpiritual.in,CVR OM Spiritual,772,CVR OM Spiritual,jiotv,exact
 DailyPostTV.in,Daily Post TV,,,,none
-Dangal2.in,Dangal 2,ts194,Dangal 2,tataplay,exact
+Dangal2.in,Dangal 2,701,Dangal,jiotv,fuzzy
 DangalTV.in,Dangal TV,701,Dangal,jiotv,filler
 Darshan24.in,Darshan 24,611,Darshan 24,jiotv,exact
 DarshanaTV.in,Darshana TV,,,,none
@@ -166,7 +166,7 @@ DishaTV.in,Disha TV,599,Disha tv,jiotv,exact
 DisneyChannel.in,Disney Channel,3578,Disney Channel HD,jiotv,exact
 DisneyInternationalHD.in,Disney International HD,1375,Disney International HD,jiotv,exact
 DisneyJunior.in,Disney Junior,1374,Disney Junior,jiotv,exact
-DivyavaniTV.in,Divyavani TV,ts351,Divyavani TV,tataplay,exact
+DivyavaniTV.in,Divyavani TV,934,Divya Vani,jiotv,filler
 DNN.in,DNN,958,DNN,jiotv,exact
 DocuBayTV.in,DocuBay TV,3402,DocuBay,jiotv,filler
 DY365.in,DY 365,633,DY 365,jiotv,exact
@@ -180,18 +180,18 @@ EVidya6.in,E-Vidya 6,,,,none
 EVidya7.in,E-Vidya 7,,,,none
 EVidya8.in,E-Vidya 8,,,,none
 EVidya9.in,E-Vidya 9,,,,none
-EkamraBharatOdia.in,Ekamra Bharat Odia,ts1196,Ekamra Bharat Odia,tataplay,exact
+EkamraBharatOdia.in,Ekamra Bharat Odia,,,,none
 Enterr10Bangla.in,Enterr 10 Bangla,,,,none
 EpicBharat.in,Epic Bharat,3383,Epic Bharat,jiotv,exact
 EpicBhojpuri.in,Epic Bhojpuri,3384,EPIC Bhojpuri,jiotv,exact
 EpicCrimes.in,Epic Crimes,,,,none
 EpicKids.in,Epic Kids,3385,Epic Kids,jiotv,exact
-EpicMusic.in,Epic Music,ts733,EPIC Music,tataplay,exact
-EpicParivar.in,Epic Parivar,ts888,EPIC Parivar,tataplay,exact
+EpicMusic.in,Epic Music,,,,none
+EpicParivar.in,Epic Parivar,,,,none
 EpicTV.in,Epic TV,3382,EPIC TV,jiotv,exact
 ETNow.in,ET Now,212,ET Now,jiotv,exact
 ETVAndhraPradesh.in,ETV Andhra Pradesh,614,ETV Andhra pradesh,jiotv,exact
-ETVBalBharat.in,ETV Bal Bharat,ts905,ETV Bal Bharat,tataplay,exact
+ETVBalBharat.in,ETV Bal Bharat,,,,none
 ETVBeats.in,ETV Beats,3559,ETV Beats,jiotv,exact
 ETVCinema.in,ETV Cinema,252,ETV Cinema,jiotv,exact
 ETVComedy.in,ETV Comedy,3561,ETV Comedy,jiotv,exact
@@ -205,14 +205,14 @@ ETVTelugu.in,ETV Telugu,629,ETV Telugu,jiotv,exact
 ExpressNews.in,Express News,1771,Express News,jiotv,exact
 FaktMarathi.in,Fakt Marathi,738,Fakt Marathi,jiotv,exact
 FashionIndia.in,Fashion India,2031,Fashion India,jiotv,exact
-FashionTV.in,FashionTV,ts227,Fashion TV,tataplay,exact
+FashionTV.in,FashionTV,,,,none
 Fast1.in,Fast1,3354,Fast1,jiotv,exact
 FatehTV.in,Fateh TV,1174,Fateh TV,jiotv,exact
 FirstIndiaNews.in,First India News,927,First India News,jiotv,exact
 FMNews.in,FM News,1697,FM News,jiotv,exact
 FoodFood.in,Food Food,561,Food Food,jiotv,exact
 FriendsTV.in,Friends TV,,,,none
-GangaurTV.in,Gangaur TV,ts1859,Gangaur TV,tataplay,exact
+GangaurTV.in,Gangaur TV,2077,Gangaur,jiotv,filler
 GlobalPunjab.in,Global Punjab,2019,Global Punjab,jiotv,exact
 Goldmines.in,Goldmines,ts823,Goldmines,tataplay,exact
 Goldmines2.in,Goldmines 2,ts823,Goldmines,tataplay,fuzzy
@@ -240,7 +240,7 @@ HiDost.in,Hi Dost!,1232,Hi Dost!,jiotv,exact
 HighNews.in,High News,,,,none
 HindiKhabar.in,Hindi Khabar,808,Hindi Khabar,jiotv,exact
 HinduDharmam.in,Hindu Dharmam,955,Hindu Dharmam,jiotv,exact
-HistoryTV18.in,History TV18,146,History TV18 HD,jiotv,exact
+HistoryTV18.in,History TV18,1471,History TV18,jiotv,exact
 HMTV.in,HMTV,665,HM TV,jiotv,exact
 HNN24x7.in,HNN 24x7,2021,HNN 24x7,jiotv,exact
 HopeChannelIndia.in,Hope Channel India,,,,none
@@ -262,7 +262,7 @@ IndywoodTV.in,Indywood TV,,,,none
 INews.in,INews,790,I News,jiotv,exact
 INH24x7.in,INH 24x7,957,INH 24x7,jiotv,exact
 Insync.in,Insync,1286,Insync,jiotv,exact
-IsaiAruvi.in,Isai Aruvi,ts647,Isaiaruvi,tataplay,exact
+IsaiAruvi.in,Isai Aruvi,,,,none
 IshwarBhaktiTV.in,Ishwar Bhakti TV,,,,none
 JaiMaharashtra.in,Jai Maharashtra,1394,Jai Maharashtra,jiotv,exact
 JaihindTV.in,Jaihind TV,465,Jaihind tv,jiotv,exact
@@ -270,7 +270,7 @@ JalshaMovies.in,Jalsha Movies,457,Jalsha Movies HD,jiotv,exact
 JanTV.in,Jan TV,768,Jan TV,jiotv,exact
 JanamTV.in,Janam TV,810,Janam TV,jiotv,exact
 JantaTV.in,Janta TV,880,Janta TV,jiotv,exact
-JantantraTV.in,Jantantra TV,ts701,Jantantra TV,tataplay,exact
+JantantraTV.in,Jantantra TV,975,Jantantra,jiotv,filler
 JayaPlus.in,Jaya Plus,418,Jaya Plus,jiotv,exact
 JeevanTV.in,Jeevan TV,842,Jeevan TV,jiotv,exact
 JinvaniChannel.in,Jinvani Channel,ts373,Jinvani Channel,tataplay,exact
@@ -284,7 +284,7 @@ KairaliArabia.in,Kairali Arabia,,,,none
 KairaliNews.in,Kairali News,725,Kairali News,jiotv,exact
 KairaliTV.in,Kairali TV,710,Kairali TV,jiotv,exact
 KairaliWe.in,Kairali We,731,Kairali WE TV,jiotv,exact
-KalaignarMurasu.in,Kalaignar Murasu,ts411,Murasu TV,tataplay,exact
+KalaignarMurasu.in,Kalaignar Murasu,,,,none
 KalaignarSeithigal.in,Kalaignar Seithigal,1210,Kalaignar Seithigal,jiotv,exact
 KalaignarTV.in,Kalaignar TV,1209,Kalaignar TV,jiotv,exact
 KalikaTV.in,Kalika TV,,,,none
@@ -299,8 +299,8 @@ KBPTimes.in,KBP Times,3573,KBP Times,jiotv,exact
 KCLTV.in,KCL TV,,,,none
 KeralaVision.in,Kerala Vision,,,,none
 KhabarFast.in,Khabar Fast,915,Khabar Fast,jiotv,exact
-KhabrainAbhiTak.in,Khabrain Abhi Tak,ts384,Khabarain Abhi Tak,tataplay,fuzzy
-KhushbooBangla.in,Khushboo Bangla,ts379,Khushboo Bangla,tataplay,exact
+KhabrainAbhiTak.in,Khabrain Abhi Tak,,,,none
+KhushbooBangla.in,Khushboo Bangla,,,,none
 KiteVicters.in,Kite Victers,1429,KITE VICTERS,jiotv,exact
 KKDNews.in,KKD News,,,,none
 KnockBhakti.in,Knock Bhakti,3566,Knock Bhakti,jiotv,exact
@@ -345,18 +345,18 @@ Mh1News.in,Mh 1 News,,,,none
 Mh1Prime.in,Mh 1 Prime,,,,none
 MHOneDilSe.in,MH One Dil Se,,,,none
 MHOneMovies.in,MH One Movies,,,,none
-MHOneShraddha.in,MH One Shraddha,ts397,MH One Shraddha,tataplay,exact
+MHOneShraddha.in,MH One Shraddha,,,,none
 MirrorNow.in,Mirror Now,491,Mirror Now,jiotv,exact
 MKSix.in,MK Six,1647,MK Six,jiotv,exact
 MojoTV.in,Mojo TV,,,,none
 MoonTV.in,Moon TV,1518,Moon TV,jiotv,exact
 MoviesNow.in,Movies Now,151,Movies Now HD,jiotv,exact
-MTV.in,MTV,1145,MTV HD,jiotv,exact
+MTV.in,MTV,248,MTV,jiotv,exact
 MunsifTV.in,Munsif TV,2017,Munsif TV,jiotv,exact
 MusicIndia.in,Music India,250,Music India,jiotv,exact
 NagalandTV.in,Nagaland TV,1855,NL TV,jiotv,exact
 NakshatraDigitalTV.in,Nakshatra Digital TV,,,,none
-NambikkaiTV.in,Nambikkai TV,ts408,Nambikkai TV,tataplay,exact
+NambikkaiTV.in,Nambikkai TV,603,Nambikkai,jiotv,filler
 NamdhariTV.in,Namdhari TV,,,,none
 NandighoshaTV.in,Nandighosha TV,ts805,Nandighosha TV,tataplay,exact
 NationNews.in,Nation News,3438,Nation News,jiotv,exact
@@ -365,12 +365,12 @@ NationalGeographicWild.in,National Geographic Wild,1332,Nat Geo Wild HD,jiotv,ex
 NDTV24x7.in,NDTV 24x7,,,,none
 NDTVGoodTimes.in,NDTV Good Times,,,,none
 NDTVIndia.in,NDTV India,258,NDTV India,jiotv,exact
-NDTVMadhyaPradeshChhattisgarh.in,NDTV Madhya Pradesh Chhattisgarh,ts1159,NDTV MPCG,tataplay,exact
+NDTVMadhyaPradeshChhattisgarh.in,NDTV Madhya Pradesh Chhattisgarh,,,,none
 NDTVMarathi.in,NDTV Marathi,3095,NDTV Marathi,jiotv,exact
 NDTVProfit.in,NDTV Profit,259,NDTV Profit,jiotv,exact
-NDTVRajasthan.in,NDTV Rajasthan,ts1152,NDTV Rajasthan,tataplay,exact
+NDTVRajasthan.in,NDTV Rajasthan,255,NDTV,jiotv,exact
 NENews.in,NE News,3217,NE News,jiotv,exact
-Nepal1.in,Nepal 1,ts567,Nepal 1,tataplay,exact
+Nepal1.in,Nepal 1,,,,none
 Network10.in,Network 10,1528,Network 10,jiotv,exact
 News1India.in,News 1 India,936,News 1 India,jiotv,exact
 News11.in,News 11,882,News11,jiotv,exact
@@ -385,7 +385,7 @@ NewsDaily24.in,News Daily 24,,,,none
 NewsFlash.in,News Flash,1896,News Flash,jiotv,exact
 NewsIndia24x7.in,News India 24x7,850,News India 24x7,jiotv,exact
 NewsJ.in,News J,1515,News J,jiotv,exact
-NewsLeader.in,News Leader,ts1887,News Leader,tataplay,exact
+NewsLeader.in,News Leader,,,,none
 NewsLive.in,News Live,613,Newslive,jiotv,exact
 NewsLiveBangla.in,News Live Bangla,908,Newslive Bangla,jiotv,exact
 NewsMarathi24x7.in,News Marathi 24x7,3179,News Marathi 24x7,jiotv,exact
@@ -396,7 +396,7 @@ NewsStateMPCHG.in,News State MP & CHG,,,,none
 NewsStatePunjabHaryanaHimachal.in,News State Punjab Haryana Himachal,3152,News State Punjab Haryana Himachal,jiotv,exact
 NewsStateUPUK.in,News State UP & UK,,,,none
 NewsTamil24x7.in,News Tamil 24x7,1954,News Tamil 24x7,jiotv,exact
-News18AssamNorthEast.in,News18 Assam North-East,ts68,News18 Assam North East,tataplay,exact
+News18AssamNorthEast.in,News18 Assam North-East,,,,none
 News18Bangla.in,News18 Bangla,717,News18 Bangla,jiotv,exact
 News18BiharJharkhand.in,News18 Bihar Jharkhand,693,News18 Bihar Jharkhand,jiotv,exact
 News18DelhiNCRJK.in,News18 Delhi NCR JK,694,News18 Delhi NCR JK,jiotv,exact
@@ -420,7 +420,7 @@ NHBollyGold.in,NH BollyGold,3338,NH BollyGold,jiotv,exact
 NHBollyRaga.in,NH BollyRaga,3343,NH BollyRaga,jiotv,exact
 NHTamilGold.in,NH Tamil Gold,,,,none
 NickHDPlus.in,Nick HD+,1226,Nick HD+,jiotv,exact
-NickJr.in,Nick Jr.,ts118,Nick Jr,tataplay,exact
+NickJr.in,Nick Jr.,,,,none
 Nickelodeon.in,Nickelodeon,1226,Nick HD+,jiotv,exact
 NKTV24x7.in,NK TV 24x7,1757,NK TV Plus,jiotv,exact
 NKTVBangla.in,NK TV Bangla,2933,NK TV Bangla,jiotv,exact
@@ -428,7 +428,7 @@ NKRTVKannada.in,NKR TV Kannada,,,,none
 NortheastLive.in,Northeast Live,637,North East Live,jiotv,exact
 NSC9News.in,NSC9 News,3469,NSC9 News,jiotv,exact
 NTCTV.in,NTC TV,3393,NTC TV,jiotv,exact
-NTVTelugu.in,NTV Telugu,ts160,NTV Telugu,tataplay,exact
+NTVTelugu.in,NTV Telugu,,,,none
 OdishaTV.in,Odisha TV,704,OTV,jiotv,exact
 OliTV.in,Oli TV,,,,none
 OMTV.in,OM TV,3279,OM TV,jiotv,exact
@@ -473,7 +473,7 @@ PudhariNews.in,Pudhari News,2935,Pudhari News,jiotv,exact
 PulariTV.in,Pulari TV,,,,none
 PunjabiHits.in,Punjabi Hits,2934,Punjabi Hits,jiotv,exact
 PunjabiShorts.in,Punjabi Shorts,3471,Punjabi Shorts,jiotv,exact
-PuthiyaThalaimurai.in,Puthiya Thalaimurai,ts220,Puthiya Thalaimurai,tataplay,exact
+PuthiyaThalaimurai.in,Puthiya Thalaimurai,677,Puthiya Thalimurai,jiotv,fuzzy
 PuthuyugamTV.in,Puthuyugam TV,824,Puthu Yugam,jiotv,filler
 QTV.in,Q TV,,,,none
 RPlus.in,R Plus,950,R Plus,jiotv,exact
@@ -485,7 +485,7 @@ RajDigitalPlus.in,Raj Digital Plus,683,Raj Digital Plus,jiotv,exact
 RajMusixKannada.in,Raj Musix Kannada,ts427,Raj Musix Kannada,tataplay,exact
 RajMusixMalayalam.in,Raj Musix Malayalam,ts541,Raj Musix Malayalam,tataplay,exact
 RajMusixTamil.in,Raj Musix Tamil,,,,none
-RajMusixTelugu.in,Raj Musix Telugu,ts429,Raj Musix Telugu,tataplay,exact
+RajMusixTelugu.in,Raj Musix Telugu,737,Raj Music Telugu,jiotv,fuzzy
 RajNewsKannada.in,Raj News Kannada,651,Raj News Kannada,jiotv,exact
 RajNewsMalayalam.in,Raj News Malayalam,650,Raj News Malayalam,jiotv,exact
 RajNewsTelugu.in,Raj News Telugu,664,Raj News Telugu,jiotv,exact
@@ -496,22 +496,22 @@ RDXGoa.in,RDX Goa,1102,RDX Goa,jiotv,exact
 RealNewsKerala.in,Real News Kerala,1618,Real News Kerala,jiotv,exact
 Rengoni.in,Rengoni,635,Rengoni,jiotv,exact
 ReporterTV.in,Reporter TV,1408,Reporter TV,jiotv,exact
-RepublicBangla.in,Republic Bangla,ts890,Republic Bangla,tataplay,exact
+RepublicBangla.in,Republic Bangla,,,,none
 RepublicBharat.in,Republic Bharat,1403,Republic Bharat,jiotv,exact
 RepublicKannada.in,Republic Kannada,,,,none
 RepublicTV.in,Republic TV,858,Republic TV,jiotv,exact
-RomedyNow.in,Romedy Now,1401,Romedy Now,jiotv,exact
+RomedyNow.in,Romedy Now,478,Romedy Now HD,jiotv,exact
 RongeenTV.in,Rongeen TV,1667,Rongeen TV,jiotv,exact
-RozanaSpokesman.in,Rozana Spokesman,ts1880,Rozana Spokesman,tataplay,exact
+RozanaSpokesman.in,Rozana Spokesman,,,,none
 RSBharat.in,RS Bharat,3191,S Bharat,jiotv,fuzzy
 RTIndia.in,RT India,1338,RT India,jiotv,exact
 RupasiBangla.in,Rupasi Bangla,3005,Rupashi Bangla,jiotv,fuzzy
-SachBedhadak.in,Sach Bedhadak,ts1075,Sach Bedhadak,tataplay,exact
+SachBedhadak.in,Sach Bedhadak,,,,none
 SADATV.in,SADA TV,,,,none
 Sadhna.in,Sadhna,593,Sadhna,jiotv,exact
 SadhnaNewsMadhyaPradeshChhattisgarh.in,Sadhna News Madhya Pradesh/Chhattisgarh,,,,none
 SadhnaPlusNews.in,Sadhna Plus News,ts827,Sadhna Plus News,tataplay,exact
-SadhnaTV.in,Sadhna TV,ts447,Sadhna TV,tataplay,exact
+SadhnaTV.in,Sadhna TV,593,Sadhna,jiotv,filler
 SadvidyaTV.in,Sadvidya TV,2028,Sadvidya TV,jiotv,exact
 SafariTV.in,Safari TV,1666,Safari TV,jiotv,exact
 SahanaNews.in,Sahana News,,,,none
@@ -521,7 +521,7 @@ SakshiTV.in,Sakshi TV,632,Sakshi tv,jiotv,exact
 SalaamTV.in,Salaam TV,728,Salaam TV,jiotv,exact
 SalvationTV.in,Salvation TV,,,,none
 SamacharNation.in,Samachar Nation,2018,Samachar Nation,jiotv,exact
-SamacharPlus24x7.in,Samachar Plus 24x7,ts1877,Samachar Plus 24x7,tataplay,exact
+SamacharPlus24x7.in,Samachar Plus 24x7,,,,none
 SamayKolkata.in,Samay Kolkata,2228,Samay Kolkata,jiotv,exact
 SanaPlus.in,Sana Plus,3359,Sana Plus,jiotv,exact
 SanaTV.in,Sana TV,3201,Sana TV,jiotv,exact
@@ -558,11 +558,11 @@ SidharthGold.in,Sidharth Gold,1957,Sidharth Gold,jiotv,exact
 SidharthTV.in,Sidharth TV,1956,Sidharth TV,jiotv,exact
 SidharthUtsav.in,Sidharth Utsav,ts1026,Sidharth UTSAV,tataplay,exact
 SiriKannada.in,Siri Kannada,1634,Siri Kannada,jiotv,exact
-SiriKannadaAllTime.in,Siri Kannada All Time,ts940,SIRIKANNADA Alltime,tataplay,exact
+SiriKannadaAllTime.in,Siri Kannada All Time,,,,none
 SirippoliTV.in,Sirippoli TV,ts611,Sirippoli,tataplay,filler
 SohamTV.in,Soham TV,1078,Soham TV,jiotv,exact
 SongdewTV.in,Songdew TV,1411,SongDew TV,jiotv,exact
-Sonic.in,Sonic,ts127,Sonic,tataplay,exact
+Sonic.in,Sonic,,,,none
 SonyAath.in,Sony Aath,697,Sony aath,jiotv,exact
 SonyBBCEarth.in,Sony BBC Earth,823,Sony BBC Earth SD,jiotv,exact
 SonyEntertainmentTelevision.in,Sony Entertainment Television,1396,Set SD,jiotv,exact
@@ -572,11 +572,11 @@ SonyMax2.in,Sony Max 2,483,Sony MAX2,jiotv,exact
 SonyPal.in,Sony Pal,474,Sony Pal,jiotv,exact
 SonyPix.in,Sony Pix,762,Sony Pix HD,jiotv,exact
 SonySAB.in,Sony SAB,154,Sony SAB,jiotv,exact
-SonySportsTen1.in,Sony Sports Ten 1,ts81,SONY SPORTS TEN 1 HD,tataplay,exact
-SonySportsTen2.in,Sony Sports Ten 2,ts170,SONY SPORTS TEN 2,tataplay,exact
-SonySportsTen3Hindi.in,Sony Sports Ten 3 Hindi,ts464,SONY SPORTS TEN 3 Hindi HD,tataplay,exact
-SonySportsTen4.in,Sony Sports Ten 4,ts610,SONY SPORTS TEN 5,tataplay,fuzzy
-SonySportsTen5.in,Sony Sports Ten 5,ts610,SONY SPORTS TEN 5,tataplay,exact
+SonySportsTen1.in,Sony Sports Ten 1,514,Sony Ten 1,jiotv,exact
+SonySportsTen2.in,Sony Sports Ten 2,891,Sony Ten 2 HD,jiotv,exact
+SonySportsTen3Hindi.in,Sony Sports Ten 3 Hindi,3512,Sony Sports Ten 3 Hindi HD STB,jiotv,fuzzy
+SonySportsTen4.in,Sony Sports Ten 4,,,,none
+SonySportsTen5.in,Sony Sports Ten 5,289,Sony Max SD,jiotv,exact
 SonyWah.in,Sony Wah,1393,Sony Wah,jiotv,exact
 SonyYay.in,Sony Yay!,3507,Sony YAY,jiotv,exact
 SouthStation.in,South Station,,,,none
@@ -587,23 +587,23 @@ StarGold2.in,Star Gold 2,3096,Star Gold 2 HD,jiotv,exact
 StarGoldSelect.in,Star Gold Select,1113,Star Gold Select HD,jiotv,exact
 StarJalsha.in,Star Jalsha,317,Star Jalsha HD,jiotv,exact
 StarKiran.in,Star Kiran,3267,Star Kiran,jiotv,exact
-StarMaa.in,Star Maa,ts956,STAR Maa HD,tataplay,exact
-StarMaaGold.in,Star Maa Gold,ts954,Star Maa Gold,tataplay,exact
-StarMaaMovies.in,Star Maa Movies,ts277,Star Maa Movies,tataplay,exact
-StarMaaMusic.in,Star Maa Music,ts389,Star Maa Music,tataplay,exact
+StarMaa.in,Star Maa,ts538,STAR Maa,tataplay,exact
+StarMaaGold.in,Star Maa Gold,1137,Maa Gold,jiotv,exact
+StarMaaMovies.in,Star Maa Movies,760,Maa Movies HD,jiotv,exact
+StarMaaMusic.in,Star Maa Music,1129,Maa Music,jiotv,exact
 StarMovies.in,Star Movies,1104,Star Movies HD,jiotv,exact
 StarMoviesSelect.in,Star Movies Select,1110,Star Movies Select HD,jiotv,exact
 StarPravah.in,Star Pravah,336,Star Pravah HD,jiotv,exact
-StarSports1.in,Star Sports 1,ts78,Star Sports 1 HD,tataplay,exact
-StarSports2.in,Star Sports 2,ts235,Star Sports 2 HD,tataplay,exact
-StarSports2Hindi.in,Star Sports 2 Hindi,1984,Star Sports 2 Hindi HD,jiotv,exact
+StarSports1.in,Star Sports 1,,,,none
+StarSports2.in,Star Sports 2,,,,none
+StarSports2Hindi.in,Star Sports 2 Hindi,1985,Star Sports 2 Hindi,jiotv,exact
 StarSports2Telugu.in,Star Sports 2 Telugu,2852,Star Sports 2 Telugu,jiotv,exact
-StarSports3.in,Star Sports 3,ts664,Star Sports 3,tataplay,exact
+StarSports3.in,Star Sports 3,,,,none
 StarSportsKhel.in,Star Sports Khel,1998,Star Sports Khel,jiotv,exact
-StarSportsSelect1.in,Star Sports Select 1,ts141,Star Sports Select 1,tataplay,exact
-StarSportsSelect2.in,Star Sports Select 2,ts603,Star Sports Select 2,tataplay,exact
-StarSuvarna.in,Star Suvarna,ts467,Star Suvarna HD,tataplay,exact
-StarSuvarnaPlus.in,Star Suvarna Plus,ts540,Star Suvarna Plus,tataplay,exact
+StarSportsSelect1.in,Star Sports Select 1,,,,none
+StarSportsSelect2.in,Star Sports Select 2,,,,none
+StarSuvarna.in,Star Suvarna,,,,none
+StarSuvarnaPlus.in,Star Suvarna Plus,,,,none
 StarUtsav.in,Star Utsav,1143,Star Utsav,jiotv,exact
 StarUtsavMovies.in,Star Utsav Movies,1136,Star Utsav Movies,jiotv,exact
 StarVijay.in,Star Vijay,368,Star Vijay HD,jiotv,exact
@@ -615,13 +615,13 @@ StudioYuva.in,Studio Yuva,1799,Studio Yuva,jiotv,exact
 STVHaryanaNews.in,STV Haryana News,1854,STV Haryana News,jiotv,exact
 SubhavaarthaTV.in,Subhavaartha TV,607,Subhavartha TV,jiotv,fuzzy
 SubinTV.in,Subin TV,3360,Subin TV,jiotv,exact
-SudarshanNews.in,Sudarshan News,ts475,Sudarshan News,tataplay,exact
+SudarshanNews.in,Sudarshan News,,,,none
 SunGemini.in,Sun Gemini,897,Sun Gemini HD,jiotv,exact
 SunTV.in,Sun TV,896,Sun TV HD,jiotv,exact
 SuperHungama.in,Super Hungama,1392,Super Hungama,jiotv,exact
 Superhitz.in,Superhitz,,,,none
 SuriyaTV.in,Suriya TV,3394,Suriya TV,jiotv,exact
-SuriyanTV.in,Suriyan TV,ts1384,SURIYAN TV,tataplay,exact
+SuriyanTV.in,Suriyan TV,3394,Suriya TV,jiotv,fuzzy
 SuryaSamachar.in,Surya Samachar,1257,Surya Samachar,jiotv,exact
 SuvarnaNews.in,Suvarna News,626,Suvarna News,jiotv,exact
 SVBC.in,SVBC,1850,SVBC,jiotv,exact
@@ -629,7 +629,7 @@ SVBC2.in,SVBC 2,1417,SVBC2,jiotv,exact
 SVBC3.in,SVBC 3,1858,SVBC3,jiotv,exact
 SVBC4.in,SVBC 4,1859,SVBC4,jiotv,exact
 SwadeshNews.in,Swadesh News,1185,Swadesh News,jiotv,exact
-SwarajExpressSMBC.in,Swaraj Express SMBC,ts577,Swaraj Express SMBC,tataplay,exact
+SwarajExpressSMBC.in,Swaraj Express SMBC,,,,none
 SwastikTV.in,Swastik TV,3459,Swastik TV,jiotv,exact
 SwatantraTV.in,Swatantra TV,,,,none
 TNews.in,T News,667,T News,jiotv,exact
@@ -676,8 +676,8 @@ TV9Telugu.in,TV9 Telugu,618,TV9 Telugu,jiotv,exact
 UBangla.in,U Bangla,2184,U Bangla,jiotv,exact
 UltimateTV.in,Ultimate TV,3396,Ultimate TV,jiotv,exact
 UniqueTV.in,Unique TV,3022,Unique TV,jiotv,exact
-Unite8Sports1.in,Unite8 Sports 1,ts502,Unite8 Sports 1 HD,tataplay,exact
-Unite8Sports2.in,Unite8 Sports 2,ts506,Unite8 Sports 2 HD,tataplay,exact
+Unite8Sports1.in,Unite8 Sports 1,,,,none
+Unite8Sports2.in,Unite8 Sports 2,,,,none
 UPNOW.in,UP NOW,,,,none
 UTVPalakkad.in,UTV Palakkad,,,,none
 V6News.in,V6 News,769,V6 News,jiotv,exact
@@ -717,13 +717,13 @@ Zee24Ghanta.in,Zee 24 Ghanta,464,Zee 24 Ghanta,jiotv,exact
 Zee24Kalak.in,Zee 24 Kalak,929,Zee 24 Kalak,jiotv,exact
 Zee24Taas.in,Zee 24 Taas,442,Zee 24 Taas,jiotv,exact
 ZeeAction.in,Zee Action,488,Zee Action,jiotv,exact
-ZeeBangla.in,Zee Bangla,625,Zee Bangla,jiotv,exact
+ZeeBangla.in,Zee Bangla,1977,Zee Bangla HD,jiotv,exact
 ZeeBanglaSonar.in,Zee Bangla Sonar,3476,Zee Bangla Sonar,jiotv,exact
 ZeeBharat.in,Zee Bharat,652,Zee Bharat,jiotv,exact
 ZeeBiharJharkhand.in,Zee Bihar Jharkhand,661,Zee Bihar Jharkhand,jiotv,exact
 ZeeBusiness.in,Zee Business,657,Zee Business,jiotv,exact
 ZeeCineClassic.in,Zee Cine Classic,0-9-9z51072553,Zeecineclassic,zee5,exact
-ZeeCinema.in,Zee Cinema,165,Zee Cinema HD,jiotv,exact
+ZeeCinema.in,Zee Cinema,484,Zee Cinema,jiotv,exact
 ZeeCinemalu.in,Zee Cinemalu,413,Zee Cinemalu,jiotv,exact
 ZeeClassic.in,Zee Classic,1691,Zee Classic,jiotv,exact
 ZeeComedyNation.in,Zee Comedy Nation,0-9-9z51072556,zeecomedynation,zee5,exact
@@ -732,7 +732,7 @@ ZeeDilSe.in,Zee Dil Se,0-9-9z51072892,zeedilse,zee5,exact
 ZeeHorrorNights.in,Zee Horror Nights,0-9-9z51072893,zeehorrornights,zee5,exact
 ZeeKannada.in,Zee Kannada,689,Zee Kannada,jiotv,exact
 ZeeKannadaNews.in,Zee Kannada News,2742,Zee Kannada News,jiotv,exact
-ZeeKeralam.in,Zee Keralam,3040,Zee Keralam SD,jiotv,exact
+ZeeKeralam.in,Zee Keralam,1641,Zee Keralam HD,jiotv,exact
 ZeeMadhyaPradeshChhattisgarh.in,Zee Madhya Pradesh Chhattisgarh,0-9-zeemadhyapradeshchat,Zee Madhya Pradesh Chhattisgarh,zee5,exact
 ZeeMarathi.in,Zee Marathi,1360,Zee Marathi HD,jiotv,exact
 ZeeNews.in,Zee News,504,Zee News,jiotv,exact
@@ -742,7 +742,7 @@ ZeePunjabi.in,Zee Punjabi,1751,Zee Punjabi,jiotv,exact
 ZeeRajasthan.in,Zee Rajasthan,659,Zee Rajasthan,jiotv,exact
 ZeeSouthFlix.in,Zee South Flix,0-9-9z51072894,zeesouthflix,zee5,exact
 ZeeTalkies.in,Zee Talkies,1358,Zee Talkies HD,jiotv,exact
-ZeeTamil.in,Zee Tamil,1356,Zee Tamil HD,jiotv,exact
+ZeeTamil.in,Zee Tamil,628,Zee Tamil,jiotv,exact
 ZeeTamilNews.in,Zee Tamil News,504,Zee News,jiotv,exact
 ZeeTelugu.in,Zee Telugu,1354,Zee Telugu HD,jiotv,exact
 ZeeTeluguNews.in,Zee Telugu News,3031,Zee Telugu News,jiotv,exact

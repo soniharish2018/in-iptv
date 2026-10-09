@@ -15,7 +15,7 @@ https://mumbai-edge.smartplaytv.in/CVRHealth/index.m3u8
 https://mumbai-edge.smartplaytv.in/ETVLIFE/index.m3u8
 #EXTINF:-1 tvg-id="2031" tvg-name="Fashion India" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Fashion_India.png" group-title="💅 Lifestyle" iptv-org-id="FashionIndia.in@SD",Fashion India (720p)
 http://51.75.127.199:3141/fashionindia/index.m3u8
-#EXTINF:-1 tvg-id="ts227" tvg-name="FashionTV" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Fashion%20TV.png" group-title="💅 Lifestyle" iptv-org-id="FashionTV.in@SD",FashionTV (1080p)
+#EXTINF:-1 tvg-id="FashionTV.in@SD" tvg-name="FashionTV" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Fashion%20TV.png" group-title="💅 Lifestyle",FashionTV (1080p)
 http://51.75.127.199:3141/ftvhd/index.m3u8
 #EXTINF:-1 tvg-id="561" tvg-name="Food Food" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Food_Food.png" group-title="💅 Lifestyle" iptv-org-id="FoodFood.in@SD",Food Food (576p)
 https://mumt03.tangotv.in/Dsly5z3HFOODFOOD/index.m3u8

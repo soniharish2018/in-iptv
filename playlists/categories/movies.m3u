@@ -73,7 +73,7 @@ http://103.151.60.162:2122/play/a02s/index.m3u8?hls
 http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=946375&extension=ts&play_token=5n2Zexr7WT
 #EXTINF:-1 tvg-id="1763" tvg-name="Colors Cineplex Bollywood" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_CINEPLEX_BOLLYWOOD/images/LOGO_HD/image.png" group-title="🎬 Movies" iptv-org-id="ColorsCineplexBollywood.in@SD",Colors Cineplex Bollywood (576p)
 http://51.75.127.199:3141/colorscineplexbollywood/index.m3u8
-#EXTINF:-1 tvg-id="ts1025" tvg-name="Colors Cineplex Superhits" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_CINEPLEX_SUPERHITS/images/LOGO_HD/image.png" group-title="🎬 Movies" iptv-org-id="ColorsCineplexSuperhits.in@SD",Colors Cineplex Superhits (576p)
+#EXTINF:-1 tvg-id="1450" tvg-name="Colors Cineplex Superhits" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_CINEPLEX_SUPERHITS/images/LOGO_HD/image.png" group-title="🎬 Movies" iptv-org-id="ColorsCineplexSuperhits.in@SD",Colors Cineplex Superhits (576p)
 http://51.75.127.199:3141/colorscineplexsuperhit/index.m3u8
 #EXTINF:-1 tvg-id="1324" tvg-name="Colors Gujarati Cinema" tvg-logo="https://dtil.tmsimg.com/assets/s142751_ld_h15_aa.png?lock=720x540" group-title="🎬 Movies" iptv-org-id="ColorsGujaratiCinema.in@SD",Colors Gujarati Cinema (576p)
 http://51.75.127.199:3141/colorsgujaraticinema/index.m3u8
@@ -164,7 +164,7 @@ http://51.75.127.199:3141/publicmovies/index.m3u8
 https://vglivessai.akamaized.net/ptnr-yupptv/title-Punjabi_Shorts/in/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/27c3fd7a-b01f-4b00-ac03-557ac77acd47/index.m3u8
 #EXTINF:-1 tvg-id="683" tvg-name="Raj Digital Plus" tvg-logo="https://dtil.tmsimg.com/assets/s143704_ld_h15_ab.png?lock=720x540" group-title="🎬 Movies" iptv-org-id="RajDigitalPlus.in@SD",Raj Digital Plus (1080p)
 https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/RajTV_Digital_plus/master_1.m3u8
-#EXTINF:-1 tvg-id="1401" tvg-name="Romedy Now" tvg-logo="https://dtil.tmsimg.com/assets/s143729_ld_h15_aa.png?lock=720x540" group-title="🎬 Movies" iptv-org-id="RomedyNow.in@SD",Romedy Now (1080p)
+#EXTINF:-1 tvg-id="478" tvg-name="Romedy Now" tvg-logo="https://dtil.tmsimg.com/assets/s143729_ld_h15_aa.png?lock=720x540" group-title="🎬 Movies" iptv-org-id="RomedyNow.in@SD",Romedy Now (1080p)
 http://51.75.127.199:3141/romedynow/index.m3u8
 #EXTINF:-1 tvg-id="3074" tvg-name="Shemaroo Filmi Gaane" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/0d5b07555b2d4415aa9f145273095ed7.png" group-title="🎬 Movies" iptv-org-id="ShemarooFilmiGaane.in@HD",Shemaroo Filmi Gaane (1080p)
 https://prod-runn.cdn.runn.tv/shemaroo/stream/smrfgn/playlist.m3u8
@@ -210,9 +210,9 @@ http://103.151.60.162:2122/play/a01v/index.m3u8?hls
 http://51.75.127.199:3141/stargoldselect/index.m3u8
 #EXTINF:-1 tvg-id="1113" tvg-name="Star Gold Select" tvg-logo="https://dtil.tmsimg.com/assets/s143817_ld_h15_aa.png?lock=720x540" group-title="🎬 Movies" iptv-org-id="StarGoldSelect.in@HD",Star Gold Select HD (1080p)
 http://51.75.127.199:3141/stargoldselecthd/index.m3u8
-#EXTINF:-1 tvg-id="ts277" tvg-name="Star Maa Movies" tvg-logo="https://dtil.tmsimg.com/assets/s143826_ld_h15_aa.png?lock=720x540" group-title="🎬 Movies" iptv-org-id="StarMaaMovies.in@HD",Star Maa Movies HD (720p)
+#EXTINF:-1 tvg-id="760" tvg-name="Star Maa Movies" tvg-logo="https://dtil.tmsimg.com/assets/s143826_ld_h15_aa.png?lock=720x540" group-title="🎬 Movies" iptv-org-id="StarMaaMovies.in@HD",Star Maa Movies HD (720p)
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:maamovies.smil/chunklist_b2628000.m3u8
-#EXTINF:-1 tvg-id="ts277" tvg-name="Star Maa Movies" tvg-logo="https://dtil.tmsimg.com/assets/s143825_ld_h15_aa.png?lock=720x540" group-title="🎬 Movies" iptv-org-id="StarMaaMovies.in@SD",Star Maa Movies (576p)
+#EXTINF:-1 tvg-id="760" tvg-name="Star Maa Movies" tvg-logo="https://dtil.tmsimg.com/assets/s143825_ld_h15_aa.png?lock=720x540" group-title="🎬 Movies" iptv-org-id="StarMaaMovies.in@SD",Star Maa Movies (576p)
 http://51.75.127.199:3141/starmaamovies/index.m3u8
 #EXTINF:-1 tvg-id="1104" tvg-name="Star Movies" tvg-logo="https://dtil.tmsimg.com/assets/s140069_ld_h15_aa.png?lock=720x540" group-title="🎬 Movies" iptv-org-id="StarMovies.in@SD",Star Movies (576p)
 http://51.75.127.199:3141/starmovies/index.m3u8
@@ -226,7 +226,7 @@ http://103.151.60.162:2122/play/a02k/index.m3u8?hls
 http://51.75.127.199:3141/starmoviesselecthd/index.m3u8
 #EXTINF:-1 tvg-id="1110" tvg-name="Star Movies Select" tvg-logo="https://dtil.tmsimg.com/assets/s143830_ld_h15_aa.png?lock=720x540" group-title="🎬 Movies" iptv-org-id="StarMoviesSelect.in@HD",Star Movies Select HD (1080p)
 http://103.151.60.162:2122/play/a02l/index.m3u8?hls
-#EXTINF:-1 tvg-id="ts540" tvg-name="Star Suvarna Plus" tvg-logo="https://dtil.tmsimg.com/assets/s143854_ld_h15_aa.png?lock=720x540" group-title="🎬 Movies" iptv-org-id="StarSuvarnaPlus.in@SD",Star Suvarna Plus (576p)
+#EXTINF:-1 tvg-id="StarSuvarnaPlus.in@SD" tvg-name="Star Suvarna Plus" tvg-logo="https://dtil.tmsimg.com/assets/s143854_ld_h15_aa.png?lock=720x540" group-title="🎬 Movies",Star Suvarna Plus (576p)
 http://51.75.127.199:3141/starsuvarnaplus/index.m3u8
 #EXTINF:-1 tvg-id="1136" tvg-name="Star Utsav Movies" tvg-logo="https://dtil.tmsimg.com/assets/s143856_ld_h15_aa.png?lock=720x540" group-title="🎬 Movies" iptv-org-id="StarUtsavMovies.in@SD",Star Utsav Movies (576p)
 http://51.75.127.199:3141/starutsavmovies/index.m3u8
@@ -238,9 +238,9 @@ https://d2gvyg6lvauoko.cloudfront.net/230226/studiooneplus/playlist.m3u8?hdnts=s
 http://51.75.127.199:3141/studioone/index.m3u8
 #EXTINF:-1 tvg-id="1274" tvg-name="Studio One +" tvg-logo="https://i.imgur.com/yOPB7JB.png" group-title="🎬 Movies" iptv-org-id="StudioOnePlus.in@SD",Studio One + (576p)
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/StudioOnePlus.m3u8
-#EXTINF:-1 tvg-id="ts1384" tvg-name="Suriyan TV" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Suriyan-tv-logo_2000_X_1125_Transpharent.png" group-title="🎬 Movies" iptv-org-id="SuriyanTV.in@SD",Suriyan TV (576p)
+#EXTINF:-1 tvg-id="3394" tvg-name="Suriyan TV" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Suriyan-tv-logo_2000_X_1125_Transpharent.png" group-title="🎬 Movies" iptv-org-id="SuriyanTV.in@SD",Suriyan TV (576p)
 https://stream.sscloud7.com/live/suriyantv/index.m3u8
-#EXTINF:-1 tvg-id="ts1384" tvg-name="Suriyan TV" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Suriyan-tv-logo_2000_X_1125_Transpharent.png" group-title="🎬 Movies" iptv-org-id="SuriyanTV.in@SD",Suriyan TV (576p)
+#EXTINF:-1 tvg-id="3394" tvg-name="Suriyan TV" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Suriyan-tv-logo_2000_X_1125_Transpharent.png" group-title="🎬 Movies" iptv-org-id="SuriyanTV.in@SD",Suriyan TV (576p)
 https://hlslive.olidigital.in/suriyantv/suriyantv/index.m3u8
 #EXTINF:-1 tvg-id="TheMovieClub.in@HD" tvg-name="The Movie Club" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN38000072R_20260325T012318SQUARE.png" group-title="🎬 Movies",The Movie Club (1080p)
 https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-mp2ar4ca425xo.m3u8
@@ -252,13 +252,13 @@ https://mumbai-edge.smartplaytv.in/TheMovieClub/index.m3u8
 http://51.75.127.199:3141/vijaysuper/index.m3u8
 #EXTINF:-1 tvg-id="488" tvg-name="Zee Action" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022K5ZV.png?lock=720x540" group-title="🎬 Movies" iptv-org-id="ZeeAction.in@SD",Zee Action (576p)
 http://107.167.16.138/zeeaction/index.m3u8?token=test
-#EXTINF:-1 tvg-id="165" tvg-name="Zee Cinema" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022HVX3.png?lock=720x540" group-title="🎬 Movies" iptv-org-id="ZeeCinema.in@SD",Zee Cinema (576p)
+#EXTINF:-1 tvg-id="484" tvg-name="Zee Cinema" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022HVX3.png?lock=720x540" group-title="🎬 Movies" iptv-org-id="ZeeCinema.in@SD",Zee Cinema (576p)
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD.m3u8
-#EXTINF:-1 tvg-id="165" tvg-name="Zee Cinema" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022HVX3.png?lock=720x540" group-title="🎬 Movies" iptv-org-id="ZeeCinema.in@APAC",Zee Cinema APAC (720p)
+#EXTINF:-1 tvg-id="484" tvg-name="Zee Cinema" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022HVX3.png?lock=720x540" group-title="🎬 Movies" iptv-org-id="ZeeCinema.in@APAC",Zee Cinema APAC (720p)
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/sg/YuppTV/ZeeCinemaAPAC.m3u8
-#EXTINF:-1 tvg-id="165" tvg-name="Zee Cinema" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022HVX3.png?lock=720x540" group-title="🎬 Movies" iptv-org-id="ZeeCinema.in@HD",Zee Cinema HD (1080p)
+#EXTINF:-1 tvg-id="484" tvg-name="Zee Cinema" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022HVX3.png?lock=720x540" group-title="🎬 Movies" iptv-org-id="ZeeCinema.in@HD",Zee Cinema HD (1080p)
 http://103.151.60.162:2122/play/a024/index.m3u8?hls
-#EXTINF:-1 tvg-id="165" tvg-name="Zee Cinema" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022HVX3.png?lock=720x540" group-title="🎬 Movies" iptv-org-id="ZeeCinema.in@HD",Zee Cinema HD (1080p)
+#EXTINF:-1 tvg-id="484" tvg-name="Zee Cinema" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022HVX3.png?lock=720x540" group-title="🎬 Movies" iptv-org-id="ZeeCinema.in@HD",Zee Cinema HD (1080p)
 http://103.151.60.162:2122/play/a012/index.m3u8?hls
 #EXTINF:-1 tvg-id="413" tvg-name="Zee Cinemalu" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022ZEQ9.png?lock=720x540" group-title="🎬 Movies" iptv-org-id="ZeeCinemalu.in@HD",Zee Cinemalu HD (720p)
 https://mumbai-edge.smartplaytv.in/ZeeCinemaluHD/index.m3u8
