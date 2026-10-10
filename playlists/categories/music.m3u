@@ -83,13 +83,13 @@ https://d1msejlow1t3l4.cloudfront.net/fta/subhartitv/playlist.m3u8
 http://51.75.127.199:3141/subharti/index.m3u8
 #EXTINF:-1 tvg-id="DhoomMusic.in@SD" tvg-name="Dhoom Music" tvg-logo="https://dtil.tmsimg.com/assets/s142882_ld_h15_aa.png?lock=720x540" group-title="🎵 Music",Dhoom Music (576p)
 https://mumt06.tangotv.in/qYyB8fXVDHOOMMUSIC/index.m3u8
-#EXTINF:-1 tvg-id="EpicMusic.in@SD" tvg-name="Epic Music" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0032BWBW.png?lock=720x540" group-title="🎵 Music",Epic Music (576p)
+#EXTINF:-1 tvg-id="ts733" tvg-name="Epic Music" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0032BWBW.png?lock=720x540" group-title="🎵 Music" iptv-org-id="EpicMusic.in@SD",Epic Music (576p)
 https://mumt04.tangotv.in/m18aqlK4EPICMUSIC/index.m3u8
-#EXTINF:-1 tvg-id="EpicMusic.in@SD" tvg-name="Epic Music" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0032BWBW.png?lock=720x540" group-title="🎵 Music",Epic Music (576p)
+#EXTINF:-1 tvg-id="ts733" tvg-name="Epic Music" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0032BWBW.png?lock=720x540" group-title="🎵 Music" iptv-org-id="EpicMusic.in@SD",Epic Music (576p)
 https://streams.tangotv.in/EPICMUSIC/ORIGIN/index.m3u8
-#EXTINF:-1 tvg-id="EpicMusic.in@Digital" tvg-name="Epic Music" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0032BWBW.png?lock=720x540" group-title="🎵 Music",Epic Music Digital (1080p)
+#EXTINF:-1 tvg-id="ts733" tvg-name="Epic Music" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0032BWBW.png?lock=720x540" group-title="🎵 Music" iptv-org-id="EpicMusic.in@Digital",Epic Music Digital (1080p)
 https://cc-3cyxq80qusspd.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3cyxq80qusspd/playlist.m3u8
-#EXTINF:-1 tvg-id="EpicMusic.in@SD" tvg-name="Epic Music" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0032BWBW.png?lock=720x540" group-title="🎵 Music",Epic Music (576p)
+#EXTINF:-1 tvg-id="ts733" tvg-name="Epic Music" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0032BWBW.png?lock=720x540" group-title="🎵 Music" iptv-org-id="EpicMusic.in@SD",Epic Music (576p)
 http://66.102.126.10:8000/play/a01i/index.m3u8
 #EXTINF:-1 tvg-id="3559" tvg-name="ETV Beats" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/etvimages/etvbeats/LG/Logowithtransparentbackground400%C3%97200.png" group-title="🎵 Music" iptv-org-id="ETVBeats.in@HD",ETV Beats (1080p)
 https://jmp2.uk/stvp-IN4900002RV
@@ -103,7 +103,7 @@ https://mumt04.tangotv.in/m18aqlK4INSYNC/index.m3u8
 https://d1msejlow1t3l4.cloudfront.net/fta/insync/playlist.m3u8
 #EXTINF:-1 tvg-id="1286" tvg-name="Insync" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Insync.png" group-title="🎵 Music" iptv-org-id="Insync.in@SD",Insync (576p)
 http://51.75.127.199:3141/insync/index.m3u8
-#EXTINF:-1 tvg-id="IsaiAruvi.in@SD" tvg-name="Isai Aruvi" tvg-logo="https://dtil.tmsimg.com/assets/s143212_ld_h15_aa.png?lock=720x540" group-title="🎵 Music",Isai Aruvi (396p)
+#EXTINF:-1 tvg-id="ts647" tvg-name="Isai Aruvi" tvg-logo="https://dtil.tmsimg.com/assets/s143212_ld_h15_aa.png?lock=720x540" group-title="🎵 Music" iptv-org-id="IsaiAruvi.in@SD",Isai Aruvi (396p)
 https://segment.yuppcdn.net/140622/isaiaruvi/playlist.m3u8
 #EXTINF:-1 tvg-id="KalikaTV.in@SD" tvg-name="Kalika TV" tvg-logo="https://i.imgur.com/XWXFoJA.png" group-title="🎵 Music",Kalika TV (576p)
 http://server.applelive.in/kalikatv/kalikatv.m3u8
@@ -149,7 +149,7 @@ https://cdn.pishow.tv/ott/live/1073/master.m3u8
 https://mumt04.tangotv.in/m18aqlK4RAJMUSIXMALAYALAM/index.m3u8
 #EXTINF:-1 tvg-id="RajMusixTamil.in@SD" tvg-name="Raj Musix Tamil" tvg-logo="https://dtil.tmsimg.com/assets/s143707_ld_h15_aa.png?lock=720x540" group-title="🎵 Music",Raj Musix Tamil (1080p)
 https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/Raj_Musix/master_1.m3u8
-#EXTINF:-1 tvg-id="737" tvg-name="Raj Musix Telugu" tvg-logo="https://dtil.tmsimg.com/assets/s143708_ld_h15_aa.png?lock=720x540" group-title="🎵 Music" iptv-org-id="RajMusixTelugu.in@SD",Raj Musix Telugu (576p)
+#EXTINF:-1 tvg-id="ts429" tvg-name="Raj Musix Telugu" tvg-logo="https://dtil.tmsimg.com/assets/s143708_ld_h15_aa.png?lock=720x540" group-title="🎵 Music" iptv-org-id="RajMusixTelugu.in@SD",Raj Musix Telugu (576p)
 https://mumt07.tangotv.in/zHjX9OFlRAJMUSIXTELUGU/index.m3u8
 #EXTINF:-1 tvg-id="3191" tvg-name="RS Bharat" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/RS_Bharat.png" group-title="🎵 Music" iptv-org-id="RSBharat.in@SD",RS Bharat (576p)
 http://51.75.127.199:3141/rsbharat/index.m3u8
@@ -173,7 +173,7 @@ http://107.167.16.138/sangeetmarathi/index.m3u8?token=test
 https://prod-runn.cdn.runn.tv/shemaroo/stream/smrfgn/playlist.m3u8
 #EXTINF:-1 tvg-id="1411" tvg-name="Songdew TV" tvg-logo="https://dtil.tmsimg.com/assets/s142920_ld_h9_aa.png?lock=720x540" group-title="🎵 Music" iptv-org-id="SongdewTV.in@SD",Songdew TV (396p)
 https://yuppnimrestreammum.akamaized.net/181224/smil:songdewtv.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
-#EXTINF:-1 tvg-id="1129" tvg-name="Star Maa Music" tvg-logo="https://dtil.tmsimg.com/assets/s143828_ld_h15_aa.png?lock=720x540" group-title="🎵 Music" iptv-org-id="StarMaaMusic.in@SD",Star Maa Music (576p)
+#EXTINF:-1 tvg-id="ts389" tvg-name="Star Maa Music" tvg-logo="https://dtil.tmsimg.com/assets/s143828_ld_h15_aa.png?lock=720x540" group-title="🎵 Music" iptv-org-id="StarMaaMusic.in@SD",Star Maa Music (576p)
 http://51.75.127.199:3141/starmaamusic/index.m3u8
 #EXTINF:-1 tvg-id="SteelbirdMusic.in@SD" tvg-name="Steelbird Music" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Steelbird_Music.png" group-title="🎵 Music",Steelbird Music (720p) [Not 24/7]
 https://cdn2.in/SteelbirdMusicTVhls/live.m3u8
@@ -205,6 +205,8 @@ https://live.yettelevision.com:5443/LiveApp/streams/yettv2.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
 #EXTINF:-1 tvg-id="2753" tvg-name="YRF Music" tvg-logo="https://i.imgur.com/pKj3F4M.png" group-title="🎵 Music" iptv-org-id="YRFMusic.in@SD",YRF Music (1080p)
 https://d14c63magvk61v.cloudfront.net/strm/channels/yrfmusic/master.m3u8
+#EXTINF:-1 tvg-id="2753" tvg-name="YRF Music" tvg-logo="https://i.imgur.com/mxx05Z9.png" group-title="🎵 Music" iptv-org-id="YRFMusic.in@Nepal",YRF Music Nepal
+https://vidaa.kableone.com/hls/live/2111218/YrfMusic/1.m3u8
 #EXTINF:-1 tvg-id="3319" tvg-name="ZB Music" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/zbmusic.png" group-title="🎵 Music" iptv-org-id="ZBMusic.in@HD",ZB Music (720p)
 https://server.zillarbarta.com/zbmusic/index.m3u8
 #EXTINF:-1 tvg-id="585" tvg-name="Zing!" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0025L26R.png?lock=720x540" group-title="🎵 Music" iptv-org-id="Zing.in@SD",Zing! (576p)
@@ -215,3 +217,5 @@ https://dai.google.com/linear/hls/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
 https://d2esfk1pb9cdob.cloudfront.net/master.m3u8
 #EXTINF:-1 tvg-id="592" tvg-name="Zoom" tvg-logo="https://dtil.tmsimg.com/assets/s157600_ld_h15_aa.png?lock=720x540" group-title="🎵 Music" iptv-org-id="Zoom.in@SD",Zoom (576p)
 https://mumbai-edge.smartplaytv.in/Zoom/index.m3u8
+#EXTINF:-1 tvg-id="592" tvg-name="Zoom" tvg-logo="https://i.imgur.com/mxx05Z9.png" group-title="🎵 Music" iptv-org-id="Zoom.in@Nepal",Zoom Nepal (720p)
+https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
