@@ -159,6 +159,8 @@ https://mumt07.tangotv.in/zHjX9OFlCHARDIKALATIMETV/index.m3u8
 https://chardikalanorthamerica.gigabitcdn.net/in-chardikala/chardikala-north-usa/playlist.m3u8
 #EXTINF:-1 tvg-id="1670" tvg-name="Cnews Bharat" tvg-logo="https://raw.githubusercontent.com/satish-kumar07/iptv-channel-logos/refs/heads/main/Cnews%20Bharat.png" group-title="📰 News" iptv-org-id="CnewsBharat.in@SD",Cnews Bharat (720p)
 https://legitpro.co.in/cnews/cnews/index.fmp4.m3u8
+#EXTINF:-1 tvg-id="492" tvg-name="CNN News 18" tvg-logo="https://dtil.tmsimg.com/assets/s142747_ld_h15_aa.png?lock=720x540" group-title="📰 News" iptv-org-id="CNNNews18.in@SD",CNN News 18 (1080p)
+https://n18syndication.akamaized.net/bpk-tv/CNN_News18_NW18_MOB/output01/master.m3u8
 #EXTINF:-1 tvg-id="1260" tvg-name="CTVN AKD Plus" tvg-logo="https://dtil.tmsimg.com/assets/s142754_ld_h15_aa.png?lock=720x540" group-title="📰 News" iptv-org-id="CTVNAKDPlus.in@SD",CTVN AKD Plus (1080p)
 https://live.legitpro.co.in/ctvnakdplus/index.m3u8
 #EXTINF:-1 tvg-id="787" tvg-name="CVR English" tvg-logo="https://i.imgur.com/k0WTQKi.png" group-title="📰 News" iptv-org-id="CVREnglish.in@SD",CVR English (576p)
