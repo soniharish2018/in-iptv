@@ -1,4 +1,6 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/mitthu786/tvepg/main/epg.xml.gz" url-tvg="https://raw.githubusercontent.com/mitthu786/tvepg/main/epg.xml.gz"
+#EXTINF:-1 tvg-id="AMNTV.in@SD" tvg-name="AMN TV" tvg-logo="https://amntv.in/wp-content/uploads/2025/04/amntv-logo.png" group-title="📺 General",AMN TV (576p)
+https://live.onecloudlive.in/amn/amntv/index.m3u8
 #EXTINF:-1 tvg-id="CCV.in@SD" tvg-name="CCV" tvg-logo="https://i.imgur.com/4ss0KfA.png" group-title="📺 General",CCV (480p)
 https://5a1178b42cc03.streamlock.net/8212/8212/playlist.m3u8
 #EXTINF:-1 tvg-id="ColorsRishteyAmericas.in@SD" tvg-name="Colors Rishtey Americas" tvg-logo="https://i.imgur.com/xkOunuW.png" group-title="📺 General",Colors Rishtey Americas (396p)
