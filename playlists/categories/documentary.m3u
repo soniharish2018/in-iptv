@@ -1,15 +1,15 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/mitthu786/tvepg/main/epg.xml.gz" url-tvg="https://raw.githubusercontent.com/mitthu786/tvepg/main/epg.xml.gz"
-#EXTINF:-1 tvg-id="ts287" tvg-name="Animal Planet" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/AnimalPlanetHD_Transparent_d36c0ee3-3e3f-4e0c-b3b2-23bfb3c3c2b0.png" group-title="🎥 Documentary" iptv-org-id="AnimalPlanet.in@HD",Animal Planet HD (720p)
+#EXTINF:-1 tvg-id="ts130" tvg-name="Animal Planet" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/AnimalPlanetHD_Transparent_d36c0ee3-3e3f-4e0c-b3b2-23bfb3c3c2b0.png" group-title="🎥 Documentary" iptv-org-id="AnimalPlanet.in@HD",Animal Planet HD (720p)
 https://drk6xq0vhn.gpcdn.net/live/animal_planet_hd_abr/index.m3u8
-#EXTINF:-1 tvg-id="ts287" tvg-name="Animal Planet" tvg-logo="https://dtil.tmsimg.com/assets/s157574_ld_h15_aa.png?lock=720x540" group-title="🎥 Documentary" iptv-org-id="AnimalPlanet.in@SD",Animal Planet (720p)
+#EXTINF:-1 tvg-id="ts130" tvg-name="Animal Planet" tvg-logo="https://dtil.tmsimg.com/assets/s157574_ld_h15_aa.png?lock=720x540" group-title="🎥 Documentary" iptv-org-id="AnimalPlanet.in@SD",Animal Planet (720p)
 https://drk6xq0vhn.gpcdn.net/live/animal_planet_sd_abr/index.m3u8
 #EXTINF:-1 tvg-id="3402" tvg-name="DocuBay TV" tvg-logo="https://i.imgur.com/OGyeLLR.png" group-title="🎥 Documentary" iptv-org-id="DocuBayTV.in@SD",DocuBay TV (1080p)
 https://cc-mgr91yrk4pehy.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mgr91yrk4pehy/playlist.m3u8
 #EXTINF:-1 tvg-id="EpicCrimes.in@SD" tvg-name="Epic Crimes" tvg-logo="https://i.imgur.com/a5kaqDc.png" group-title="🎥 Documentary",Epic Crimes (1080p)
 https://cc-wsuyg2uxeak04.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-wsuyg2uxeak04/master.m3u8
-#EXTINF:-1 tvg-id="146" tvg-name="History TV18" tvg-logo="https://dtil.tmsimg.com/assets/s143133_ld_h15_aa.png?lock=720x540" group-title="🎥 Documentary" iptv-org-id="HistoryTV18.in@HD",History TV18 HD (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="1471" tvg-name="History TV18" tvg-logo="https://dtil.tmsimg.com/assets/s143133_ld_h15_aa.png?lock=720x540" group-title="🎥 Documentary" iptv-org-id="HistoryTV18.in@HD",History TV18 HD (1080p) [Geo-blocked]
 https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/playlist/amg01448-samsungindia-historychannelenglish-samsungin/playlist.m3u8
-#EXTINF:-1 tvg-id="146" tvg-name="History TV18" tvg-logo="https://dtil.tmsimg.com/assets/s143133_ld_h15_aa.png?lock=720x540" group-title="🎥 Documentary" iptv-org-id="HistoryTV18.in@HD",History TV18 HD Hindi (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="1471" tvg-name="History TV18" tvg-logo="https://dtil.tmsimg.com/assets/s143133_ld_h15_aa.png?lock=720x540" group-title="🎥 Documentary" iptv-org-id="HistoryTV18.in@HD",History TV18 HD Hindi (1080p) [Geo-blocked]
 https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/ts-ap-s1-n1/playlist/amg01448-samsungindia-historychannelhindi-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-id="3025" tvg-name="India TV Aap Ki Adalat" tvg-logo="https://play-lh.googleusercontent.com/2IlBX3IQHna8g4g-56vwGWb14K38spcviIh3i7uJCJ32ydfhcKZdOsacgijPkPeerEA" group-title="🎥 Documentary" iptv-org-id="IndiaTVAapKiAdalat.in@SD",India TV Aap Ki Adalat (1080p) [Geo-blocked]
 https://amg01550-amg01550c6-samsung-in-4679.playouts.now.amagi.tv/playlist/amg01550-indiatvfast-indiatvakasamsung-samsungin/playlist.m3u8
