@@ -5,3 +5,6 @@ https://mumt03.tangotv.in/Dsly5z3HFOODFOOD/index.m3u8
 https://mumbai-edge.smartplaytv.in/FoodFood/index.m3u8
 #EXTINF:-1 tvg-id="561" tvg-name="Food Food" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Food_Food.png" group-title="🍳 Cooking" iptv-org-id="FoodFood.in@SD",Food Food (576p)
 https://cdn.pishow.tv/ott/live/267/master.m3u8
+#EXTINF:-1 tvg-id="561" tvg-name="Food Food" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Food_Food.png" group-title="🍳 Cooking" iptv-org-id="FoodFood.in@SD",Food Food (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/143/143_0.m3u8
