@@ -38,7 +38,7 @@ https://mumbai-edge.smartplaytv.in/ddbihar/index.m3u8
 https://fta.ektv.in/live/172/master.m3u8
 #EXTINF:-1 tvg-id="713" tvg-name="DD Chandana" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_CHANDANA/images/LOGO_HD/image.png" group-title="📺 General" iptv-org-id="DDChandana.in@SD",DD Chandana
 https://cdn.pishow.tv/ott/live/28/master.m3u8
-#EXTINF:-1 tvg-id="ts1216" tvg-name="DD Chhattisgarh" tvg-logo="https://i.imgur.com/zBg6Iuv.png" group-title="📺 General" iptv-org-id="DDChhattisgarh.in@SD",DD Chhattisgarh (576p)
+#EXTINF:-1 tvg-id="DDChhattisgarh.in@SD" tvg-name="DD Chhattisgarh" tvg-logo="https://i.imgur.com/zBg6Iuv.png" group-title="📺 General",DD Chhattisgarh (576p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://fta.ektv.in/live/577/master.m3u8
 #EXTINF:-1 tvg-id="714" tvg-name="DD Girnar" tvg-logo="https://dtil.tmsimg.com/assets/s142782_ld_h15_aa.png?lock=720x540" group-title="📺 General" iptv-org-id="DDGirnar.in@SD",DD Girnar (576p)
@@ -47,7 +47,7 @@ https://fta.ektv.in/live/368/master.m3u8
 #EXTINF:-1 tvg-id="DDGoa.in@SD" tvg-name="DD Goa" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/DD-Goa-Logo_2000_X_1125_Transpharent.png" group-title="📺 General",DD Goa (576p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://fta.ektv.in/live/367/master.m3u8
-#EXTINF:-1 tvg-id="ts1212" tvg-name="DD Haryana" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/DD-Haryana-Logo_2000_X_1125_Transpharent.png" group-title="📺 General" iptv-org-id="DDHaryana.in@SD",DD Haryana (576p)
+#EXTINF:-1 tvg-id="DDHaryana.in@SD" tvg-name="DD Haryana" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/DD-Haryana-Logo_2000_X_1125_Transpharent.png" group-title="📺 General",DD Haryana (576p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://fta.ektv.in/live/580/master.m3u8
 #EXTINF:-1 tvg-id="DDHimachalPradesh.in@SD" tvg-name="DD Himachal Pradesh" tvg-logo="https://dtil.tmsimg.com/assets/s142785_ld_h9_aa.png?lock=720x540" group-title="📺 General",DD Himachal Pradesh (576p)
@@ -64,9 +64,9 @@ https://mumbai-edge.smartplaytv.in/DDIndia/index.m3u8
 #EXTINF:-1 tvg-id="528" tvg-name="DD India" tvg-logo="https://dtil.tmsimg.com/assets/s158251_ld_h15_aa.png?lock=720x540" group-title="📺 General" iptv-org-id="DDIndia.in@SD",DD India (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://fta.ektv.in/live/119/119_0.m3u8
-#EXTINF:-1 tvg-id="ts1188" tvg-name="DD Jharkhand" tvg-logo="https://dtil.tmsimg.com/assets/s142787_ld_h15_aa.png?lock=720x540" group-title="📺 General" iptv-org-id="DDJharkhand.in@SD",DD Jharkhand
+#EXTINF:-1 tvg-id="DDJharkhand.in@SD" tvg-name="DD Jharkhand" tvg-logo="https://dtil.tmsimg.com/assets/s142787_ld_h15_aa.png?lock=720x540" group-title="📺 General",DD Jharkhand
 https://cdn.pishow.tv/ott/live/1617/master.m3u8
-#EXTINF:-1 tvg-id="ts1188" tvg-name="DD Jharkhand" tvg-logo="https://dtil.tmsimg.com/assets/s142787_ld_h15_aa.png?lock=720x540" group-title="📺 General" iptv-org-id="DDJharkhand.in@SD",DD Jharkhand (576p)
+#EXTINF:-1 tvg-id="DDJharkhand.in@SD" tvg-name="DD Jharkhand" tvg-logo="https://dtil.tmsimg.com/assets/s142787_ld_h15_aa.png?lock=720x540" group-title="📺 General",DD Jharkhand (576p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://fta.ektv.in/live/573/master.m3u8
 #EXTINF:-1 tvg-id="716" tvg-name="DD Kashir" tvg-logo="https://dtil.tmsimg.com/assets/s142788_ld_h15_aa.png?lock=720x540" group-title="📺 General" iptv-org-id="DDKashir.in@SD",DD Kashir
@@ -92,7 +92,7 @@ https://mumbai-edge.smartplaytv.in/ddodiya/index.m3u8
 https://fta.ektv.in/live/384/master.m3u8
 #EXTINF:-1 tvg-id="538" tvg-name="DD Rajasthan" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_RAJASTHAN/images/LOGO_HD/image.png" group-title="📺 General" iptv-org-id="DDRajasthan.in@SD",DD Rajasthan (576p)
 https://mumbai-edge.smartplaytv.in/ddrajasthan/index.m3u8
-#EXTINF:-1 tvg-id="ts336" tvg-name="DD Sahyadri" tvg-logo="https://dtil.tmsimg.com/assets/s142803_ld_h15_aa.png?lock=720x540" group-title="📺 General" iptv-org-id="DDSahyadri.in@SD",DD Sahyadri (576p)
+#EXTINF:-1 tvg-id="695" tvg-name="DD Sahyadri" tvg-logo="https://dtil.tmsimg.com/assets/s142803_ld_h15_aa.png?lock=720x540" group-title="📺 General" iptv-org-id="DDSahyadri.in@SD",DD Sahyadri (576p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://fta.ektv.in/live/187/master.m3u8
 #EXTINF:-1 tvg-id="726" tvg-name="DD Tamil" tvg-logo="https://dtil.tmsimg.com/assets/s142797_ld_h15_aa.png?lock=720x540" group-title="📺 General" iptv-org-id="DDTamil.in@HD",DD Tamil HD (1080p)
@@ -108,7 +108,7 @@ https://mumbai-edge.smartplaytv.in/DDUrdu/index.m3u8
 #EXTINF:-1 tvg-id="540" tvg-name="DD Uttar Pradesh" tvg-logo="https://dtil.tmsimg.com/assets/s142807_ld_h9_ab.png?lock=720x540" group-title="📺 General" iptv-org-id="DDUttarPradesh.in@SD",DD Uttar Pradesh (576p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://fta.ektv.in/live/263/master.m3u8
-#EXTINF:-1 tvg-id="ts1213" tvg-name="DD Uttarakhand" tvg-logo="https://dtil.tmsimg.com/assets/s142809_ld_h15_aa.png?lock=720x540" group-title="📺 General" iptv-org-id="DDUttarakhand.in@SD",DD Uttarakhand (576p)
+#EXTINF:-1 tvg-id="528" tvg-name="DD Uttarakhand" tvg-logo="https://dtil.tmsimg.com/assets/s142809_ld_h15_aa.png?lock=720x540" group-title="📺 General" iptv-org-id="DDUttarakhand.in@SD",DD Uttarakhand (576p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://fta.ektv.in/live/576/master.m3u8
 #EXTINF:-1 tvg-id="1516" tvg-name="DD Yadagiri" tvg-logo="https://dtil.tmsimg.com/assets/s142810_ld_h15_aa.png?lock=720x540" group-title="📺 General" iptv-org-id="DDYadagiri.in@SD",DD Yadagiri (576p)
@@ -165,9 +165,9 @@ https://mercury.streambridge.link:8042/telugu/metrotv/index.m3u8
 https://streams.tangotv.in/MHONE/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="Mh1Prime.in@SD" tvg-name="Mh 1 Prime" tvg-logo="" group-title="📺 General",Mh 1 Prime (576p)
 https://mumt04.tangotv.in/m18aqlK4MHONE/index.m3u8
-#EXTINF:-1 tvg-id="ts399" tvg-name="MH One" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/mh1_Music.png" group-title="📺 General" iptv-org-id="MHOne.in@SD",MH One (360p)
+#EXTINF:-1 tvg-id="MHOne.in@SD" tvg-name="MH One" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/mh1_Music.png" group-title="📺 General",MH One (360p)
 https://samitaorigin.tangotv.in/MHONE/SAMITAORIGIN/index.m3u8
-#EXTINF:-1 tvg-id="ts399" tvg-name="MH One" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/mh1_Music.png" group-title="📺 General" iptv-org-id="MHOne.in@SD",MH One (576p)
+#EXTINF:-1 tvg-id="MHOne.in@SD" tvg-name="MH One" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/mh1_Music.png" group-title="📺 General",MH One (576p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://fta.ektv.in/live/353/master.m3u8
 #EXTINF:-1 tvg-id="ts805" tvg-name="Nandighosha TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Nandighosha.png" group-title="📺 General" iptv-org-id="NandighoshaTV.in@SD",Nandighosha TV (576p)

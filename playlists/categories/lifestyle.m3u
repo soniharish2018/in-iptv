@@ -41,7 +41,7 @@ https://amg01448-samsungin-ndtvgoodtimes-samsungin-ad-gp.amagi.tv/playlist/amg01
 https://d2gvyg6lvauoko.cloudfront.net/230226/ndtvgoodtimes/chunks.m3u8
 #EXTINF:-1 tvg-id="NDTVGoodTimes.in@SD" tvg-name="NDTV Good Times" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_GOOD_TIMES/images/LOGO_HD/image.png" group-title="💅 Lifestyle",NDTV Good Times (576p)
 https://cdn.pishow.tv/ott/live/1285/master.m3u8
-#EXTINF:-1 tvg-id="ts480" tvg-name="TLC" tvg-logo="https://dtil.tmsimg.com/assets/s123500_ld_h15_aa.png?lock=720x540" group-title="💅 Lifestyle" iptv-org-id="TLC.in@SD",TLC (720p)
+#EXTINF:-1 tvg-id="ts135" tvg-name="TLC" tvg-logo="https://dtil.tmsimg.com/assets/s123500_ld_h15_aa.png?lock=720x540" group-title="💅 Lifestyle" iptv-org-id="TLC.in@SD",TLC (720p)
 https://drk6xq0vhn.gpcdn.net/live/tlc_sd_abr/index.m3u8
-#EXTINF:-1 tvg-id="ts480" tvg-name="TLC" tvg-logo="https://dtil.tmsimg.com/assets/s123500_ld_h15_aa.png?lock=720x540" group-title="💅 Lifestyle" iptv-org-id="TLC.in@HD",TLC HD (720p)
+#EXTINF:-1 tvg-id="ts135" tvg-name="TLC" tvg-logo="https://dtil.tmsimg.com/assets/s123500_ld_h15_aa.png?lock=720x540" group-title="💅 Lifestyle" iptv-org-id="TLC.in@HD",TLC HD (720p)
 https://drk6xq0vhn.gpcdn.net/live/tlc_hd_abr/index.m3u8
