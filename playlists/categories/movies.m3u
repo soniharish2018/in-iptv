@@ -62,9 +62,9 @@ https://fta.ektv.in/live/646/master.m3u8
 https://jmp2.uk/stvp-IN4000600Q
 #EXTINF:-1 tvg-id="1657" tvg-name="Colors Bangla Cinema" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_BANGLA_CINEMA/images/LOGO_HD/image.png" group-title="🎬 Movies" iptv-org-id="ColorsBanglaCinema.in@SD",Colors Bangla Cinema (576p)
 http://103.151.60.162:2122/play/a02m/index.m3u8?hls
-#EXTINF:-1 tvg-id="482" tvg-name="Colors Cineplex" tvg-logo="https://dtil.tmsimg.com/assets/s158146_ld_h15_aa.png?lock=720x540" group-title="🎬 Movies" iptv-org-id="ColorsCineplex.in@SD",Colors Cineplex (576p)
+#EXTINF:-1 tvg-id="1477" tvg-name="Colors Cineplex" tvg-logo="https://dtil.tmsimg.com/assets/s158146_ld_h15_aa.png?lock=720x540" group-title="🎬 Movies" iptv-org-id="ColorsCineplex.in@SD",Colors Cineplex (576p)
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/gb/YuppTV/ColorsCineplexUK.m3u8
-#EXTINF:-1 tvg-id="482" tvg-name="Colors Cineplex" tvg-logo="https://dtil.tmsimg.com/assets/s158147_ld_h15_aa.png?lock=720x540" group-title="🎬 Movies" iptv-org-id="ColorsCineplex.in@HD",Colors Cineplex HD (1080p)
+#EXTINF:-1 tvg-id="1477" tvg-name="Colors Cineplex" tvg-logo="https://dtil.tmsimg.com/assets/s158147_ld_h15_aa.png?lock=720x540" group-title="🎬 Movies" iptv-org-id="ColorsCineplex.in@HD",Colors Cineplex HD (1080p)
 http://103.151.60.162:2122/play/a02s/index.m3u8?hls
 #EXTINF:-1 tvg-id="3384" tvg-name="Epic Bhojpuri" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0032BVJ8.png?lock=720x540" group-title="🎬 Movies" iptv-org-id="EpicBhojpuri.in@SD",Epic Bhojpuri (576p)
 https://mumt01.tangotv.in/O5aw8Zn3EPICBHOJPURI/index.m3u8
@@ -73,11 +73,11 @@ https://cc-8hy4a26pz2uos.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 #EXTINF:-1 tvg-id="3384" tvg-name="Epic Bhojpuri" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0032BVJ8.png?lock=720x540" group-title="🎬 Movies" iptv-org-id="EpicBhojpuri.in@SD",Epic Bhojpuri (576p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://fta.ektv.in/live/467/master.m3u8
-#EXTINF:-1 tvg-id="252" tvg-name="ETV Cinema" tvg-logo="https://dtil.tmsimg.com/assets/s143026_ld_h15_aa.png?lock=720x540" group-title="🎬 Movies" iptv-org-id="ETVCinema.in@SD",ETV Cinema (396p)
+#EXTINF:-1 tvg-id="1665" tvg-name="ETV Cinema" tvg-logo="https://dtil.tmsimg.com/assets/s143026_ld_h15_aa.png?lock=720x540" group-title="🎬 Movies" iptv-org-id="ETVCinema.in@SD",ETV Cinema (396p)
 https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
-#EXTINF:-1 tvg-id="252" tvg-name="ETV Cinema" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/ETV-cinema-HD-Logo_2000_X_1125_Transpharent.png" group-title="🎬 Movies" iptv-org-id="ETVCinema.in@HD",ETV Cinema HD (1080p)
+#EXTINF:-1 tvg-id="1665" tvg-name="ETV Cinema" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/ETV-cinema-HD-Logo_2000_X_1125_Transpharent.png" group-title="🎬 Movies" iptv-org-id="ETVCinema.in@HD",ETV Cinema HD (1080p)
 https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264_cloud_in/index.m3u8
-#EXTINF:-1 tvg-id="252" tvg-name="ETV Cinema" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/ETV-cinema-HD-Logo_2000_X_1125_Transpharent.png" group-title="🎬 Movies" iptv-org-id="ETVCinema.in@HD",ETV Cinema HD (1080p)
+#EXTINF:-1 tvg-id="1665" tvg-name="ETV Cinema" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/ETV-cinema-HD-Logo_2000_X_1125_Transpharent.png" group-title="🎬 Movies" iptv-org-id="ETVCinema.in@HD",ETV Cinema HD (1080p)
 https://mumbai-edge.smartplaytv.in/ETVCINEMA/index.m3u8
 #EXTINF:-1 tvg-id="ts823" tvg-name="Goldmines" tvg-logo="https://dtil.tmsimg.com/assets/s143087_ld_h15_aa.png?lock=720x540" group-title="🎬 Movies" iptv-org-id="Goldmines.in@SD",Goldmines (576p)
 https://streams.tangotv.in/GOLDMINES/ORIGIN/index.m3u8
@@ -216,7 +216,7 @@ https://fta.ektv.in/live/49/49_0.m3u8
 https://samitaorigin.tangotv.in/SONARBANGLA/SAMITAORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="SoneriCinema.in@SD" tvg-name="Soneri Cinema" tvg-logo="https://papaji.freetvindia.com/media/1056_FreeTV_Soneri_Cinema.png" group-title="🎬 Movies",Soneri Cinema (360p)
 https://samitaorigin.tangotv.in/SONERICINEMA/SAMITAORIGIN/index.m3u8
-#EXTINF:-1 tvg-id="476" tvg-name="Sony Max" tvg-logo="https://dtil.tmsimg.com/assets/s157590_ld_h15_aa.png?lock=720x540" group-title="🎬 Movies" iptv-org-id="SonyMax.in@HD",Sony Max HD (1080p)
+#EXTINF:-1 tvg-id="289" tvg-name="Sony Max" tvg-logo="https://dtil.tmsimg.com/assets/s157590_ld_h15_aa.png?lock=720x540" group-title="🎬 Movies" iptv-org-id="SonyMax.in@HD",Sony Max HD (1080p)
 http://103.151.60.162:2122/play/a014/index.m3u8?hls
 #EXTINF:-1 tvg-id="762" tvg-name="Sony Pix" tvg-logo="https://dtil.tmsimg.com/assets/s143803_ld_h15_aa.png?lock=720x540" group-title="🎬 Movies" iptv-org-id="SonyPix.in@HD",Sony Pix HD (1080p)
 http://103.151.60.162:2122/play/a01d/index.m3u8?hls
@@ -230,7 +230,7 @@ http://103.185.24.134:3001/Star-Gold/index.m3u8
 http://103.151.60.162:2122/play/a01n/index.m3u8?hls
 #EXTINF:-1 tvg-id="3096" tvg-name="Star Gold 2" tvg-logo="https://dtil.tmsimg.com/assets/s158297_ld_h15_aa.png?lock=720x540" group-title="🎬 Movies" iptv-org-id="StarGold2.in@HD",Star Gold 2 HD (1080p)
 http://103.151.60.162:2122/play/a01v/index.m3u8?hls
-#EXTINF:-1 tvg-id="ts277" tvg-name="Star Maa Movies" tvg-logo="https://dtil.tmsimg.com/assets/s143826_ld_h15_aa.png?lock=720x540" group-title="🎬 Movies" iptv-org-id="StarMaaMovies.in@HD",Star Maa Movies HD (720p)
+#EXTINF:-1 tvg-id="ts957" tvg-name="Star Maa Movies" tvg-logo="https://dtil.tmsimg.com/assets/s143826_ld_h15_aa.png?lock=720x540" group-title="🎬 Movies" iptv-org-id="StarMaaMovies.in@HD",Star Maa Movies HD (720p)
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:maamovies.smil/chunklist_b2628000.m3u8
 #EXTINF:-1 tvg-id="1104" tvg-name="Star Movies" tvg-logo="https://dtil.tmsimg.com/assets/s143829_ld_h15_aa.png?lock=720x540" group-title="🎬 Movies" iptv-org-id="StarMovies.in@HD",Star Movies HD (1080p)
 http://103.151.60.162:2122/play/a02k/index.m3u8?hls
