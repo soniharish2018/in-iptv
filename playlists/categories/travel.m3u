@@ -9,3 +9,5 @@ http://stream.mcquack.net/451/index.m3u8
 http://103.151.60.162:2122/play/a01s/index.m3u8?hls
 #EXTINF:-1 tvg-id="164" tvg-name="Travelxp" tvg-logo="https://dtil.tmsimg.com/assets/s144014_ld_h15_aa.png?lock=720x540" group-title="✈️ Travel" iptv-org-id="Travelxp.in@Czechia",Travelxp Czechia
 http://88.212.7.14/live/travel_xp/index.m3u8
+#EXTINF:-1 tvg-id="164" tvg-name="Travelxp" tvg-logo="https://dtil.tmsimg.com/assets/s144014_ld_h15_aa.png?lock=720x540" group-title="✈️ Travel" iptv-org-id="Travelxp.in@4KCzechia",Travelxp 4K Czechia
+http://88.212.7.14/live/travel_xp_4k/index.m3u8
