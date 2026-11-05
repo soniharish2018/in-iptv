@@ -1,12 +1,12 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/mitthu786/tvepg/main/epg.xml.gz" url-tvg="https://raw.githubusercontent.com/mitthu786/tvepg/main/epg.xml.gz"
-#EXTINF:-1 tvg-id="1075" tvg-name="Ayush TV" tvg-logo="https://dtil.tmsimg.com/assets/s142692_ld_h15_aa.png?lock=720x540" group-title="💅 Lifestyle" iptv-org-id="AyushTV.in@SD",Ayush TV (360p) [Not 24/7]
-https://95eryw39dwn4-hls-live.wmncdn.net/Ayushu/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8
-#EXTINF:-1 tvg-id="1075" tvg-name="Ayush TV" tvg-logo="https://dtil.tmsimg.com/assets/s142692_ld_h15_aa.png?lock=720x540" group-title="💅 Lifestyle" iptv-org-id="AyushTV.in@SD",Ayush TV
-https://cdn.pishow.tv/ott/live/221/master.m3u8
 #EXTINF:-1 tvg-id="1075" tvg-name="Ayush TV" tvg-logo="https://dtil.tmsimg.com/assets/s142692_ld_h15_aa.png?lock=720x540" group-title="💅 Lifestyle" iptv-org-id="AyushTV.in@SD",Ayush TV (576p)
 http://d1msejlow1t3l4.cloudfront.net/fta/ayushtv/playlist.m3u8
 #EXTINF:-1 tvg-id="1075" tvg-name="Ayush TV" tvg-logo="https://dtil.tmsimg.com/assets/s142692_ld_h15_aa.png?lock=720x540" group-title="💅 Lifestyle" iptv-org-id="AyushTV.in@SD",Ayush TV (576p)
+https://cdn.pishow.tv/ott/live/221/master.m3u8
+#EXTINF:-1 tvg-id="1075" tvg-name="Ayush TV" tvg-logo="https://dtil.tmsimg.com/assets/s142692_ld_h15_aa.png?lock=720x540" group-title="💅 Lifestyle" iptv-org-id="AyushTV.in@SD",Ayush TV (576p)
 https://mumt07.tangotv.in/zHjX9OFlAYUSHTV/index.m3u8
+#EXTINF:-1 tvg-id="1075" tvg-name="Ayush TV" tvg-logo="https://dtil.tmsimg.com/assets/s142692_ld_h15_aa.png?lock=720x540" group-title="💅 Lifestyle" iptv-org-id="AyushTV.in@SD",Ayush TV (360p) [Not 24/7]
+https://95eryw39dwn4-hls-live.wmncdn.net/Ayushu/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8
 #EXTINF:-1 tvg-id="774" tvg-name="CVR Health" tvg-logo="https://i.imgur.com/bCyW32I.png" group-title="💅 Lifestyle" iptv-org-id="CVRHealth.in@SD",CVR Health (576p)
 https://mumbai-edge.smartplaytv.in/CVRHealth/index.m3u8
 #EXTINF:-1 tvg-id="774" tvg-name="CVR Health" tvg-logo="https://i.imgur.com/bCyW32I.png" group-title="💅 Lifestyle" iptv-org-id="CVRHealth.in@SD",CVR Health (576p)
@@ -20,27 +20,27 @@ https://fta.ektv.in/live/144/144_0.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://fta.ektv.in/live/332/master.m3u8
 #EXTINF:-1 tvg-id="561" tvg-name="Food Food" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Food_Food.png" group-title="💅 Lifestyle" iptv-org-id="FoodFood.in@SD",Food Food (576p)
-https://mumt03.tangotv.in/Dsly5z3HFOODFOOD/index.m3u8
-#EXTINF:-1 tvg-id="561" tvg-name="Food Food" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Food_Food.png" group-title="💅 Lifestyle" iptv-org-id="FoodFood.in@SD",Food Food (576p)
-https://mumbai-edge.smartplaytv.in/FoodFood/index.m3u8
-#EXTINF:-1 tvg-id="561" tvg-name="Food Food" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Food_Food.png" group-title="💅 Lifestyle" iptv-org-id="FoodFood.in@SD",Food Food (576p)
 https://cdn.pishow.tv/ott/live/267/master.m3u8
 #EXTINF:-1 tvg-id="561" tvg-name="Food Food" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Food_Food.png" group-title="💅 Lifestyle" iptv-org-id="FoodFood.in@SD",Food Food (576p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://fta.ektv.in/live/143/143_0.m3u8
-#EXTINF:-1 tvg-id="786" tvg-name="Kappa TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Kappa_TV.png" group-title="💅 Lifestyle" iptv-org-id="KappaTV.in@SD",Kappa TV (576p)
-https://mumt03.tangotv.in/Dsly5z3HKAPPATV/index.m3u8
+#EXTINF:-1 tvg-id="561" tvg-name="Food Food" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Food_Food.png" group-title="💅 Lifestyle" iptv-org-id="FoodFood.in@SD",Food Food (576p)
+https://mumbai-edge.smartplaytv.in/FoodFood/index.m3u8
+#EXTINF:-1 tvg-id="561" tvg-name="Food Food" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Food_Food.png" group-title="💅 Lifestyle" iptv-org-id="FoodFood.in@SD",Food Food (576p)
+https://mumt03.tangotv.in/Dsly5z3HFOODFOOD/index.m3u8
 #EXTINF:-1 tvg-id="786" tvg-name="Kappa TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Kappa_TV.png" group-title="💅 Lifestyle" iptv-org-id="KappaTV.in@SD",Kappa TV (576p)
 https://d1msejlow1t3l4.cloudfront.net/fta/kappatv/playlist.m3u8
 #EXTINF:-1 tvg-id="786" tvg-name="Kappa TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Kappa_TV.png" group-title="💅 Lifestyle" iptv-org-id="KappaTV.in@SD",Kappa TV (576p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://fta.ektv.in/live/247/master.m3u8
+#EXTINF:-1 tvg-id="786" tvg-name="Kappa TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Kappa_TV.png" group-title="💅 Lifestyle" iptv-org-id="KappaTV.in@SD",Kappa TV (576p)
+https://mumt03.tangotv.in/Dsly5z3HKAPPATV/index.m3u8
 #EXTINF:-1 tvg-id="NDTVGoodTimes.in@SD" tvg-name="NDTV Good Times" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_GOOD_TIMES/images/LOGO_HD/image.png" group-title="💅 Lifestyle",NDTV Good Times (1080p)
 https://amg01448-samsungin-ndtvgoodtimes-samsungin-ad-gp.amagi.tv/playlist/amg01448-samsungin-ndtvgoodtimes-samsungin/playlist.m3u8
-#EXTINF:-1 tvg-id="NDTVGoodTimes.in@SD" tvg-name="NDTV Good Times" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_GOOD_TIMES/images/LOGO_HD/image.png" group-title="💅 Lifestyle",NDTV Good Times (396p)
-https://d2gvyg6lvauoko.cloudfront.net/230226/ndtvgoodtimes/chunks.m3u8
 #EXTINF:-1 tvg-id="NDTVGoodTimes.in@SD" tvg-name="NDTV Good Times" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_GOOD_TIMES/images/LOGO_HD/image.png" group-title="💅 Lifestyle",NDTV Good Times (576p)
 https://cdn.pishow.tv/ott/live/1285/master.m3u8
+#EXTINF:-1 tvg-id="NDTVGoodTimes.in@SD" tvg-name="NDTV Good Times" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_GOOD_TIMES/images/LOGO_HD/image.png" group-title="💅 Lifestyle",NDTV Good Times (396p)
+https://d2gvyg6lvauoko.cloudfront.net/230226/ndtvgoodtimes/chunks.m3u8
 #EXTINF:-1 tvg-id="ts480" tvg-name="TLC" tvg-logo="https://dtil.tmsimg.com/assets/s123500_ld_h15_aa.png?lock=720x540" group-title="💅 Lifestyle" iptv-org-id="TLC.in@SD",TLC (720p)
 https://drk6xq0vhn.gpcdn.net/live/tlc_sd_abr/index.m3u8
 #EXTINF:-1 tvg-id="ts480" tvg-name="TLC" tvg-logo="https://dtil.tmsimg.com/assets/s123500_ld_h15_aa.png?lock=720x540" group-title="💅 Lifestyle" iptv-org-id="TLC.in@HD",TLC HD (720p)
