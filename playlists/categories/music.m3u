@@ -86,6 +86,8 @@ https://mumt04.tangotv.in/m18aqlK4B4UMUSIC/index.m3u8
 https://streams.tangotv.in/B4UMUSIC/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="183" tvg-name="B4U Music" tvg-logo="https://dtil.tmsimg.com/assets/s158141_ld_h15_aa.png?lock=720x540" group-title="🎵 Music" iptv-org-id="B4UMusic.in@India",B4U Music (576p)
 https://tvsen3.aynaott.com/8m7Vmh3K/index.m3u8
+#EXTINF:-1 tvg-id="183" tvg-name="B4U Music" tvg-logo="https://dtil.tmsimg.com/assets/s158141_ld_h15_aa.png?lock=720x540" group-title="🎵 Music" iptv-org-id="B4UMusic.in@India",B4U Music (576p)
+http://163.61.226.31:9981/stream/channelid/494430938?profile=pass
 #EXTINF:-1 tvg-id="1453" tvg-name="Balle Balle" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Balle_Balle_TV.png" group-title="🎵 Music" iptv-org-id="BalleBalle.in@SD",Balle Balle (1080p)
 https://mcncdndigital.com/worldpunjabitv/index.m3u8
 #EXTINF:-1 tvg-id="1453" tvg-name="Balle Balle" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Balle_Balle_TV.png" group-title="🎵 Music" iptv-org-id="BalleBalle.in@SD",Balle Balle (576p)
@@ -134,6 +136,8 @@ https://cc-szivnms4rlah6.akamaized.net/WWBI/Amagi/ETV_Music_IN/playlist.m3u8
 https://mumbai-edge.smartplaytv.in/ETVABHIRUCHI/index.m3u8
 #EXTINF:-1 tvg-id="HindiHits.in@SD" tvg-name="Hindi Hits" tvg-logo="https://i.postimg.cc/ryC1Y2K4/Capture.png" group-title="🎵 Music",Hindi Hits (720p)
 https://samitaorigin.tangotv.in/HINDIHITS/SAMITAORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="HindiHits.in@SD" tvg-name="Hindi Hits" tvg-logo="https://i.postimg.cc/ryC1Y2K4/Capture.png" group-title="🎵 Music",Hindi Hits (1080p)
+http://146.59.253.52:8080/hindihitshd/index.m3u8
 #EXTINF:-1 tvg-id="1286" tvg-name="Insync" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Insync.png" group-title="🎵 Music" iptv-org-id="Insync.in@SD",Insync (576p)
 https://d1msejlow1t3l4.cloudfront.net/fta/insync/playlist.m3u8
 #EXTINF:-1 tvg-id="1286" tvg-name="Insync" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Insync.png" group-title="🎵 Music" iptv-org-id="Insync.in@SD",Insync (576p)
@@ -203,6 +207,8 @@ https://stream.ottlive.co.in/punjabihits/index.m3u8
 https://samitaorigin.tangotv.in/PUNJABIMUSICHD/SAMITAORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="ts427" tvg-name="Raj Musix Kannada" tvg-logo="https://dtil.tmsimg.com/assets/s143705_ld_h15_aa.png?lock=720x540" group-title="🎵 Music" iptv-org-id="RajMusixKannada.in@SD",Raj Musix Kannada (576p)
 https://mumt01.tangotv.in/O5aw8Zn3RAJMUSIXKANDA/index.m3u8
+#EXTINF:-1 tvg-id="ts427" tvg-name="Raj Musix Kannada" tvg-logo="https://dtil.tmsimg.com/assets/s143705_ld_h15_aa.png?lock=720x540" group-title="🎵 Music" iptv-org-id="RajMusixKannada.in@SD",Raj Musix Kannada (576p)
+https://samitaorigin.tangotv.in/RAJMUSIXKANDA/SAMITAORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="ts541" tvg-name="Raj Musix Malayalam" tvg-logo="https://dtil.tmsimg.com/assets/s143706_ld_h15_aa.png?lock=720x540" group-title="🎵 Music" iptv-org-id="RajMusixMalayalam.in@SD",Raj Musix Malayalam (576p)
 https://cdn.pishow.tv/ott/live/1073/master.m3u8
 #EXTINF:-1 tvg-id="ts541" tvg-name="Raj Musix Malayalam" tvg-logo="https://dtil.tmsimg.com/assets/s143706_ld_h15_aa.png?lock=720x540" group-title="🎵 Music" iptv-org-id="RajMusixMalayalam.in@SD",Raj Musix Malayalam (576p)

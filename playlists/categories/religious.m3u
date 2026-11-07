@@ -24,6 +24,10 @@ https://mumbai-edge.smartplaytv.in/Aastha/index.m3u8
 http://103.175.73.12:8080/live/338/master.m3u8
 #EXTINF:-1 tvg-id="175" tvg-name="Aastha" tvg-logo="https://dtil.tmsimg.com/assets/s158133_ld_h9_ab.png?lock=720x540" group-title="🙏 Religious" iptv-org-id="Aastha.in@SD",Aastha SD (576p)
 https://mumt05.tangotv.in/87NeALx2AASTHA/index.m3u8
+#EXTINF:-1 tvg-id="175" tvg-name="Aastha" tvg-logo="https://dtil.tmsimg.com/assets/s158133_ld_h9_ab.png?lock=720x540" group-title="🙏 Religious" iptv-org-id="Aastha.in@UK",Aastha UK (576p)
+https://aasthaott.akamaized.net/110923/smil:aasthauk.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="175" tvg-name="Aastha" tvg-logo="https://dtil.tmsimg.com/assets/s158133_ld_h9_ab.png?lock=720x540" group-title="🙏 Religious" iptv-org-id="Aastha.in@SD",Aastha (576p)
+http://163.61.226.31:9981/stream/channelid/565086134?profile=pass
 #EXTINF:-1 tvg-id="594" tvg-name="Aastha Bhajan" tvg-logo="https://dtil.tmsimg.com/assets/s142514_ld_h15_aa.png?lock=720x540" group-title="🙏 Religious" iptv-org-id="AasthaBhajan.in@SD",Aastha Bhajan (576p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://103.175.73.12:8080/live/339/master.m3u8
@@ -41,6 +45,8 @@ https://fta.ektv.in/live/372/master.m3u8
 https://mumt04.tangotv.in/m18aqlK4AASTHAGUJARATI/index.m3u8
 #EXTINF:-1 tvg-id="1255" tvg-name="Aastha Gujarati" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aastha_Tamil.png" group-title="🙏 Religious" iptv-org-id="AasthaGujarati.in@SD",Aastha Gujarati (480p)
 https://aasthaott.akamaized.net/110923/smil:aasthagujrati.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AasthaInternational.in@SD" tvg-name="Aastha International" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/86/Aastha_international.png/960px-Aastha_international.png" group-title="🙏 Religious",Aastha International (576p)
+https://aasthaott.akamaized.net/110923/smil:aasthausa.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="1256" tvg-name="Aastha Kannada" tvg-logo="https://dtil.tmsimg.com/assets/s158134_ld_h15_aa.png?lock=720x540" group-title="🙏 Religious" iptv-org-id="AasthaKannada.in@SD",Aastha Kannada (576p)
 https://cdn.pishow.tv/ott/live/234/master.m3u8
 #EXTINF:-1 tvg-id="1256" tvg-name="Aastha Kannada" tvg-logo="https://dtil.tmsimg.com/assets/s158134_ld_h15_aa.png?lock=720x540" group-title="🙏 Religious" iptv-org-id="AasthaKannada.in@SD",Aastha Kannada (480p)
@@ -154,6 +160,8 @@ https://mumt05.tangotv.in/87NeALx2DIVYA/index.m3u8
 https://fta.ektv.in/live/648/master.m3u8
 #EXTINF:-1 tvg-id="605" tvg-name="Channel WIN" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CHANNEL_WIN/images/LOGO_HD/image.png" group-title="🙏 Religious" iptv-org-id="ChannelWIN.in@SD",Channel WIN (576p)
 https://mumt05.tangotv.in/87NeALx2CHANNELWIN/index.m3u8
+#EXTINF:-1 tvg-id="605" tvg-name="Channel WIN" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CHANNEL_WIN/images/LOGO_HD/image.png" group-title="🙏 Religious" iptv-org-id="ChannelWIN.in@SD",Channel WIN (720p)
+https://cdn.smartstream.video/smartstream-us/channelwinlive/channelwinlive/playlist.m3u8
 #EXTINF:-1 tvg-id="ChhayaChitramTelugu.in@SD" tvg-name="Chhaya Chitram Telugu" tvg-logo="https://papaji.freetvindia.com/media/channels/Chhaya_Chitram_Telugu.png" group-title="🙏 Religious",Chhaya Chitram Telugu (360p)
 https://samitaorigin.tangotv.in/CHHAYACHITRAMTELUGU/SAMITAORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="ChintpurniLive.in@SD" tvg-name="Chintpurni Live" tvg-logo="https://papaji.freetvindia.com/media/Chintpurni_Live.png" group-title="🙏 Religious",Chintpurni Live (720p)
@@ -382,6 +390,8 @@ https://fta.ektv.in/live/340/master.m3u8
 https://fta.ektv.in/live/620/master.m3u8
 #EXTINF:-1 tvg-id="ts447" tvg-name="Sadhna TV" tvg-logo="https://dtil.tmsimg.com/assets/s143736_ld_h15_aa.png?lock=720x540" group-title="🙏 Religious" iptv-org-id="SadhnaTV.in@SD",Sadhna TV (576p)
 https://mumt05.tangotv.in/87NeALx2SADHNATV/index.m3u8
+#EXTINF:-1 tvg-id="2028" tvg-name="Sadvidya TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sadvidya_TV.png" group-title="🙏 Religious" iptv-org-id="SadvidyaTV.in@SD",Sadvidya TV (720p)
+https://server.thelegitpro.in/sadvidya/sadvidya/index.m3u8
 #EXTINF:-1 tvg-id="SairamTV.in@SD" tvg-name="Sairam TV" tvg-logo="" group-title="🙏 Religious",Sairam TV (576p)
 https://cdn.pishow.tv/ott/live/1611/master.m3u8
 #EXTINF:-1 tvg-id="SairamTV.in@SD" tvg-name="Sairam TV" tvg-logo="" group-title="🙏 Religious",Sairam TV (576p)

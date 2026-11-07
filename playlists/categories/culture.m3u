@@ -10,6 +10,8 @@ https://fta.ektv.in/live/381/master.m3u8
 #EXTINF:-1 tvg-id="715" tvg-name="DD Punjabi" tvg-logo="https://dtil.tmsimg.com/assets/s142800_ld_h15_aa.png?lock=720x540" group-title="🎭 Culture" iptv-org-id="DDPunjabi.in@SD",DD Punjabi (576p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://fta.ektv.in/live/177/master.m3u8
+#EXTINF:-1 tvg-id="715" tvg-name="DD Punjabi" tvg-logo="https://dtil.tmsimg.com/assets/s142800_ld_h15_aa.png?lock=720x540" group-title="🎭 Culture" iptv-org-id="DDPunjabi.in@SD",DD Punjabi (576p)
+http://163.61.226.31:9981/stream/channelid/2094424586?profile=pass
 #EXTINF:-1 tvg-id="418" tvg-name="Jaya Plus" tvg-logo="https://dtil.tmsimg.com/assets/s143227_ld_h15_aa.png?lock=720x540" group-title="🎭 Culture" iptv-org-id="JayaPlus.in@SD",Jaya Plus (576p)
 https://mumbai-edge.smartplaytv.in/JayaPLus/index.m3u8
 #EXTINF:-1 tvg-id="JTBSClassic.in@Main" tvg-name="JTBS Classic" tvg-logo="https://jtbsclassic.dpdns.org/logo.png" group-title="🎭 Culture",JTBS Classic

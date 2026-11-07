@@ -3,8 +3,14 @@
 https://drk6xq0vhn.gpcdn.net/live/cn_sd_abr/index.m3u8
 #EXTINF:-1 tvg-id="ts238" tvg-name="Cartoon Network HD+" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CARTOON_NETWORK_HDSYMPLUS/images/LOGO_HD/image.png" group-title="🧸 Animation" iptv-org-id="CartoonNetworkHDPlus.in@SD",Cartoon Network HD+ (720p)
 https://drk6xq0vhn.gpcdn.net/live/cn_hd_abr/index.m3u8
+#EXTINF:-1 tvg-id="ts238" tvg-name="Cartoon Network HD+" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CARTOON_NETWORK_HDSYMPLUS/images/LOGO_HD/image.png" group-title="🧸 Animation" iptv-org-id="CartoonNetworkHDPlus.in@HD",Cartoon Network HD+ (1080p)
+http://103.135.253.32:8080/CN-NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="ts239" tvg-name="Pogo" tvg-logo="https://dtil.tmsimg.com/assets/s143663_ld_h15_aa.png?lock=720x540" group-title="🧸 Animation" iptv-org-id="Pogo.in@SD",Pogo (576p)
 http://103.151.60.162:2122/play/a01e/index.m3u8?hls
+#EXTINF:-1 tvg-id="ts239" tvg-name="Pogo" tvg-logo="https://dtil.tmsimg.com/assets/s143663_ld_h15_aa.png?lock=720x540" group-title="🧸 Animation" iptv-org-id="Pogo.in@SD",Pogo (576p)
+http://103.135.253.32:8080/POGO/index.m3u8
+#EXTINF:-1 tvg-id="3507" tvg-name="Sony Yay!" tvg-logo="https://dtil.tmsimg.com/assets/s159100_ld_h15_aa.png?lock=720x540" group-title="🧸 Animation" iptv-org-id="SonyYay.in@SD",Sony Yay! (576p)
+https://livetv.shamon-cable.net:8443/sony_yay/index.m3u8
 #EXTINF:-1 tvg-id="WOWKidz.in@Hindi" tvg-name="WOW Kidz" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/channel/logos/mjvezt.png" group-title="🧸 Animation",WOW Kidz (720p)
 https://yuppparoriglin.akamaized.net/181224/smil:wowkidzhindi.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 #EXTINF:-1 tvg-id="WOWKidz.in@Telugu" tvg-name="WOW Kidz" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/channel/logos/mjvezt.png" group-title="🧸 Animation",WOW Kidz (720p)

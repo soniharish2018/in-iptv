@@ -3,6 +3,8 @@
 https://live.onecloudlive.in/amn/amntv/index.m3u8
 #EXTINF:-1 tvg-id="CCV.in@SD" tvg-name="CCV" tvg-logo="https://i.imgur.com/4ss0KfA.png" group-title="📺 General",CCV (480p)
 https://5a1178b42cc03.streamlock.net/8212/8212/playlist.m3u8
+#EXTINF:-1 tvg-id="279" tvg-name="Colors Rishtey" tvg-logo="https://dtil.tmsimg.com/assets/s158239_ld_h15_aa.png?lock=720x540" group-title="📺 General" iptv-org-id="ColorsRishtey.in@SD",Colors Rishtey (576p)
+http://163.61.226.31:9981/stream/channelid/297962113?profile=pass
 #EXTINF:-1 tvg-id="ColorsRishteyAmericas.in@SD" tvg-name="Colors Rishtey Americas" tvg-logo="https://i.imgur.com/xkOunuW.png" group-title="📺 General",Colors Rishtey Americas (396p)
 https://manatv.akamaized.net/090823/smil:ristheyamerica.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="701" tvg-name="Dangal TV" tvg-logo="https://dtil.tmsimg.com/assets/s142771_ld_h9_aa.png?lock=720x540" group-title="📺 General" iptv-org-id="DangalTV.in@SD",Dangal TV (720p)
@@ -18,6 +20,8 @@ https://mumt04.tangotv.in/m18aqlK4DANGAL/index.m3u8
 https://streams.tangotv.in/DANGAL/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="701" tvg-name="Dangal TV" tvg-logo="https://dtil.tmsimg.com/assets/s142771_ld_h9_aa.png?lock=720x540" group-title="📺 General" iptv-org-id="DangalTV.in@SD",Dangal TV (576p)
 https://tvsen3.aynaott.com/qPNg4LJK/index.m3u8
+#EXTINF:-1 tvg-id="701" tvg-name="Dangal TV" tvg-logo="https://dtil.tmsimg.com/assets/s142771_ld_h9_aa.png?lock=720x540" group-title="📺 General" iptv-org-id="DangalTV.in@SD",Dangal TV (576p)
+http://163.61.226.31:9981/stream/channelid/359795895?profile=pass
 #EXTINF:-1 tvg-id="1328" tvg-name="DD Arun Prabha" tvg-logo="https://dtil.tmsimg.com/assets/s142776_ld_h15_aa.png?lock=720x540" group-title="📺 General" iptv-org-id="DDArunPrabha.in@SD",DD Arun Prabha (576p)
 https://cdn.pishow.tv/ott/live/32/master.m3u8
 #EXTINF:-1 tvg-id="1328" tvg-name="DD Arun Prabha" tvg-logo="https://dtil.tmsimg.com/assets/s142776_ld_h15_aa.png?lock=720x540" group-title="📺 General" iptv-org-id="DDArunPrabha.in@SD",DD Arun Prabha (576p)
@@ -172,6 +176,8 @@ https://fta.ektv.in/live/353/master.m3u8
 https://samitaorigin.tangotv.in/MHONE/SAMITAORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="ts805" tvg-name="Nandighosha TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Nandighosha.png" group-title="📺 General" iptv-org-id="NandighoshaTV.in@SD",Nandighosha TV (576p)
 https://mumt05.tangotv.in/87NeALx2NANDIGHOSHATV/index.m3u8
+#EXTINF:-1 tvg-id="ts805" tvg-name="Nandighosha TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Nandighosha.png" group-title="📺 General" iptv-org-id="NandighoshaTV.in@SD",Nandighosha TV (576p)
+https://d1msejlow1t3l4.cloudfront.net/fta/Nandighoshatv/playlist.m3u8
 #EXTINF:-1 tvg-id="1528" tvg-name="Network 10" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Network_10.png" group-title="📺 General" iptv-org-id="Network10.in@SD",Network 10 (720p)
 https://mumbai-edge.smartplaytv.in/Network10/index.m3u8
 #EXTINF:-1 tvg-id="1528" tvg-name="Network 10" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Network_10.png" group-title="📺 General" iptv-org-id="Network10.in@SD",Network 10 (576p)
