@@ -8,7 +8,7 @@ https://d2gvyg6lvauoko.cloudfront.net/230226/aadinathtv/playlist.m3u8?hdnts=st=1
 https://fta.ektv.in/live/343/master.m3u8
 #EXTINF:-1 tvg-id="2002" tvg-name="Aadinath TV" tvg-logo="https://dtil.tmsimg.com/assets/s142505_ld_h15_aa.png?lock=720x540" group-title="🙏 Religious" iptv-org-id="AadinathTV.in@SD",Aadinath TV (576p)
 https://mumt01.tangotv.in/O5aw8Zn3AADINATHTV/index.m3u8
-#EXTINF:-1 tvg-id="AaseervathamTV.in@SD" tvg-name="Aaseervatham TV" tvg-logo="https://i.imgur.com/GlfrYs7.png" group-title="🙏 Religious",Aaseervatham TV (576p)
+#EXTINF:-1 tvg-id="ts1886" tvg-name="Aaseervatham TV" tvg-logo="https://i.imgur.com/GlfrYs7.png" group-title="🙏 Religious" iptv-org-id="AaseervathamTV.in@SD",Aaseervatham TV (576p)
 https://mumt04.tangotv.in/m18aqlK4AASEERVATHAMTV/index.m3u8
 #EXTINF:-1 tvg-id="175" tvg-name="Aastha" tvg-logo="https://dtil.tmsimg.com/assets/s158133_ld_h9_ab.png?lock=720x540" group-title="🙏 Religious" iptv-org-id="Aastha.in@HD",Aastha (720p)
 https://aasthaott.akamaized.net/110923/smil:aasthatv.smil/index.m3u8
@@ -321,16 +321,16 @@ https://fta.ektv.in/live/637/master.m3u8
 https://mumbai-edge.smartplaytv.in/MercyTV/index.m3u8
 #EXTINF:-1 tvg-id="924" tvg-name="Mercy TV" tvg-logo="https://i.imgur.com/klNH4tV.png" group-title="🙏 Religious" iptv-org-id="MercyTV.in@SD",Mercy TV (576p)
 https://mumt03.tangotv.in/Dsly5z3HMERCYTV/index.m3u8
-#EXTINF:-1 tvg-id="MHOneShraddha.in@SD" tvg-name="MH One Shraddha" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002NFEZK.png?lock=720x540" group-title="🙏 Religious",MH One Shraddha (576p)
+#EXTINF:-1 tvg-id="ts397" tvg-name="MH One Shraddha" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002NFEZK.png?lock=720x540" group-title="🙏 Religious" iptv-org-id="MHOneShraddha.in@SD",MH One Shraddha (576p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://fta.ektv.in/live/344/master.m3u8
-#EXTINF:-1 tvg-id="MHOneShraddha.in@SD" tvg-name="MH One Shraddha" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002NFEZK.png?lock=720x540" group-title="🙏 Religious",MH One Shraddha (576p)
+#EXTINF:-1 tvg-id="ts397" tvg-name="MH One Shraddha" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002NFEZK.png?lock=720x540" group-title="🙏 Religious" iptv-org-id="MHOneShraddha.in@SD",MH One Shraddha (576p)
 https://livestream.jswk.online/mhoneshraddha/live/index.m3u8
-#EXTINF:-1 tvg-id="MHOneShraddha.in@SD" tvg-name="MH One Shraddha" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002NFEZK.png?lock=720x540" group-title="🙏 Religious",MH One Shraddha (576p)
+#EXTINF:-1 tvg-id="ts397" tvg-name="MH One Shraddha" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002NFEZK.png?lock=720x540" group-title="🙏 Religious" iptv-org-id="MHOneShraddha.in@SD",MH One Shraddha (576p)
 https://mumt01.tangotv.in/O5aw8Zn3MHONESHRADDHA/index.m3u8
-#EXTINF:-1 tvg-id="603" tvg-name="Nambikkai TV" tvg-logo="https://dtil.tmsimg.com/assets/s143567_ld_h9_aa.png?lock=720x540" group-title="🙏 Religious" iptv-org-id="NambikkaiTV.in@SD",Nambikkai TV (576p)
+#EXTINF:-1 tvg-id="ts408" tvg-name="Nambikkai TV" tvg-logo="https://dtil.tmsimg.com/assets/s143567_ld_h9_aa.png?lock=720x540" group-title="🙏 Religious" iptv-org-id="NambikkaiTV.in@SD",Nambikkai TV (576p)
 https://cdn.pishow.tv/ott/live/1389/master.m3u8
-#EXTINF:-1 tvg-id="603" tvg-name="Nambikkai TV" tvg-logo="https://dtil.tmsimg.com/assets/s143567_ld_h9_aa.png?lock=720x540" group-title="🙏 Religious" iptv-org-id="NambikkaiTV.in@SD",Nambikkai TV (576p)
+#EXTINF:-1 tvg-id="ts408" tvg-name="Nambikkai TV" tvg-logo="https://dtil.tmsimg.com/assets/s143567_ld_h9_aa.png?lock=720x540" group-title="🙏 Religious" iptv-org-id="NambikkaiTV.in@SD",Nambikkai TV (576p)
 https://d1msejlow1t3l4.cloudfront.net/fta/nambikkaitv/playlist.m3u8
 #EXTINF:-1 tvg-id="NamdhariTV.in@SD" tvg-name="Namdhari TV" tvg-logo="https://i.imgur.com/NalsXTo.png" group-title="🙏 Religious",Namdhari (404p) [Not 24/7]
 https://namdhari.tv/live/sbs1.m3u8
@@ -388,7 +388,7 @@ https://fta.ektv.in/live/340/master.m3u8
 #EXTINF:-1 tvg-id="593" tvg-name="Sadhna" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SADHNA/images/LOGO_HD/image.png" group-title="🙏 Religious" iptv-org-id="Sadhna.in@SD",Sadhna (576p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://fta.ektv.in/live/620/master.m3u8
-#EXTINF:-1 tvg-id="593" tvg-name="Sadhna TV" tvg-logo="https://dtil.tmsimg.com/assets/s143736_ld_h15_aa.png?lock=720x540" group-title="🙏 Religious" iptv-org-id="SadhnaTV.in@SD",Sadhna TV (576p)
+#EXTINF:-1 tvg-id="ts447" tvg-name="Sadhna TV" tvg-logo="https://dtil.tmsimg.com/assets/s143736_ld_h15_aa.png?lock=720x540" group-title="🙏 Religious" iptv-org-id="SadhnaTV.in@SD",Sadhna TV (576p)
 https://mumt05.tangotv.in/87NeALx2SADHNATV/index.m3u8
 #EXTINF:-1 tvg-id="2028" tvg-name="Sadvidya TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sadvidya_TV.png" group-title="🙏 Religious" iptv-org-id="SadvidyaTV.in@SD",Sadvidya TV (720p)
 https://server.thelegitpro.in/sadvidya/sadvidya/index.m3u8
