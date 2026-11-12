@@ -68,9 +68,9 @@ https://d2gvyg6lvauoko.cloudfront.net/230226/ddindia/chunks.m3u8
 https://d2gvyg6lvauoko.cloudfront.net/230226/ddindia/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 #EXTINF:-1 tvg-id="528" tvg-name="DD India" tvg-logo="https://dtil.tmsimg.com/assets/s158251_ld_h15_aa.png?lock=720x540" group-title="📺 General" iptv-org-id="DDIndia.in@SD",DD India (576p)
 https://mumt05.tangotv.in/87NeALx2DDINDIA/index.m3u8
-#EXTINF:-1 tvg-id="DDJharkhand.in@SD" tvg-name="DD Jharkhand" tvg-logo="https://dtil.tmsimg.com/assets/s142787_ld_h15_aa.png?lock=720x540" group-title="📺 General",DD Jharkhand (576p)
+#EXTINF:-1 tvg-id="ts1188" tvg-name="DD Jharkhand" tvg-logo="https://dtil.tmsimg.com/assets/s142787_ld_h15_aa.png?lock=720x540" group-title="📺 General" iptv-org-id="DDJharkhand.in@SD",DD Jharkhand (576p)
 https://cdn.pishow.tv/ott/live/1617/master.m3u8
-#EXTINF:-1 tvg-id="DDJharkhand.in@SD" tvg-name="DD Jharkhand" tvg-logo="https://dtil.tmsimg.com/assets/s142787_ld_h15_aa.png?lock=720x540" group-title="📺 General",DD Jharkhand (576p)
+#EXTINF:-1 tvg-id="ts1188" tvg-name="DD Jharkhand" tvg-logo="https://dtil.tmsimg.com/assets/s142787_ld_h15_aa.png?lock=720x540" group-title="📺 General" iptv-org-id="DDJharkhand.in@SD",DD Jharkhand (576p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://fta.ektv.in/live/573/master.m3u8
 #EXTINF:-1 tvg-id="716" tvg-name="DD Kashir" tvg-logo="https://dtil.tmsimg.com/assets/s142788_ld_h15_aa.png?lock=720x540" group-title="📺 General" iptv-org-id="DDKashir.in@SD",DD Kashir (576p)
@@ -96,7 +96,7 @@ https://fta.ektv.in/live/384/master.m3u8
 https://mumbai-edge.smartplaytv.in/ddodiya/index.m3u8
 #EXTINF:-1 tvg-id="538" tvg-name="DD Rajasthan" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_RAJASTHAN/images/LOGO_HD/image.png" group-title="📺 General" iptv-org-id="DDRajasthan.in@SD",DD Rajasthan (576p)
 https://mumbai-edge.smartplaytv.in/ddrajasthan/index.m3u8
-#EXTINF:-1 tvg-id="695" tvg-name="DD Sahyadri" tvg-logo="https://dtil.tmsimg.com/assets/s142803_ld_h15_aa.png?lock=720x540" group-title="📺 General" iptv-org-id="DDSahyadri.in@SD",DD Sahyadri (576p)
+#EXTINF:-1 tvg-id="ts336" tvg-name="DD Sahyadri" tvg-logo="https://dtil.tmsimg.com/assets/s142803_ld_h15_aa.png?lock=720x540" group-title="📺 General" iptv-org-id="DDSahyadri.in@SD",DD Sahyadri (576p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://fta.ektv.in/live/187/master.m3u8
 #EXTINF:-1 tvg-id="726" tvg-name="DD Tamil" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_TAMIL/images/LOGO_HD/image.png" group-title="📺 General" iptv-org-id="DDTamil.in@SD",DD Tamil (576p)
@@ -112,7 +112,7 @@ https://mumbai-edge.smartplaytv.in/DDUrdu/index.m3u8
 #EXTINF:-1 tvg-id="540" tvg-name="DD Uttar Pradesh" tvg-logo="https://dtil.tmsimg.com/assets/s142807_ld_h9_ab.png?lock=720x540" group-title="📺 General" iptv-org-id="DDUttarPradesh.in@SD",DD Uttar Pradesh (576p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://fta.ektv.in/live/263/master.m3u8
-#EXTINF:-1 tvg-id="528" tvg-name="DD Uttarakhand" tvg-logo="https://dtil.tmsimg.com/assets/s142809_ld_h15_aa.png?lock=720x540" group-title="📺 General" iptv-org-id="DDUttarakhand.in@SD",DD Uttarakhand (576p)
+#EXTINF:-1 tvg-id="ts1213" tvg-name="DD Uttarakhand" tvg-logo="https://dtil.tmsimg.com/assets/s142809_ld_h15_aa.png?lock=720x540" group-title="📺 General" iptv-org-id="DDUttarakhand.in@SD",DD Uttarakhand (576p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://fta.ektv.in/live/576/master.m3u8
 #EXTINF:-1 tvg-id="1516" tvg-name="DD Yadagiri" tvg-logo="https://dtil.tmsimg.com/assets/s142810_ld_h15_aa.png?lock=720x540" group-title="📺 General" iptv-org-id="DDYadagiri.in@SD",DD Yadagiri (576p)
@@ -131,6 +131,10 @@ https://cdn.pishow.tv/ott/live/10006/master.m3u8
 https://fta.ektv.in/live/676/master.m3u8
 #EXTINF:-1 tvg-id="765" tvg-name="Jonack" tvg-logo="https://dtil.tmsimg.com/assets/s143238_ld_h15_aa.png?lock=720x540" group-title="📺 General" iptv-org-id="Jonack.in@SD",Jonack TV (360p) [Not 24/7]
 https://cdn.smartstream.video/smartstream-us/jonakk/jonakk/playlist.m3u8
+#EXTINF:-1 tvg-id="765" tvg-name="Jonack" tvg-logo="https://dtil.tmsimg.com/assets/s143238_ld_h15_aa.png?lock=720x540" group-title="📺 General" iptv-org-id="Jonack.in@SD",Jonack (576p)
+https://mumt04.tangotv.in/m18aqlK4JONAKTV/index.m3u8
+#EXTINF:-1 tvg-id="765" tvg-name="Jonack" tvg-logo="https://dtil.tmsimg.com/assets/s143238_ld_h15_aa.png?lock=720x540" group-title="📺 General" iptv-org-id="Jonack.in@SD",Jonack (576p)
+https://samitaorigin.tangotv.in/JONAKTV/SAMITAORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="KairaliArabia.in@SD" tvg-name="Kairali Arabia" tvg-logo="https://i.imgur.com/BBEfplL.png" group-title="📺 General",Kairali Arabia (576p)
 https://mumt03.tangotv.in/Dsly5z3HKAIRALIARABIA/index.m3u8
 #EXTINF:-1 tvg-id="710" tvg-name="Kairali TV" tvg-logo="https://dtil.tmsimg.com/assets/s143247_ld_h15_aa.png?lock=720x540" group-title="📺 General" iptv-org-id="KairaliTV.in@SD",Kairali TV (576p)
@@ -145,6 +149,8 @@ https://oqgdrkxby4rm-hls-live.5centscdn.com/kaumudytv/live.stream/playlist.m3u8
 https://cdn.pishow.tv/ott/live/1237/master.m3u8
 #EXTINF:-1 tvg-id="1891" tvg-name="KTV Bangla" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/2f8e3b371c660faa2f43a7f0942948a4.png" group-title="📺 General" iptv-org-id="KTVBangla.in@SD",KTV Bangla (720p)
 https://server.livelegitpro.in:9899/tribetv/tribetv/index.m3u8
+#EXTINF:-1 tvg-id="1891" tvg-name="KTV Bangla" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/2f8e3b371c660faa2f43a7f0942948a4.png" group-title="📺 General" iptv-org-id="KTVBangla.in@SD",KTV Bangla (1080p)
+https://stream.ottlive.co.in/ktvbangla/index.m3u8
 #EXTINF:-1 tvg-id="708" tvg-name="Makkal TV" tvg-logo="https://dtil.tmsimg.com/assets/s143296_ld_h15_aa.png?lock=720x540" group-title="📺 General" iptv-org-id="MakkalTV.in@SD",Makkal TV (576i)
 https://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="708" tvg-name="Makkal TV" tvg-logo="https://dtil.tmsimg.com/assets/s143296_ld_h15_aa.png?lock=720x540" group-title="📺 General" iptv-org-id="MakkalTV.in@SD",Makkal TV (576p)
@@ -165,6 +171,8 @@ https://mumbai-edge.smartplaytv.in/MBCTV/index.m3u8
 https://meialai.iptelevishion.com/meialai/2/index.m3u8
 #EXTINF:-1 tvg-id="3406" tvg-name="Metro TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Metro_TV.png" group-title="📺 General" iptv-org-id="MetroTV.in@SD",Metro TV (1080p)
 https://mercury.streambridge.link:8042/telugu/metrotv/index.m3u8
+#EXTINF:-1 tvg-id="3406" tvg-name="Metro TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Metro_TV.png" group-title="📺 General" iptv-org-id="MetroTV.in@SD",Metro TV (1080p)
+https://stream.ottlive.co.in/metrotv/index.m3u8
 #EXTINF:-1 tvg-id="Mh1Prime.in@SD" tvg-name="Mh 1 Prime" tvg-logo="" group-title="📺 General",Mh 1 Prime (576p)
 https://mumt04.tangotv.in/m18aqlK4MHONE/index.m3u8
 #EXTINF:-1 tvg-id="Mh1Prime.in@SD" tvg-name="Mh 1 Prime" tvg-logo="" group-title="📺 General",Mh 1 Prime (576p)
@@ -174,9 +182,9 @@ https://streams.tangotv.in/MHONE/ORIGIN/index.m3u8
 https://fta.ektv.in/live/353/master.m3u8
 #EXTINF:-1 tvg-id="MHOne.in@SD" tvg-name="MH One" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/mh1_Music.png" group-title="📺 General",MH One (360p)
 https://samitaorigin.tangotv.in/MHONE/SAMITAORIGIN/index.m3u8
-#EXTINF:-1 tvg-id="ts805" tvg-name="Nandighosha TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Nandighosha.png" group-title="📺 General" iptv-org-id="NandighoshaTV.in@SD",Nandighosha TV (576p)
+#EXTINF:-1 tvg-id="1427" tvg-name="Nandighosha TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Nandighosha.png" group-title="📺 General" iptv-org-id="NandighoshaTV.in@SD",Nandighosha TV (576p)
 https://mumt05.tangotv.in/87NeALx2NANDIGHOSHATV/index.m3u8
-#EXTINF:-1 tvg-id="ts805" tvg-name="Nandighosha TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Nandighosha.png" group-title="📺 General" iptv-org-id="NandighoshaTV.in@SD",Nandighosha TV (576p)
+#EXTINF:-1 tvg-id="1427" tvg-name="Nandighosha TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Nandighosha.png" group-title="📺 General" iptv-org-id="NandighoshaTV.in@SD",Nandighosha TV (576p)
 https://d1msejlow1t3l4.cloudfront.net/fta/Nandighoshatv/playlist.m3u8
 #EXTINF:-1 tvg-id="1528" tvg-name="Network 10" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Network_10.png" group-title="📺 General" iptv-org-id="Network10.in@SD",Network 10 (720p)
 https://mumbai-edge.smartplaytv.in/Network10/index.m3u8
@@ -191,6 +199,8 @@ https://mumt01.tangotv.in/O5aw8Zn3NETWORK10/index.m3u8
 https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8
 #EXTINF:-1 tvg-id="1528" tvg-name="Network 10" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Network_10.png" group-title="📺 General" iptv-org-id="Network10.in@SD",Network 10
 https://network10.livebox.co.in/network10hls/live.m3u8
+#EXTINF:-1 tvg-id="1528" tvg-name="Network 10" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Network_10.png" group-title="📺 General" iptv-org-id="Network10.in@SD",Network 10 (720p)
+https://network10.livebox.co.in/network10outhls/live.m3u8
 #EXTINF:-1 tvg-id="882" tvg-name="News 11" tvg-logo="https://i.imgur.com/brLsWXU.png" group-title="📺 General" iptv-org-id="News11.in@SD",News 11 (576p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://fta.ektv.in/live/307/master.m3u8
@@ -204,6 +214,10 @@ https://d1msejlow1t3l4.cloudfront.net/fta/news11bharat/playlist.m3u8
 https://stream.ottlive.co.in/nkrtv/index.m3u8
 #EXTINF:-1 tvg-id="NKRTVKannada.in@SD" tvg-name="NKR TV Kannada" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NKRTV.png" group-title="📺 General",NKR TV Kannada (576p)
 https://mumt05.tangotv.in/87NeALx2NKRTV/index.m3u8
+#EXTINF:-1 tvg-id="NKRTVKannada.in@SD" tvg-name="NKR TV Kannada" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NKRTV.png" group-title="📺 General",NKR TV Kannada (1080p)
+https://vglivessai.akamaized.net/ptnr-lg/title-NKR_TV/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/3e4833d1-e98f-4fc4-8868-6d31dc2ea843/index.m3u8
+#EXTINF:-1 tvg-id="NKRTVKannada.in@SD" tvg-name="NKR TV Kannada" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NKRTV.png" group-title="📺 General",NKR TV Kannada (1080p)
+https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/bd25b31b-5ce2-453d-a544-d073555d85f3/index.m3u8
 #EXTINF:-1 tvg-id="Starnet.in@SD" tvg-name="Starnet" tvg-logo="https://i.imgur.com/J3jB7Kr.png" group-title="📺 General",Starnet (480p)
 https://5a1178b42cc03.streamlock.net/8220/8220/playlist.m3u8
 #EXTINF:-1 tvg-id="897" tvg-name="Sun Gemini" tvg-logo="https://sund-images.sunnxt.com/194396/300x300_SunGemini_194396_22c18c1e-7eb9-4855-9c4e-12e109911559.png" group-title="📺 General" iptv-org-id="SunGemini.in@SD",Sun Gemini (576p)

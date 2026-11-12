@@ -10,6 +10,8 @@ https://mumbai-edge.smartplaytv.in/7SMusic/index.m3u8
 https://mumt03.tangotv.in/Dsly5z3H7SMUSIC/index.m3u8
 #EXTINF:-1 tvg-id="1871" tvg-name="7X Music" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/7X_Music.png" group-title="🎵 Music" iptv-org-id="7XMusic.in@SD",7X Music (360p)
 https://cdn2.in/7xPunjabihls/live.m3u8
+#EXTINF:-1 tvg-id="1871" tvg-name="7X Music" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/7X_Music.png" group-title="🎵 Music" iptv-org-id="7XMusic.in@SD",7X Music (1080p)
+https://7xshreeshyam.akamaized.net/7XPunjabi/index.m3u8
 #EXTINF:-1 tvg-id="440" tvg-name="9X Jalwa" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_9X_JALWA/images/LOGO_HD/image.png" group-title="🎵 Music" iptv-org-id="9XJalwa.in@SD",9X Jalwa (1080p)
 https://wiselp.wiseplayout.com/9X_Jalwa/master.m3u8
 #EXTINF:-1 tvg-id="440" tvg-name="9X Jalwa" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_9X_JALWA/images/LOGO_HD/image.png" group-title="🎵 Music" iptv-org-id="9XJalwa.in@SD",9X Jalwa (576p)
@@ -88,6 +90,8 @@ https://streams.tangotv.in/B4UMUSIC/ORIGIN/index.m3u8
 https://tvsen3.aynaott.com/8m7Vmh3K/index.m3u8
 #EXTINF:-1 tvg-id="183" tvg-name="B4U Music" tvg-logo="https://dtil.tmsimg.com/assets/s158141_ld_h15_aa.png?lock=720x540" group-title="🎵 Music" iptv-org-id="B4UMusic.in@India",B4U Music (576p)
 http://163.61.226.31:9981/stream/channelid/494430938?profile=pass
+#EXTINF:-1 tvg-id="183" tvg-name="B4U Music" tvg-logo="https://dtil.tmsimg.com/assets/s158141_ld_h15_aa.png?lock=720x540" group-title="🎵 Music" iptv-org-id="B4UMusic.in@India",B4U Music (1080p)
+https://amg00877-b4unew-amg00877c3-xiaomi-in-5474.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="1453" tvg-name="Balle Balle" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Balle_Balle_TV.png" group-title="🎵 Music" iptv-org-id="BalleBalle.in@SD",Balle Balle (1080p)
 https://mcncdndigital.com/worldpunjabitv/index.m3u8
 #EXTINF:-1 tvg-id="1453" tvg-name="Balle Balle" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Balle_Balle_TV.png" group-title="🎵 Music" iptv-org-id="BalleBalle.in@SD",Balle Balle (576p)
@@ -117,6 +121,8 @@ https://fta.ektv.in/live/631/master.m3u8
 https://fta.ektv.in/live/378/master.m3u8
 #EXTINF:-1 tvg-id="DhoomMusic.in@SD" tvg-name="Dhoom Music" tvg-logo="https://dtil.tmsimg.com/assets/s142882_ld_h15_aa.png?lock=720x540" group-title="🎵 Music",Dhoom Music (576p)
 https://mumt06.tangotv.in/qYyB8fXVDHOOMMUSIC/index.m3u8
+#EXTINF:-1 tvg-id="DhoomMusic.in@SD" tvg-name="Dhoom Music" tvg-logo="https://dtil.tmsimg.com/assets/s142882_ld_h15_aa.png?lock=720x540" group-title="🎵 Music",Dhoom Music (576p)
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:dhoom.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="EpicMusic.in@SD" tvg-name="Epic Music" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0032BWBW.png?lock=720x540" group-title="🎵 Music",Epic Music (576p)
 http://66.102.126.10:8000/play/a01i/index.m3u8
 #EXTINF:-1 tvg-id="EpicMusic.in@SD" tvg-name="Epic Music" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0032BWBW.png?lock=720x540" group-title="🎵 Music",Epic Music (576p)
@@ -203,11 +209,13 @@ https://legitpro.co.in/punjabihits/punjabihits/index.m3u8
 https://livingindiaottlive.akamaized.net/punjabihits/index.m3u8
 #EXTINF:-1 tvg-id="2934" tvg-name="Punjabi Hits" tvg-logo="https://dtil.tmsimg.com/assets/s143691_ld_h15_aa.png?lock=720x540" group-title="🎵 Music" iptv-org-id="PunjabiHits.in@SD",Punjabi Hits (1080p)
 https://stream.ottlive.co.in/punjabihits/index.m3u8
+#EXTINF:-1 tvg-id="2934" tvg-name="Punjabi Hits" tvg-logo="https://dtil.tmsimg.com/assets/s143691_ld_h15_aa.png?lock=720x540" group-title="🎵 Music" iptv-org-id="PunjabiHits.in@SD",Punjabi Hits (1080p)
+https://livingindia.ottlive.co.in/punjabihits/index.m3u8
 #EXTINF:-1 tvg-id="PunjabiMusicHD.in@SD" tvg-name="Punjabi Music HD" tvg-logo="https://papaji.freetvindia.com/media/Punjabi_Music_HD.png" group-title="🎵 Music",Punjabi Music HD (720p)
 https://samitaorigin.tangotv.in/PUNJABIMUSICHD/SAMITAORIGIN/index.m3u8
-#EXTINF:-1 tvg-id="743" tvg-name="Raj Musix Kannada" tvg-logo="https://dtil.tmsimg.com/assets/s143705_ld_h15_aa.png?lock=720x540" group-title="🎵 Music" iptv-org-id="RajMusixKannada.in@SD",Raj Musix Kannada (576p)
+#EXTINF:-1 tvg-id="ts427" tvg-name="Raj Musix Kannada" tvg-logo="https://dtil.tmsimg.com/assets/s143705_ld_h15_aa.png?lock=720x540" group-title="🎵 Music" iptv-org-id="RajMusixKannada.in@SD",Raj Musix Kannada (576p)
 https://mumt01.tangotv.in/O5aw8Zn3RAJMUSIXKANDA/index.m3u8
-#EXTINF:-1 tvg-id="743" tvg-name="Raj Musix Kannada" tvg-logo="https://dtil.tmsimg.com/assets/s143705_ld_h15_aa.png?lock=720x540" group-title="🎵 Music" iptv-org-id="RajMusixKannada.in@SD",Raj Musix Kannada (576p)
+#EXTINF:-1 tvg-id="ts427" tvg-name="Raj Musix Kannada" tvg-logo="https://dtil.tmsimg.com/assets/s143705_ld_h15_aa.png?lock=720x540" group-title="🎵 Music" iptv-org-id="RajMusixKannada.in@SD",Raj Musix Kannada (576p)
 https://samitaorigin.tangotv.in/RAJMUSIXKANDA/SAMITAORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="739" tvg-name="Raj Musix Malayalam" tvg-logo="https://dtil.tmsimg.com/assets/s143706_ld_h15_aa.png?lock=720x540" group-title="🎵 Music" iptv-org-id="RajMusixMalayalam.in@SD",Raj Musix Malayalam (576p)
 https://cdn.pishow.tv/ott/live/1073/master.m3u8
@@ -221,6 +229,8 @@ https://mumt07.tangotv.in/zHjX9OFlRAJMUSIXTELUGU/index.m3u8
 https://mumbai-edge.smartplaytv.in/SanaPlusHD/index.m3u8
 #EXTINF:-1 tvg-id="3359" tvg-name="Sana Plus" tvg-logo="https://i.imgur.com/N6tKUZv.png" group-title="🎵 Music" iptv-org-id="SanaPlus.in@SD",Sana Plus (1080p) [Not 24/7]
 https://galaxyott.live/hls/sanaplus.m3u8
+#EXTINF:-1 tvg-id="3359" tvg-name="Sana Plus" tvg-logo="https://i.imgur.com/N6tKUZv.png" group-title="🎵 Music" iptv-org-id="SanaPlus.in@SD",Sana Plus (1080p)
+https://stream.ottlive.co.in/sanaplus/index.m3u8
 #EXTINF:-1 tvg-id="740" tvg-name="Sangeet Bangla" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00211H7T.png?lock=720x540" group-title="🎵 Music" iptv-org-id="SangeetBangla.in@SD",Sangeet Bangla (576p)
 http://103.165.93.31:8095/sangeetBangla/index.m3u8
 #EXTINF:-1 tvg-id="740" tvg-name="Sangeet Bangla" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00211H7T.png?lock=720x540" group-title="🎵 Music" iptv-org-id="SangeetBangla.in@SD",Sangeet Bangla (576p)
@@ -291,5 +301,3 @@ https://dai.google.com/linear/hls/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
 https://d2esfk1pb9cdob.cloudfront.net/master.m3u8
 #EXTINF:-1 tvg-id="592" tvg-name="Zoom" tvg-logo="https://dtil.tmsimg.com/assets/s157600_ld_h15_aa.png?lock=720x540" group-title="🎵 Music" iptv-org-id="Zoom.in@SD",Zoom (576p)
 https://mumbai-edge.smartplaytv.in/Zoom/index.m3u8
-#EXTINF:-1 tvg-id="592" tvg-name="Zoom" tvg-logo="https://i.imgur.com/mxx05Z9.png" group-title="🎵 Music" iptv-org-id="Zoom.in@Nepal",Zoom Nepal (720p)
-https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
