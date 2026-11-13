@@ -1,15 +1,15 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/mitthu786/tvepg/main/epg.xml.gz" url-tvg="https://raw.githubusercontent.com/mitthu786/tvepg/main/epg.xml.gz"
-#EXTINF:-1 tvg-id="ts681" tvg-name="Cartoon Network HD+" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CARTOON_NETWORK_HDSYMPLUS/images/LOGO_HD/image.png" group-title="🧒 Kids" iptv-org-id="CartoonNetworkHDPlus.in@HD",Cartoon Network HD+ (1080p)
+#EXTINF:-1 tvg-id="CartoonNetworkHDPlus.in@HD" tvg-name="Cartoon Network HD+" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CARTOON_NETWORK_HDSYMPLUS/images/LOGO_HD/image.png" group-title="🧒 Kids",Cartoon Network HD+ (1080p)
 http://103.135.253.32:8080/CN-NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="3385" tvg-name="Epic Kids" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0032BVSR.png?lock=720x540" group-title="🧒 Kids" iptv-org-id="EpicKids.in@Digital",Epic Kids Digital (1080p)
 https://cc-t8lqe1o99pszu.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-t8lqe1o99pszu/playlist.m3u8
 #EXTINF:-1 tvg-id="3467" tvg-name="Green Gold TV" tvg-logo="https://i.ibb.co/TDPsPVkT/Greengoldtv.png" group-title="🧒 Kids" iptv-org-id="GreenGoldTV.in@India",Green Gold TV (1080p)
 https://cc-szrmqvu8zkg16.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-szrmqvu8zkg16/greengold/stream/grngld/playlist.m3u8
-#EXTINF:-1 tvg-id="ts118" tvg-name="Nick Jr." tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002YJ9M2.png?lock=720x540" group-title="🧒 Kids" iptv-org-id="NickJr.in@SD",Nick Jr. (576p)
+#EXTINF:-1 tvg-id="NickJr.in@SD" tvg-name="Nick Jr." tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002YJ9M2.png?lock=720x540" group-title="🧒 Kids",Nick Jr. (576p)
 http://103.185.24.134:3001/NICK-JR/index.m3u8
-#EXTINF:-1 tvg-id="ts118" tvg-name="Nick Jr." tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002YJ9M2.png?lock=720x540" group-title="🧒 Kids" iptv-org-id="NickJr.in@SD",Nick Jr. (576p)
+#EXTINF:-1 tvg-id="NickJr.in@SD" tvg-name="Nick Jr." tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002YJ9M2.png?lock=720x540" group-title="🧒 Kids",Nick Jr. (576p)
 http://202.70.146.135:8000/play/a02n/index.m3u8
-#EXTINF:-1 tvg-id="ts118" tvg-name="Nick Jr." tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002YJ9M2.png?lock=720x540" group-title="🧒 Kids" iptv-org-id="NickJr.in@SD",Nick Jr. (576p)
+#EXTINF:-1 tvg-id="NickJr.in@SD" tvg-name="Nick Jr." tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002YJ9M2.png?lock=720x540" group-title="🧒 Kids",Nick Jr. (576p)
 http://103.135.253.32:8080/NICK-Jr/index.m3u8
 #EXTINF:-1 tvg-id="1226" tvg-name="Nickelodeon" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002YJ9BJ.png?lock=720x540" group-title="🧒 Kids" iptv-org-id="Nickelodeon.in@SD",Nickelodeon (576p)
 http://103.185.24.134:3001/NICK/index.m3u8
@@ -21,9 +21,9 @@ http://dksmedia.tv/play/live.php?extension=ts&mac=00:1A:79:B6:60:3D&play_token=8
 http://103.135.253.32:8080/NICK/index.m3u8
 #EXTINF:-1 tvg-id="PequesTV.pe@SD" tvg-name="Peques TV" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/04/1767647409377/6123aa5e7fc7.png" group-title="🧒 Kids",Peques TV (720p)
 https://live-evg7.tv360.bitel.com.pe/bitel/pequestv/playlist.m3u8
-#EXTINF:-1 tvg-id="ts239" tvg-name="Pogo" tvg-logo="https://dtil.tmsimg.com/assets/s143663_ld_h15_aa.png?lock=720x540" group-title="🧒 Kids" iptv-org-id="Pogo.in@SD",Pogo (576p)
+#EXTINF:-1 tvg-id="Pogo.in@SD" tvg-name="Pogo" tvg-logo="https://dtil.tmsimg.com/assets/s143663_ld_h15_aa.png?lock=720x540" group-title="🧒 Kids",Pogo (576p)
 http://103.135.253.32:8080/POGO/index.m3u8
-#EXTINF:-1 tvg-id="ts127" tvg-name="Sonic" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002YJB2K.png?lock=720x540" group-title="🧒 Kids" iptv-org-id="Sonic.in@SD",Sonic (576p)
+#EXTINF:-1 tvg-id="Sonic.in@SD" tvg-name="Sonic" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002YJB2K.png?lock=720x540" group-title="🧒 Kids",Sonic (576p)
 http://103.185.24.134:3001/SONIC/index.m3u8
 #EXTINF:-1 tvg-id="3507" tvg-name="Sony Yay!" tvg-logo="https://dtil.tmsimg.com/assets/s159100_ld_h15_aa.png?lock=720x540" group-title="🧒 Kids" iptv-org-id="SonyYay.in@SD",Sony Yay! (576p)
 https://livetv.shamon-cable.net:8443/sony_yay/index.m3u8
