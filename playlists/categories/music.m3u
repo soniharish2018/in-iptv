@@ -27,8 +27,6 @@ https://amg01281-9xmediapvtltd-9xjhakaas-samsungin-ci2cs.amagi.tv/playlist/amg01
 https://wiselp.wiseplayout.com/9X_Jhakaas/master.m3u8
 #EXTINF:-1 tvg-id="441" tvg-name="9X Jhakaas" tvg-logo="https://dtil.tmsimg.com/assets/s90012_ld_h15_aa.png?lock=720x540" group-title="🎵 Music" iptv-org-id="9XJhakaas.in@SD",9X Jhakaas (576p)
 https://mumt03.tangotv.in/Dsly5z3H9XJHAKAAS/index.m3u8
-#EXTINF:-1 tvg-id="441" tvg-name="9X Jhakaas" tvg-logo="https://dtil.tmsimg.com/assets/s90012_ld_h15_aa.png?lock=720x540" group-title="🎵 Music" iptv-org-id="9XJhakaas.in@SD",9X Jhakaas (576p)
-https://yupplivegcp2.yuppcdn.net/28072023/smil:9xjhakaas.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 #EXTINF:-1 tvg-id="732" tvg-name="9X Tashan" tvg-logo="https://dtil.tmsimg.com/assets/s142504_ld_h15_aa.png?lock=720x540" group-title="🎵 Music" iptv-org-id="9XTashan.in@SD",9X Tashan (1080p)
 https://amg01281-9xmediapvtltd-9xtashan-samsungin-xz1sd.amagi.tv/playlist/amg01281-9xmediapvtltd-9xtashan-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-id="732" tvg-name="9X Tashan" tvg-logo="https://dtil.tmsimg.com/assets/s142504_ld_h15_aa.png?lock=720x540" group-title="🎵 Music" iptv-org-id="9XTashan.in@SD",9X Tashan (1080p)
@@ -51,8 +49,6 @@ https://yupplivegcp2.yuppcdn.net/28072023/smil:9xtashan.smil/playlist.m3u8?hdnts
 #EXTINF:-1 tvg-id="587" tvg-name="9XM" tvg-logo="https://dtil.tmsimg.com/assets/s77447_ld_h15_aa.png?lock=720x540" group-title="🎵 Music" iptv-org-id="9XM.in@SD",9XM (1080p)
 https://9xjio.wiseplayout.com/9XM/master.m3u8
 #EXTINF:-1 tvg-id="587" tvg-name="9XM" tvg-logo="https://dtil.tmsimg.com/assets/s77447_ld_h15_aa.png?lock=720x540" group-title="🎵 Music" iptv-org-id="9XM.in@SD",9XM (1080p)
-https://epiconvh.akamaized.net/live/9XM/master.m3u8
-#EXTINF:-1 tvg-id="587" tvg-name="9XM" tvg-logo="https://dtil.tmsimg.com/assets/s77447_ld_h15_aa.png?lock=720x540" group-title="🎵 Music" iptv-org-id="9XM.in@SD",9XM (1080p)
 https://wiselp.wiseplayout.com/9XM/master.m3u8
 #EXTINF:-1 tvg-id="587" tvg-name="9XM" tvg-logo="https://dtil.tmsimg.com/assets/s77447_ld_h15_aa.png?lock=720x540" group-title="🎵 Music" iptv-org-id="9XM.in@SD",9XM (576p)
 https://cc-706183qeo55ez.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-706183qeo55ez/DIYC/PMSL/9X/9XMusic_IN/9XMusic_IN.m3u8
@@ -61,10 +57,6 @@ https://cc-706183qeo55ez.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 https://fta.ektv.in/live/155/master.m3u8
 #EXTINF:-1 tvg-id="587" tvg-name="9XM" tvg-logo="https://dtil.tmsimg.com/assets/s77447_ld_h15_aa.png?lock=720x540" group-title="🎵 Music" iptv-org-id="9XM.in@SD",9XM (576p)
 https://streams.tangotv.in/9XM/ORIGIN/index.m3u8
-#EXTINF:-1 tvg-id="587" tvg-name="9XM" tvg-logo="https://dtil.tmsimg.com/assets/s77447_ld_h15_aa.png?lock=720x540" group-title="🎵 Music" iptv-org-id="9XM.in@SD",9XM (576p)
-https://yupplivegcp2.yuppcdn.net/28072023/9xmusic_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
-#EXTINF:-1 tvg-id="587" tvg-name="9XM" tvg-logo="https://dtil.tmsimg.com/assets/s77447_ld_h15_aa.png?lock=720x540" group-title="🎵 Music" iptv-org-id="9XM.in@SD",9XM (576p)
-https://yupplivegcp2.yuppcdn.net/28072023/smil:9xmusic4.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 #EXTINF:-1 tvg-id="3395" tvg-name="Aaryaa TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/aryatvtamil.png" group-title="🎵 Music" iptv-org-id="AaryaaTV.in@SD",Aaryaa TV (1080p)
 https://stream.ottlive.co.in/aryatvtamil/index.m3u8
 #EXTINF:-1 tvg-id="AndyHaryana.in@SD" tvg-name="Andy Haryana" tvg-logo="https://i.imgur.com/rmCBD3e.png" group-title="🎵 Music",Andy Haryana (576p)
