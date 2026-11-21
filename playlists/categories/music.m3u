@@ -148,6 +148,8 @@ https://d1y1fq5zo7b6pt.cloudfront.net/v1/master/071c0467fcd02420cdf0d8a1ca3524b9
 http://146.59.253.52:8080/hindihitshd/index.m3u8
 #EXTINF:-1 tvg-id="HindiHits.in@SD" tvg-name="Hindi Hits" tvg-logo="https://i.imgur.com/CuDiswM.png" group-title="🎵 Music",Hindi Hits (720p)
 https://samitaorigin.tangotv.in/HINDIHITS/SAMITAORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="HindiHits.in@SD" tvg-name="Hindi Hits" tvg-logo="https://i.imgur.com/CuDiswM.png" group-title="🎵 Music",Hindi Hits SD (576p)
+https://mumt01.tangotv.in/O5aw8Zn3HINDIHITS/index.m3u8
 #EXTINF:-1 tvg-id="1286" tvg-name="Insync" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Insync.png" group-title="🎵 Music" iptv-org-id="Insync.in@SD",Insync (576p)
 https://d1msejlow1t3l4.cloudfront.net/fta/insync/playlist.m3u8
 #EXTINF:-1 tvg-id="1286" tvg-name="Insync" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Insync.png" group-title="🎵 Music" iptv-org-id="Insync.in@SD",Insync (576p)

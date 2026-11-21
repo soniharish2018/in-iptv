@@ -1,6 +1,8 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/mitthu786/tvepg/main/epg.xml.gz" url-tvg="https://raw.githubusercontent.com/mitthu786/tvepg/main/epg.xml.gz"
 #EXTINF:-1 tvg-id="AMNTV.in@SD" tvg-name="AMN TV" tvg-logo="https://amntv.in/wp-content/uploads/2025/04/amntv-logo.png" group-title="📺 General",AMN TV (576p)
 https://live.onecloudlive.in/amn/amntv/index.m3u8
+#EXTINF:-1 tvg-id="ApnaPunjabTV.in@SD" tvg-name="Apna Punjab TV" tvg-logo="https://www.apnapunjab.tv/images/logo.png" group-title="📺 General",Apna Punjab TV (576p)
+https://samitaorigin.tangotv.in/APNAPUNJAB/SAMITAORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="CCV.in@SD" tvg-name="CCV" tvg-logo="https://i.imgur.com/4ss0KfA.png" group-title="📺 General",CCV (480p)
 https://5a1178b42cc03.streamlock.net/8212/8212/playlist.m3u8
 #EXTINF:-1 tvg-id="279" tvg-name="Colors Rishtey" tvg-logo="https://dtil.tmsimg.com/assets/s158239_ld_h15_aa.png?lock=720x540" group-title="📺 General" iptv-org-id="ColorsRishtey.in@SD",Colors Rishtey (576p)
@@ -137,6 +139,8 @@ https://samitaorigin.tangotv.in/JONAKTV/SAMITAORIGIN/index.m3u8
 https://cdn.smartstream.video/smartstream-us/jonakk/jonakk/playlist.m3u8
 #EXTINF:-1 tvg-id="KairaliArabia.in@SD" tvg-name="Kairali Arabia" tvg-logo="https://i.imgur.com/BBEfplL.png" group-title="📺 General",Kairali Arabia (576p)
 https://mumt03.tangotv.in/Dsly5z3HKAIRALIARABIA/index.m3u8
+#EXTINF:-1 tvg-id="KairaliArabia.in@SD" tvg-name="Kairali Arabia" tvg-logo="https://i.imgur.com/BBEfplL.png" group-title="📺 General",Kairali Arabia (576p)
+https://samitaorigin.tangotv.in/KAIRALIARABIA/SAMITAORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="710" tvg-name="Kairali TV" tvg-logo="https://dtil.tmsimg.com/assets/s143247_ld_h15_aa.png?lock=720x540" group-title="📺 General" iptv-org-id="KairaliTV.in@SD",Kairali TV (576p)
 https://mumt01.tangotv.in/O5aw8Zn3KAIRALI/index.m3u8
 #EXTINF:-1 tvg-id="710" tvg-name="Kairali TV" tvg-logo="https://dtil.tmsimg.com/assets/s143247_ld_h15_aa.png?lock=720x540" group-title="📺 General" iptv-org-id="KairaliTV.in@SD",Kairali TV (576p)
@@ -167,6 +171,8 @@ https://cdn.pishow.tv/ott/live/1017/master.m3u8
 https://fta.ektv.in/live/667/master.m3u8
 #EXTINF:-1 tvg-id="631" tvg-name="MBC TV" tvg-logo="https://dtil.tmsimg.com/assets/s135691_ld_h15_aa.png?lock=720x540" group-title="📺 General" iptv-org-id="MBCTV.in@SD",MBC TV (576p)
 https://mumbai-edge.smartplaytv.in/MBCTV/index.m3u8
+#EXTINF:-1 tvg-id="631" tvg-name="MBC TV" tvg-logo="https://dtil.tmsimg.com/assets/s135691_ld_h15_aa.png?lock=720x540" group-title="📺 General" iptv-org-id="MBCTV.in@SD",MBC TV (576p)
+https://samitaorigin.tangotv.in/MBCTV/SAMITAORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="MeiAlaiTV.in@SD" tvg-name="Mei Alai TV" tvg-logo="https://www.meialai.com/assets/meialai-DBaBUZTH.png" group-title="📺 General",Mei Alai TV (576p)
 https://meialai.iptelevishion.com/meialai/2/index.m3u8
 #EXTINF:-1 tvg-id="3406" tvg-name="Metro TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Metro_TV.png" group-title="📺 General" iptv-org-id="MetroTV.in@SD",Metro TV (1080p)

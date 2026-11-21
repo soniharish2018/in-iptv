@@ -3,9 +3,9 @@
 http://103.135.253.32:8080/CN-NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="CartoonNetworkHDPlus.in@HD" tvg-name="Cartoon Network HD+" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CARTOON_NETWORK_HDSYMPLUS/images/LOGO_HD/image.png" group-title="🧒 Kids",Cartoon Network HD+ (1080p)
 http://116.90.120.149:8000/play/a114/index.m3u8
-#EXTINF:-1 tvg-id="3578" tvg-name="Disney Channel" tvg-logo="https://dtil.tmsimg.com/assets/s159012_ld_h15_aa.png?lock=720x540" group-title="🧒 Kids" iptv-org-id="DisneyChannel.in@SD",Disney Channel (576p)
+#EXTINF:-1 tvg-id="1373" tvg-name="Disney Channel" tvg-logo="https://dtil.tmsimg.com/assets/s159012_ld_h15_aa.png?lock=720x540" group-title="🧒 Kids" iptv-org-id="DisneyChannel.in@SD",Disney Channel (576p)
 http://116.90.120.149:8000/play/a124/index.m3u8
-#EXTINF:-1 tvg-id="3578" tvg-name="Disney Channel" tvg-logo="https://dtil.tmsimg.com/assets/s158843_ld_h15_aa.png?lock=720x540" group-title="🧒 Kids" iptv-org-id="DisneyChannel.in@HD",Disney Channel HD (1080p)
+#EXTINF:-1 tvg-id="1373" tvg-name="Disney Channel" tvg-logo="https://dtil.tmsimg.com/assets/s158843_ld_h15_aa.png?lock=720x540" group-title="🧒 Kids" iptv-org-id="DisneyChannel.in@HD",Disney Channel HD (1080p)
 http://116.90.120.149:8000/play/a11r/index.m3u8
 #EXTINF:-1 tvg-id="3385" tvg-name="Epic Kids" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0032BVSR.png?lock=720x540" group-title="🧒 Kids" iptv-org-id="EpicKids.in@Digital",Epic Kids Digital (1080p)
 https://cc-t8lqe1o99pszu.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-t8lqe1o99pszu/playlist.m3u8

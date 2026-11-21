@@ -204,6 +204,8 @@ https://d2lk5u59tns74c.cloudfront.net/out/v1/aed713462c734923aac946a547265288/in
 #EXTINF:-1 tvg-id="466" tvg-name="Dharm Sandesh" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Arihant_TV.png" group-title="🙏 Religious" iptv-org-id="DharmSandesh.in@SD",Dharm Sandesh (576p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://fta.ektv.in/live/625/master.m3u8
+#EXTINF:-1 tvg-id="466" tvg-name="Dharm Sandesh" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Arihant_TV.png" group-title="🙏 Religious" iptv-org-id="DharmSandesh.in@SD",Dharm Sandesh (576p)
+https://samitaorigin.tangotv.in/DHARMSANDESH/SAMITAORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="3357" tvg-name="Dharsan TV" tvg-logo="https://play-lh.googleusercontent.com/brn76ZzRlqS8ylZVVcc5ZFWcqUp36iJ82WyzwiQ8-Nqi_8pIZZ_gsMCXNn6YiLhOEQ" group-title="🙏 Religious" iptv-org-id="DharsanTV.in@SD",Dharsan TV (720p)
 https://cable91tataplay.akamaized.net/live/dharshantv/index.m3u8
 #EXTINF:-1 tvg-id="DheeranTV.in@SD" tvg-name="Dheeran TV" tvg-logo="https://i.imgur.com/jSedjXf.png" group-title="🙏 Religious",Dheeran TV (576p)
@@ -226,6 +228,10 @@ https://cdn.pishow.tv/ott/live/349/master.m3u8
 #EXTINF:-1 tvg-id="1174" tvg-name="Fateh TV" tvg-logo="https://i.imgur.com/c4ItNkB.png" group-title="🙏 Religious" iptv-org-id="FatehTV.in@SD",Fateh TV (576p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://fta.ektv.in/live/635/master.m3u8
+#EXTINF:-1 tvg-id="1174" tvg-name="Fateh TV" tvg-logo="https://i.imgur.com/c4ItNkB.png" group-title="🙏 Religious" iptv-org-id="FatehTV.in@SD",Fateh TV (576p)
+https://mumt05.tangotv.in/87NeALx2FATEHTV/index.m3u8
+#EXTINF:-1 tvg-id="1174" tvg-name="Fateh TV" tvg-logo="https://i.imgur.com/c4ItNkB.png" group-title="🙏 Religious" iptv-org-id="FatehTV.in@SD",Fateh TV (576p)
+https://samitaorigin.tangotv.in/FATEHTV/SAMITAORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="1174" tvg-name="Fateh TV" tvg-logo="https://i.imgur.com/c4ItNkB.png" group-title="🙏 Religious" iptv-org-id="FatehTV.in@SD",Fateh TV (1080p) [Not 24/7]
 https://ott.livelegitpro.in/fatehtv/fatehtv/index.m3u8
 #EXTINF:-1 tvg-id="FGNChannel.in@SD" tvg-name="FGN Channel" tvg-logo="https://yt3.googleusercontent.com/rDtVRwirMau7LnqmpkNHMrsqCQ7TtWTIbXePXFcY_GWDMs4z64A-w2XBG92t-IV4-C8UoEI=s900-c-k-c0x00ffffff-no-rj" group-title="🙏 Religious",FGN Channel (360p)
@@ -269,6 +275,8 @@ https://mumt05.tangotv.in/87NeALx2HAREKRSNA/index.m3u8
 https://mumbai-edge.smartplaytv.in/HarvestTV/index.m3u8
 #EXTINF:-1 tvg-id="HarvestTV.in@SD" tvg-name="Harvest TV" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_HARVEST_TV_24X7/images/LOGO_HD/image.png" group-title="🙏 Religious",Harvest TV (720p)
 https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvesttvlive1/bbb19eae240ec100af921d511efc86a0.sdp/index.m3u8
+#EXTINF:-1 tvg-id="HarvestTV.in@SD" tvg-name="Harvest TV" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_HARVEST_TV_24X7/images/LOGO_HD/image.png" group-title="🙏 Religious",Harvest TV (576p)
+https://samitaorigin.tangotv.in/HARVESTTV24X7/SAMITAORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="HarvestTVKeralam.in@SD" tvg-name="Harvest TV Keralam" tvg-logo="https://i.imgur.com/1DyPuIt.png" group-title="🙏 Religious",Harvest TV Keralam (720p)
 https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvestenglish/d1796a22d24e8696c7d5d0b5c349fdd2.sdp/index.m3u8
 #EXTINF:-1 tvg-id="HarvestUSA.in@SD" tvg-name="Harvest USA" tvg-logo="" group-title="🙏 Religious",Harvest USA (576p)
@@ -307,6 +315,8 @@ https://mumt05.tangotv.in/87NeALx2ISHWARBHAKTI/index.m3u8
 https://fta.ektv.in/live/169/master.m3u8
 #EXTINF:-1 tvg-id="596" tvg-name="Jinvani Channel" tvg-logo="https://dtil.tmsimg.com/assets/s143230_ld_h15_aa.png?lock=720x540" group-title="🙏 Religious" iptv-org-id="JinvaniChannel.in@SD",Jinvani Channel (576p)
 https://mumt03.tangotv.in/Dsly5z3HJINVANI/index.m3u8
+#EXTINF:-1 tvg-id="596" tvg-name="Jinvani Channel" tvg-logo="https://dtil.tmsimg.com/assets/s143230_ld_h15_aa.png?lock=720x540" group-title="🙏 Religious" iptv-org-id="JinvaniChannel.in@SD",Jinvani Channel (576p)
+https://samitaorigin.tangotv.in/JINVANI/SAMITAORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="JoyTV.in@SD" tvg-name="Joy TV" tvg-logo="https://joytvchennai.org/wp-content/uploads/2026/04/cropped-512.png" group-title="🙏 Religious",Joy TV (1080p)
 https://ktismaservers.in:3412/live/joytvlive.m3u8
 #EXTINF:-1 tvg-id="JoyTV.in@SD" tvg-name="Joy TV" tvg-logo="https://joytvchennai.org/wp-content/uploads/2026/04/cropped-512.png" group-title="🙏 Religious",Joy TV (576p)
@@ -351,6 +361,8 @@ https://fta.ektv.in/live/637/master.m3u8
 https://mumbai-edge.smartplaytv.in/MercyTV/index.m3u8
 #EXTINF:-1 tvg-id="924" tvg-name="Mercy TV" tvg-logo="https://i.imgur.com/klNH4tV.png" group-title="🙏 Religious" iptv-org-id="MercyTV.in@SD",Mercy TV (576p)
 https://mumt03.tangotv.in/Dsly5z3HMERCYTV/index.m3u8
+#EXTINF:-1 tvg-id="924" tvg-name="Mercy TV" tvg-logo="https://i.imgur.com/klNH4tV.png" group-title="🙏 Religious" iptv-org-id="MercyTV.in@SD",Mercy TV (576p)
+https://samitaorigin.tangotv.in/MERCYTV/SAMITAORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="MHOneShraddha.in@SD" tvg-name="MH One Shraddha" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002NFEZK.png?lock=720x540" group-title="🙏 Religious",MH One Shraddha (576p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://fta.ektv.in/live/344/master.m3u8
@@ -391,6 +403,8 @@ https://fta.ektv.in/live/170/master.m3u8
 https://mumbai-edge.smartplaytv.in/PeaceOfMind/index.m3u8
 #EXTINF:-1 tvg-id="794" tvg-name="Peace of Mind TV" tvg-logo="https://dtil.tmsimg.com/assets/s143646_ld_h15_aa.png?lock=720x540" group-title="🙏 Religious" iptv-org-id="PeaceofMindTV.in@SD",Peace of Mind TV (576p)
 https://mumt03.tangotv.in/Dsly5z3HPEACEOFMIND/index.m3u8
+#EXTINF:-1 tvg-id="794" tvg-name="Peace of Mind TV" tvg-logo="https://dtil.tmsimg.com/assets/s143646_ld_h15_aa.png?lock=720x540" group-title="🙏 Religious" iptv-org-id="PeaceofMindTV.in@SD",Peace of Mind TV (576p)
+https://samitaorigin.tangotv.in/PEACEOFMIND/SAMITAORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="794" tvg-name="Peace of Mind TV" tvg-logo="https://dtil.tmsimg.com/assets/s143646_ld_h15_aa.png?lock=720x540" group-title="🙏 Religious" iptv-org-id="PeaceofMindTV.in@SD",Peace of Mind TV (576p)
 https://yuppnimrestreammum.akamaized.net/181224/smil:peaceofmind.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 #EXTINF:-1 tvg-id="1975" tvg-name="PMC Telugu" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/PMC_Telugu.png" group-title="🙏 Religious" iptv-org-id="PMCTelugu.in@SD",PMC Telugu (1080p)
