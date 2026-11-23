@@ -248,6 +248,8 @@ https://mumt03.tangotv.in/Dsly5z3HBRKNEWS/index.m3u8
 https://samitaorigin.tangotv.in/BRKNEWS/SAMITAORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="2765" tvg-name="BSTV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/BSTV.png" group-title="📰 News" iptv-org-id="BSTV.in@SD",BSTV (720p)
 https://samitaorigin.tangotv.in/BSTV/SAMITAORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="2765" tvg-name="BSTV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/BSTV.png" group-title="📰 News" iptv-org-id="BSTV.in@SD",BSTV (720p)
+https://zkpywwqbybeg-hls-live.5centscdn.com/bstv/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="2765" tvg-name="BSTV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/BSTV.png" group-title="📰 News" iptv-org-id="BSTV.in@SD",BSTV (576p)
 https://mumt07.tangotv.in/zHjX9OFlBSTV/index.m3u8
 #EXTINF:-1 tvg-id="BTTV.in@SD" tvg-name="BT TV" tvg-logo="https://akm-img-a-in.tosshub.com/businesstoday/resource/img/best-bank-new.png" group-title="📰 News",BT TV (720p)
@@ -619,6 +621,8 @@ https://fta.ektv.in/live/669/master.m3u8
 https://live-kanaknews.videostech.cloud/master.m3u8
 #EXTINF:-1 tvg-id="718" tvg-name="Kanak News" tvg-logo="https://dtil.tmsimg.com/assets/s143252_ld_h15_aa.png?lock=720x540" group-title="📰 News" iptv-org-id="KanakNews.in@SD",Kanak News (576p)
 https://mumbai-edge.smartplaytv.in/kanaknews/index.m3u8
+#EXTINF:-1 tvg-id="KannurVision.in@SD" tvg-name="Kannur Vision" tvg-logo="https://i.imgur.com/FCXqPer.png" group-title="📰 News",Kannur Vision (1080p)
+https://stream.logichost.in/kannurvision/live/playlist.m3u8
 #EXTINF:-1 tvg-id="3461" tvg-name="Karnataka News Beat" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/newsbeatkarnataka.png" group-title="📰 News" iptv-org-id="KarnatakaNewsBeat.in@SD",Karnataka News Beat (1080p)
 https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/d0f1a078-3293-4f87-80ac-34cff3279b0d/index.m3u8
 #EXTINF:-1 tvg-id="770" tvg-name="Kashish News" tvg-logo="https://i.imgur.com/qfINs2r.png" group-title="📰 News" iptv-org-id="KashishNews.in@SD",Kashish News (720p)

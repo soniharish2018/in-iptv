@@ -1,3 +1,0 @@
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/mitthu786/tvepg/main/epg.xml.gz" url-tvg="https://raw.githubusercontent.com/mitthu786/tvepg/main/epg.xml.gz"
-#EXTINF:-1 tvg-id="541" tvg-name="Discovery Turbo" tvg-logo="https://dtil.tmsimg.com/assets/s159108_ld_h15_aa.png?lock=720x540" group-title="🚗 Auto" iptv-org-id="DiscoveryTurbo.in@SD",Discovery Turbo (576p)
-http://116.90.120.149:8000/play/a11d/index.m3u8
