@@ -346,6 +346,8 @@ https://d1msejlow1t3l4.cloudfront.net/fta/mahaabhakti/playlist.m3u8
 https://fta.ektv.in/live/707/master.m3u8
 #EXTINF:-1 tvg-id="3239" tvg-name="Mahaa Bhakti" tvg-logo="https://yt3.googleusercontent.com/OWECRvCVJh-dXU2MTRZhMRIDvFvcWan0YMoWWfXsM5_WEHobQy2QoHQbGr7AZUXzMOByTMAXbg=s900-c-k-c0x00ffffff-no-rj" group-title="🙏 Religious" iptv-org-id="MahaaBhakti.in@SD",Mahaa Bhakti (576p)
 https://mumt01.tangotv.in/O5aw8Zn3MAHABHAKTI/index.m3u8
+#EXTINF:-1 tvg-id="MahimaiTV.in@SD" tvg-name="Mahimai TV" tvg-logo="https://mahimaitv.com/images/mahimaitamil.png" group-title="🙏 Religious",Mahimai TV (1080p)
+https://ktismaservers.in:3161/live/mahimaitvlive.m3u8
 #EXTINF:-1 tvg-id="MahimaiTV.in@SD" tvg-name="Mahimai TV" tvg-logo="https://mahimaitv.com/images/mahimaitamil.png" group-title="🙏 Religious",Mahimai TV (576p)
 https://mahimai.iptelevision.live/mahimaitv/video.m3u8
 #EXTINF:-1 tvg-id="3295" tvg-name="Mahotsav TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Mahotsav_TV.png" group-title="🙏 Religious" iptv-org-id="MahotsavTV.in@SD",Mahotsav TV (576p)
