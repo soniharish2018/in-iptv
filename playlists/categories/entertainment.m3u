@@ -34,6 +34,8 @@ https://fta.ektv.in/live/697/master.m3u8
 https://mumt03.tangotv.in/Dsly5z3HASIANETMIDDLEEAST/index.m3u8
 #EXTINF:-1 tvg-id="3029" tvg-name="Bollywood Masala" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/bollywoodmasala.png" group-title="🌟 Entertainment" iptv-org-id="BollywoodMasala.in@SD",Bollywood Masala (1080p)
 https://lamhas.net/bollywoodmasala/index.m3u8
+#EXTINF:-1 tvg-id="CCNET.in@SD" tvg-name="CC NET" tvg-logo="https://play-lh.googleusercontent.com/q5iULjQ59LU1X_ExM6aKYQk64fouGbzBtdKTgNSgO8sHdGfTcgcbIaunns9pATnwu2ttBpAm-DftDzV6u-ClJg8" group-title="🌟 Entertainment",CC NET (1080p)
+https://live.skystream.in/live/ccnet7082/index.m3u8
 #EXTINF:-1 tvg-id="CCTVKunnamkulam.in@SD" tvg-name="CCTV Kunnamkulam" tvg-logo="https://i.ibb.co/ndPywxZ/cctv-logo.jpg" group-title="🌟 Entertainment",CCTV Kunnamkulam (720p)
 https://96vd9q4kyxq7-hls-live.5centscdn.com/livestream/f25aeb3e9210967d546a077de6e105e4.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="3518" tvg-name="Cine Jomjomat" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Cine_Jomjomat.png" group-title="🌟 Entertainment" iptv-org-id="CineJomjomat.in@SD",Cine Jomjomat (1080p)
@@ -48,13 +50,13 @@ https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ColorsGujarati.m3u8
 #EXTINF:-1 tvg-id="757" tvg-name="Colors Kannada" tvg-logo="https://dtil.tmsimg.com/assets/s158235_ld_h15_aa.png?lock=720x540" group-title="🌟 Entertainment" iptv-org-id="ColorsKannada.in@HD",Colors Kannada HD (1080i)
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorskannadahd1.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="1326" tvg-name="Colors Marathi" tvg-logo="https://dtil.tmsimg.com/assets/s158237_ld_h15_aa.png?lock=720x540" group-title="🌟 Entertainment" iptv-org-id="ColorsMarathi.in@HD",Colors Marathi HD (720p)
+#EXTINF:-1 tvg-id="755" tvg-name="Colors Marathi" tvg-logo="https://dtil.tmsimg.com/assets/s158237_ld_h15_aa.png?lock=720x540" group-title="🌟 Entertainment" iptv-org-id="ColorsMarathi.in@HD",Colors Marathi HD (720p)
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorsmarathihd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ColorsMENA.in@HD" tvg-name="Colors MENA" tvg-logo="https://i.imgur.com/LjNFTdC.png" group-title="🌟 Entertainment",Colors MENA HD (720p)
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorsme.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="785" tvg-name="Colors Super" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_SUPER/images/LOGO_HD/image.png" group-title="🌟 Entertainment" iptv-org-id="ColorsSuper.in@SD",Colors Super (396p)
 https://d1rc86nwwc9fag.cloudfront.net/260723/smil:colorssuper1.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
-#EXTINF:-1 tvg-id="429" tvg-name="Colors Tamil" tvg-logo="https://dtil.tmsimg.com/assets/s158241_ld_h15_aa.png?lock=720x540" group-title="🌟 Entertainment" iptv-org-id="ColorsTamil.in@HD",Colors Tamil HD (720p)
+#EXTINF:-1 tvg-id="1371" tvg-name="Colors Tamil" tvg-logo="https://dtil.tmsimg.com/assets/s158241_ld_h15_aa.png?lock=720x540" group-title="🌟 Entertainment" iptv-org-id="ColorsTamil.in@HD",Colors Tamil HD (720p)
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorstamilhd11.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="701" tvg-name="Dangal 2" tvg-logo="https://i.imgur.com/BEr1r7L.png" group-title="🌟 Entertainment" iptv-org-id="Dangal2.in@SD",Dangal 2 (720p)
 https://live-dangal2.akamaized.net/liveabr/playlist.m3u8
@@ -95,6 +97,8 @@ https://desichannel.kableone.com/desichannel/master.m3u8
 https://livestream.unlimitedcdn.com/agm-dc/desi-channel/index.m3u8
 #EXTINF:-1 tvg-id="DrishyaTV.in@SD" tvg-name="Drishya TV" tvg-logo="https://play-lh.googleusercontent.com/P1gCOSlZjwEzxi6wy4zcvqYwBf6SdTXiGhnuIAIW8lNu9Ka-v28vXz2vUFqwFXQH6mCeFkQdphJVjYK0Qj30hQ=w240-h480-rw" group-title="🌟 Entertainment",Drishya TV (576p)
 https://live.skystream.in/live/drishya5060/index.m3u8
+#EXTINF:-1 tvg-id="DrisyaNewsPala.in@SD" tvg-name="Drisya News Pala" tvg-logo="https://play-lh.googleusercontent.com/9HetsKoBEAixDgC6P9kKuy7EqiPmd2wUewuaD0-DuDbBxrHmQPTGIsc6DtZd5nmj5pod-mHLlIWJMOFlsC0XPWA" group-title="🌟 Entertainment",Drisya News Pala (576p)
+https://live.skystream.in/live/DrisyaPala2924/index.m3u8
 #EXTINF:-1 tvg-id="DrisyaTV.in@SD" tvg-name="Drisya TV" tvg-logo="https://play-lh.googleusercontent.com/8O2ugQ2n4Y3Mt8j4sfTd52RizgIJwbu7U1mtF3Fk1hDbXc3yIGgvFqriLoO2InOX0ajgwaITdnGJV_w6HRac0Q" group-title="🌟 Entertainment",Drisya TV (576p)
 https://live.skystream.in/live/drishyakarunagapally/index.m3u8
 #EXTINF:-1 tvg-id="591" tvg-name="E 24" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_E24/images/LOGO_HD/image.png" group-title="🌟 Entertainment" iptv-org-id="E24.in@SD",E 24 (576p)
@@ -126,17 +130,17 @@ https://d1fodel5fjpe8b.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://cc-uyh1ow5zouoio.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-uyh1ow5zouoio/WWBI/Amagi/ETV_Josh_IN/playlist.m3u8
 #EXTINF:-1 tvg-id="3560" tvg-name="ETV Josh" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ETV_Josh.png" group-title="🌟 Entertainment" iptv-org-id="ETVJosh.in@HD",ETV Josh (1080p)
 https://cc-uyh1ow5zouoio.akamaized.net/WWBI/Amagi/ETV_Josh_IN/playlist.m3u8
-#EXTINF:-1 tvg-id="2956" tvg-name="ETV Plus" tvg-logo="https://dtil.tmsimg.com/assets/s143030_ld_h15_aa.png?lock=720x540" group-title="🌟 Entertainment" iptv-org-id="ETVPlus.in@SD",ETV Plus (396p)
+#EXTINF:-1 tvg-id="692" tvg-name="ETV Plus" tvg-logo="https://dtil.tmsimg.com/assets/s143030_ld_h15_aa.png?lock=720x540" group-title="🌟 Entertainment" iptv-org-id="ETVPlus.in@SD",ETV Plus (396p)
 https://yupplivegcpusa.yuppcdn.net/100823/smil:etvplus.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
-#EXTINF:-1 tvg-id="2956" tvg-name="ETV Plus" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/ETV-plus-HD-Logo_2000_X_1125_Transpharent.png" group-title="🌟 Entertainment" iptv-org-id="ETVPlus.in@HD",ETV Plus HD (1080p)
+#EXTINF:-1 tvg-id="692" tvg-name="ETV Plus" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/ETV-plus-HD-Logo_2000_X_1125_Transpharent.png" group-title="🌟 Entertainment" iptv-org-id="ETVPlus.in@HD",ETV Plus HD (1080p)
 https://d1qqzrxc7kpb0u.cloudfront.net/v1/50e3ae620bd6496cb3ac4294c877c36a/airtTA6RA.m3u8
-#EXTINF:-1 tvg-id="2956" tvg-name="ETV Plus" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/ETV-plus-HD-Logo_2000_X_1125_Transpharent.png" group-title="🌟 Entertainment" iptv-org-id="ETVPlus.in@HD",ETV Plus HD (1080p)
+#EXTINF:-1 tvg-id="692" tvg-name="ETV Plus" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/ETV-plus-HD-Logo_2000_X_1125_Transpharent.png" group-title="🌟 Entertainment" iptv-org-id="ETVPlus.in@HD",ETV Plus HD (1080p)
 https://d1uffhsps81sqa.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_PLUS_H264-5_cloud_in/index.m3u8
-#EXTINF:-1 tvg-id="2956" tvg-name="ETV Plus" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/ETV-plus-HD-Logo_2000_X_1125_Transpharent.png" group-title="🌟 Entertainment" iptv-org-id="ETVPlus.in@HD",ETV Plus HD (1080p)
+#EXTINF:-1 tvg-id="692" tvg-name="ETV Plus" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/ETV-plus-HD-Logo_2000_X_1125_Transpharent.png" group-title="🌟 Entertainment" iptv-org-id="ETVPlus.in@HD",ETV Plus HD (1080p)
 https://d2qbg25361k63d.cloudfront.net/7d95c8f44ab14e1196e5c2df9189b33a/etvL76H6_5.m3u8
-#EXTINF:-1 tvg-id="2956" tvg-name="ETV Plus" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/ETV-plus-HD-Logo_2000_X_1125_Transpharent.png" group-title="🌟 Entertainment" iptv-org-id="ETVPlus.in@HD",ETV Plus HD (1080p)
+#EXTINF:-1 tvg-id="692" tvg-name="ETV Plus" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/ETV-plus-HD-Logo_2000_X_1125_Transpharent.png" group-title="🌟 Entertainment" iptv-org-id="ETVPlus.in@HD",ETV Plus HD (1080p)
 https://d12ee3o8yfkkhd.cloudfront.net/c6a4b411295f47f48c908d2ac0605bad/index.m3u8
-#EXTINF:-1 tvg-id="2956" tvg-name="ETV Plus" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/ETV-plus-HD-Logo_2000_X_1125_Transpharent.png" group-title="🌟 Entertainment" iptv-org-id="ETVPlus.in@HD",ETV Plus HD (1080p)
+#EXTINF:-1 tvg-id="692" tvg-name="ETV Plus" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/ETV-plus-HD-Logo_2000_X_1125_Transpharent.png" group-title="🌟 Entertainment" iptv-org-id="ETVPlus.in@HD",ETV Plus HD (1080p)
 https://mumbai-edge.smartplaytv.in/ETVPLUS/index.m3u8
 #EXTINF:-1 tvg-id="629" tvg-name="ETV Telugu" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002EF2L0.png?lock=720x540" group-title="🌟 Entertainment" iptv-org-id="ETVTelugu.in@HD",ETV Telugu HD (1080p)
 https://d1qkhu31k9gfli.cloudfront.net/v1/a801314f85894ba289029d23aae579a7/airt16KSW.m3u8
@@ -201,6 +205,8 @@ https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main
 https://samitaorigin.tangotv.in/JAIHIND/SAMITAORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="465" tvg-name="Jaihind TV" tvg-logo="https://dtil.tmsimg.com/assets/s143217_ld_h15_aa.png?lock=720x540" group-title="🌟 Entertainment" iptv-org-id="JaihindTV.in@SD",Jaihind TV (396p)
 https://yuppnimrestreammum.akamaized.net/260723/smil:jaihind1.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+#EXTINF:-1 tvg-id="K7KeralamChannel.in@SD" tvg-name="K7 Keralam Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9HJ1d-xOsWKg7ZYyU7algdOhJspVrXQUvQnCxqKfsrw&s=10" group-title="🌟 Entertainment",K7 Keralam Channel (1080p)
+https://live.skystream.in/live/keralam2742/index.m3u8
 #EXTINF:-1 tvg-id="KalaignarMurasu.in@SD" tvg-name="Kalaignar Murasu" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Murasu%20TV.png" group-title="🌟 Entertainment",Kalaignar Murasu (396p)
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/murasu_nim_https/050522/murasu/playlist.m3u8
 #EXTINF:-1 tvg-id="KalaignarMurasu.in@SD" tvg-name="Kalaignar Murasu" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Murasu%20TV.png" group-title="🌟 Entertainment",Kalaignar Murasu (396p) [Not 24/7]
@@ -540,15 +546,15 @@ https://amg00862-amg00862c6-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-a
 https://amg00862-amg00862c7-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c7-amgplt0173/playlist.m3u8
 #EXTINF:-1 tvg-id="689" tvg-name="Zee Kannada" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022S209.png?lock=720x540" group-title="🌟 Entertainment" iptv-org-id="ZeeKannada.in@HD",Zee Kannada HD (1080p)
 https://yuppnimresmum.akamaized.net/28072023/smil:zeekannadahd.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
-#EXTINF:-1 tvg-id="445" tvg-name="Zee Marathi" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00233VCK.png?lock=720x540" group-title="🌟 Entertainment" iptv-org-id="ZeeMarathi.in@HD",Zee Marathi HD (720p)
+#EXTINF:-1 tvg-id="1360" tvg-name="Zee Marathi" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00233VCK.png?lock=720x540" group-title="🌟 Entertainment" iptv-org-id="ZeeMarathi.in@HD",Zee Marathi HD (720p)
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeMarathiHD.m3u8
 #EXTINF:-1 tvg-id="628" tvg-name="Zee Tamil" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022S29Y.png?lock=720x540" group-title="🌟 Entertainment" iptv-org-id="ZeeTamil.in@SD",Zee Tamil (576p) [Geo-blocked]
 https://ev-eu-hw-fast-mpd.starzplayarabia.com/Zee_Tamil/dash/drm/index.mpd
 #EXTINF:-1 tvg-id="628" tvg-name="Zee Tamil" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00233WCL.png?lock=720x540" group-title="🌟 Entertainment" iptv-org-id="ZeeTamil.in@HD",Zee Tamil HD (720p)
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:zeetamil1.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="638" tvg-name="Zee Telugu" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022S99J.png?lock=720x540" group-title="🌟 Entertainment" iptv-org-id="ZeeTelugu.in@HD",Zee Telugu HD (720p)
+#EXTINF:-1 tvg-id="1354" tvg-name="Zee Telugu" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022S99J.png?lock=720x540" group-title="🌟 Entertainment" iptv-org-id="ZeeTelugu.in@HD",Zee Telugu HD (720p)
 https://listas-m3u8.github.io/iptv/128.19.173.10:8888/ZEETELUGUHD.m3u8
-#EXTINF:-1 tvg-id="638" tvg-name="Zee Telugu" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022S99J.png?lock=720x540" group-title="🌟 Entertainment" iptv-org-id="ZeeTelugu.in@HD",Zee Telugu HD (576p)
+#EXTINF:-1 tvg-id="1354" tvg-name="Zee Telugu" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022S99J.png?lock=720x540" group-title="🌟 Entertainment" iptv-org-id="ZeeTelugu.in@HD",Zee Telugu HD (576p)
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeTeluguHD.m3u8
 #EXTINF:-1 tvg-id="Zingabad.in@SD" tvg-name="Zingabad" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/logos/channel/logos/zingabad.png" group-title="🌟 Entertainment",Zingabad (1080p)
 https://stream.ottlive.co.in/zingabad/index.m3u8

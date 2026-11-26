@@ -444,6 +444,8 @@ https://fta.ektv.in/live/620/master.m3u8
 https://mumt05.tangotv.in/87NeALx2SADHNATV/index.m3u8
 #EXTINF:-1 tvg-id="2028" tvg-name="Sadvidya TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sadvidya_TV.png" group-title="🙏 Religious" iptv-org-id="SadvidyaTV.in@SD",Sadvidya TV (720p)
 https://server.thelegitpro.in/sadvidya/sadvidya/index.m3u8
+#EXTINF:-1 tvg-id="2028" tvg-name="Sadvidya TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sadvidya_TV.png" group-title="🙏 Religious" iptv-org-id="SadvidyaTV.in@SD",Sadvidya TV (720p)
+https://stream.ottlive.co.in/sadvidya/index.m3u8
 #EXTINF:-1 tvg-id="SairamTV.in@SD" tvg-name="Sairam TV" tvg-logo="" group-title="🙏 Religious",Sairam TV (576p)
 https://cdn.pishow.tv/ott/live/1611/master.m3u8
 #EXTINF:-1 tvg-id="SairamTV.in@SD" tvg-name="Sairam TV" tvg-logo="" group-title="🙏 Religious",Sairam TV (576p)

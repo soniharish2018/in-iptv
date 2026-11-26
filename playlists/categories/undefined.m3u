@@ -149,6 +149,8 @@ https://fta.ektv.in/live/626/master.m3u8
 https://mumt03.tangotv.in/Dsly5z3HSHUBHTV/index.m3u8
 #EXTINF:-1 tvg-id="828" tvg-name="Shubh TV" tvg-logo="https://dtil.tmsimg.com/assets/s143783_ld_h15_aa.png?lock=720x540" group-title="❓ Undefined" iptv-org-id="ShubhTV.in@SD",Shubh TV (576p)
 https://samitaorigin.tangotv.in/SHUBHTV/SAMITAORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="1561" tvg-name="Sristi TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sristi_TV.png" group-title="❓ Undefined" iptv-org-id="SristiTV.in@SD",Sristi TV (1080p)
+https://stream.ottlive.co.in/sristitv/index.m3u8
 #EXTINF:-1 tvg-id="791" tvg-name="Taaza TV" tvg-logo="https://i.imgur.com/4nTpQLC.png" group-title="❓ Undefined" iptv-org-id="TaazaTV.in@SD",Taaza TV (720p)
 https://live.we2live.in/taazatv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="791" tvg-name="Taaza TV" tvg-logo="https://i.imgur.com/4nTpQLC.png" group-title="❓ Undefined" iptv-org-id="TaazaTV.in@SD",Taaza TV (576p)
