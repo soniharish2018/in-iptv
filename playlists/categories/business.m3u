@@ -22,6 +22,8 @@ https://ndtvprofit.akamaized.net/hls/live/2107404/ndtvprofit/master_1.m3u8
 https://cdn.pishow.tv/ott/live/1287/master.m3u8
 #EXTINF:-1 tvg-id="3584" tvg-name="News Capital Market" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NewsCapitalMarket.png" group-title="💼 Business" iptv-org-id="NewsCapitalMarket.in@SD",News Capital Market (1080p)
 https://newscapital.com/hls/stream.m3u8?token=Nc360PermanentSecureKey987
+#EXTINF:-1 tvg-id="RepublicBusiness.in@SD" tvg-name="Republic Business" tvg-logo="https://yt3.googleusercontent.com/Q1oCTccWVtIPxZA79uKM6Qnm4h3s0Jo1Ipx2FHldTh-u1RNGIMfQD6_VIfM8BYcAvP2We6ydRVE=s900-c-k-c0x00ffffff-no-rj" group-title="💼 Business",Republic Business (576p) [Geo-blocked]
+https://rbusiness.cdn.runn.tv/amg01218c8/hls.m3u8
 #EXTINF:-1 tvg-id="TheBonus.in@SD" tvg-name="The Bonus" tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/bonus-1792417058870.jpg" group-title="💼 Business",The Bonus (1080p)
 https://stream.ottlive.co.in/thebonus/index.m3u8
 #EXTINF:-1 tvg-id="657" tvg-name="Zee Business" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00230YYJ.png?lock=720x540" group-title="💼 Business" iptv-org-id="ZeeBusiness.in@SD",Zee Business (1080p)

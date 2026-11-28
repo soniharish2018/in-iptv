@@ -37,6 +37,8 @@ https://mumt05.tangotv.in/87NeALx2B4UBHOJPURI/index.m3u8
 https://streams.tangotv.in/B4UBHOJPURI/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="1296" tvg-name="B4U Bhojpuri" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN39000307N_20260623T013644SQUARE.png" group-title="🎬 Movies" iptv-org-id="B4UBhojpuri.in@Plus",B4U Bhojpuri Plus (1080p)
 https://cc-t2mudtkmuz4wb.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-t2mudtkmuz4wb/B4U_Bhojpuri/master.m3u8
+#EXTINF:-1 tvg-id="1296" tvg-name="B4U Bhojpuri" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN39000307N_20260623T013644SQUARE.png" group-title="🎬 Movies" iptv-org-id="B4UBhojpuri.in@Plus",B4U Bhojpuri Plus (576p) [Geo-blocked]
+https://b4u-bhojpuri.cdn.runn.tv/master.m3u8
 #EXTINF:-1 tvg-id="1295" tvg-name="B4U Kadak" tvg-logo="https://dtil.tmsimg.com/assets/s142695_ld_h15_aa.png?lock=720x540" group-title="🎬 Movies" iptv-org-id="B4UKadak.in@SD",B4U Kadak (1080p)
 https://amg01408-amg01408c6-amgplt0747.playout.now3.amagi.tv/b4ua001/playlist.m3u8
 #EXTINF:-1 tvg-id="1295" tvg-name="B4U Kadak" tvg-logo="https://dtil.tmsimg.com/assets/s142695_ld_h15_aa.png?lock=720x540" group-title="🎬 Movies" iptv-org-id="B4UKadak.in@SD",B4U Kadak (576p)
@@ -249,8 +251,6 @@ https://samitaorigin.tangotv.in/SONARBANGLA/SAMITAORIGIN/index.m3u8
 https://samitaorigin.tangotv.in/SONERICINEMA/SAMITAORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="289" tvg-name="Sony Max" tvg-logo="https://dtil.tmsimg.com/assets/s157590_ld_h15_aa.png?lock=720x540" group-title="🎬 Movies" iptv-org-id="SonyMax.in@SD",Sony Max (720p)
 https://drk6xq0vhn.gpcdn.net/hls/set_max_m4fb8dz2wp6kr9s_720/index.m3u8
-#EXTINF:-1 tvg-id="289" tvg-name="Sony Max" tvg-logo="https://dtil.tmsimg.com/assets/s157590_ld_h15_aa.png?lock=720x540" group-title="🎬 Movies" iptv-org-id="SonyMax.in@HD",Sony Max HD (1080p)
-https://rangdhonulive.samiulislamabhi.workers.dev/sonyMAXhd/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="1393" tvg-name="Sony Wah" tvg-logo="https://raw.githubusercontent.com/m3u-iptv/live/refs/heads/main/Images/Sony_Wah.png" group-title="🎬 Movies" iptv-org-id="SonyWah.in@SD",Sony Wah (576p)
 http://163.61.226.31:9981/stream/channelid/1743466790?profile=pass
 #EXTINF:-1 tvg-id="SouthStation.in@HD" tvg-name="South Station" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3800008CX_20260325T012316SQUARE.png" group-title="🎬 Movies",South Station (1080p)
@@ -287,7 +287,7 @@ https://server.zillarbarta.com/ZBCINEMA/index.m3u8
 #EXTINF:-1 tvg-id="488" tvg-name="Zee Action" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022K5ZV.png?lock=720x540" group-title="🎬 Movies" iptv-org-id="ZeeAction.in@SD",Zee Action (576p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
 http://103.175.73.12:8080/live/270/270_0.m3u8
-#EXTINF:-1 tvg-id="484" tvg-name="Zee Cinema" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022HVX3.png?lock=720x540" group-title="🎬 Movies" iptv-org-id="ZeeCinema.in@APAC",Zee Cinema APAC (720p)
+#EXTINF:-1 tvg-id="165" tvg-name="Zee Cinema" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022HVX3.png?lock=720x540" group-title="🎬 Movies" iptv-org-id="ZeeCinema.in@APAC",Zee Cinema APAC (720p)
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/sg/YuppTV/ZeeCinemaAPAC.m3u8
 #EXTINF:-1 tvg-id="0-9-9z51072894" tvg-name="Zee South Flix" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zsouthflix.png" group-title="🎬 Movies" iptv-org-id="ZeeSouthFlix.in@HD",Zee South Flix (1080p)
 https://amg00862-amg00862c9-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c9-amgplt0173/playlist.m3u8

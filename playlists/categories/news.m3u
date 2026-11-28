@@ -1199,6 +1199,8 @@ https://fta.ektv.in/live/182/master.m3u8
 https://mumt06.tangotv.in/qYyB8fXVPTCNEWS/index.m3u8
 #EXTINF:-1 tvg-id="1170" tvg-name="PTC News" tvg-logo="https://dtil.tmsimg.com/assets/s143683_ld_h15_aa.png?lock=720x540" group-title="📰 News" iptv-org-id="PTCNews.in@SD",PTC News (576p)
 https://streams.tangotv.in/PTCNEWS/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="1170" tvg-name="PTC News" tvg-logo="https://dtil.tmsimg.com/assets/s143683_ld_h15_aa.png?lock=720x540" group-title="📰 News" iptv-org-id="PTCNews.in@SD",PTC News (576p) [Geo-blocked]
+https://ptc.cdn.runn.tv/ptc_newsCDN/master/playlist.m3u8
 #EXTINF:-1 tvg-id="2957" tvg-name="Public First" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Public_First.png" group-title="📰 News" iptv-org-id="PublicFirst.in@SD",Public First (576p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
 http://103.175.73.12:8080/live/237/237_0.m3u8
